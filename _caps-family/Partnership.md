@@ -22,3 +22,10 @@ Our Parent Support Group (PSG) plays a pivotal role in facilitating and assistin
   
 
 To join the PSG@CAPS family, please scan the QR code and complete the registration form:
+
+![](/images/PSG%20QR%20Code.jpeg)
+
+___
+
+Community involvement is an important form of support to provide authentic learning beyond the school. The community partners emphasise a broader development of personal and social skills. The school collaborates with Family Matters@School to conduct workshops for parents and organise the Dad’s for Life programme to promote parental involvement in school. We open our doors to external organisations such the Kindergartens in Pasir Ris and the Lions Befrienders for the Elderly. These organisations provide the resources, expertise and opportunities for students to contribute to the community.
+
