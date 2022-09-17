@@ -32,4 +32,4 @@ Community involvement is an important form of support to provide authentic learn
 <img src="/images/Picture.png" 
      style="width:50%;float:left">
 		 <img src="/images/Picture2.png" 
-     style="width:50%;float:left">
+     style="width:50%">
