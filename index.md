@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Casuarina Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo (2).png
 permalink: /
 notification: ""
 sections:
@@ -16,3 +16,4 @@ sections:
           description: ""
           url: /highlights
 ---
+
