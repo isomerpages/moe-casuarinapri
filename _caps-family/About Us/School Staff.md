@@ -4,14 +4,10 @@ permalink: /caps-family/About-Us/School-Staff/
 description: ""
 third_nav_title: About Us
 ---
-
-
 |School Leaders|  |
 | -------- | -------- | 
 | Principal|Mrs Pek Kwee Lan     
-|Vice Principals | Mr Steven Wong Junfu<br>Mr Tayeb Rajib     |
-
-****
+|Vice Principals | Mr Steven Wong Junfu<br>Mr Tayeb Rajib  
 
 | Heads of Department| |
 | -------- | -------- | 
@@ -24,4 +20,21 @@ third_nav_title: About Us
 |HOD / Student Management|Mrs Mohsan - Farah Bte N Mohd
 |HOD / CCE|Mdm Tang Shunting
 |School Staff Developer|Miss Yong Lee Hoong Sally
+
+| Year Heads| |
+| -------- | -------- | 
+|Year Head (P1-2)|Mrs Ho - Tan Chay Shwan
+|Year Head (P3-4)|Mdm Lau Jye Yu Jocelyn
+|Year Head (P5-6)|Mdm See Huey Kean Leana
+
+| Subject Heads/Level Heads| |
+| -------- | -------- | 
+|LH / English Language|Mrs Nancy Lim - Low Mui Kian
+|LH / Mathematics|Mr Lim Kwee Beng (Ben)
+|SH / Chinese Language|Mdm Yeow Wai Foong
+|SH / Aesthetics|Mdm Hayati Bte Manshor
+|SH / Student Leadership|Ms Siti Fauziah Bte Basri
+|SH / Pastoral Care|Mdm Norazlin Bte A Rahman
+|SH/CCE|Mdm Kasthuri Krishnan (Mrs Cilan)
+|SH / Special Education Needs|Mdm Low Xiaoxuan
 
