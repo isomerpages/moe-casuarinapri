@@ -39,7 +39,7 @@ Community involvement is an important form of support to provide authentic learn
 | -------- | -------- | 
 | Dad's for Life - Candle Making Workshop     | Dads for Life cum Mother's Day Celebration     |
 
-<img src="/images/Picture.png" 
+<img src="/images/" 
      style="width:50%;float:left">
 		 <img src="/images/Eco%20Parents.jpeg" 
      style="width:50%">
@@ -47,3 +47,12 @@ Community involvement is an important form of support to provide authentic learn
 |||
 | -------- | -------- | 
 | Mother's Day Celebration @ CAPS    | Eco Parents   |
+
+<img src="/images/Our%20PSG%20Gardening%20Mums.jpeg" 
+     style="width:50%;float:left">
+		 <img src="/images/Our%20Supportive%20Dads.jpeg" 
+     style="width:50%">
+
+|||
+| -------- | -------- | 
+| Our PSG Gardening Mums    | Our Supportive Dads   |
