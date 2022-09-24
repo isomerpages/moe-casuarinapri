@@ -56,3 +56,18 @@ Community involvement is an important form of support to provide authentic learn
 |||
 | -------- | -------- | 
 | Our PSG Gardening Mums    | Our Supportive Dads   |
+
+<img src="/images/Outreach%20to%20the%20Kindergartens.jpeg" 
+     style="width:50%;float:left">
+		 <img src="/images/PSG%20Networking%20and%20CNY%20Celebration.jpeg" 
+     style="width:50%">
+
+|||
+| -------- | -------- | 
+| Outreach to the Kindergartens	   | PSG Networking and CNY Celebration|
+
+<img src="/images/Story-Time%20for%20the%20Kindergarteners.jpeg" 
+     style="width:50%">
+		 
+<center>Story-Time for the Kindergarteners</center>
+
