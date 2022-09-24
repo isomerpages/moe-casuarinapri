@@ -39,7 +39,7 @@ Community involvement is an important form of support to provide authentic learn
 | -------- | -------- | 
 | Dad's for Life - Candle Making Workshop     | Dads for Life cum Mother's Day Celebration     |
 
-<img src="/images/" 
+<img src="/images/Picture1.png" 
      style="width:50%;float:left">
 		 <img src="/images/Eco%20Parents.jpeg" 
      style="width:50%">
