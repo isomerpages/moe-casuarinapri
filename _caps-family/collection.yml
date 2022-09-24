@@ -2,6 +2,7 @@ collections:
   caps-family:
     output: true
     order:
+      - About Us/.keep
       - Partnership.md
       - Photo Gallery/2021.md
       - Photo Gallery/2020.md
