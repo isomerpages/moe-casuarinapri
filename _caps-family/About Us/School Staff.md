@@ -79,13 +79,12 @@ third_nav_title: About Us
 5B	|Miss Peh Siew Mei (Samatha)	|Mr Lek Wee Chiang Melvin	|Mdm Fadila Ismail
 5C	|Mdm Yew Chen Foong (Sarah)|	Mdm Kasthuri Krishnan	 
 5D	|Mdm Liza bin Sufahat	|Mr Zhang Xiaohong	 
-5E	Mdm Chew Zi Yee Amanda	Mdm Kaladevi d/o Nadarajah	 
-5F	Mdm S Chandra	Mdm Yeow Wai Foong 	 
-6A	Mdm Lily Tow	Ms Lee Lay Peng	 
-6B	Mdm Natdia Faranaz Bte Shokat	Mrs Catherine Teo	 
-6C	Miss Chong Qian Min	Mdm Asmah Bte Buang	 
-6D	Ms Wong Li Juin (Theresa)	Mdm Huang Yan	 
-6E	Mdm Camillus d/o V Justine	Mdm Wei Ling	 
-6F	Miss Alicia Yap Sheng Ru	Miss Nashima Banu d/o Mohd Ansari	 
-6G	Miss Fadillah Bte Mohamed	Mdm Huang Qizhen	 
-
+5E	|Mdm Chew Zi Yee Amanda	|Mdm Kaladevi d/o Nadarajah	 
+5F	|Mdm S Chandra	|Mdm Yeow Wai Foong 	 
+6A	|Mdm Lily Tow	|Ms Lee Lay Peng	 
+6B	|Mdm Natdia Faranaz Bte Shokat|	Mrs Catherine Teo	 
+6C	|Miss Chong Qian Min	|Mdm Asmah Bte Buang	 
+6D	|Ms Wong Li Juin (Theresa)	|Mdm Huang Yan	 
+6E	|Mdm Camillus d/o V Justine	|Mdm Wei Ling	 
+6F	|Miss Alicia Yap Sheng Ru	|Miss Nashima Banu d/o Mohd Ansari	 
+6G	|Miss Fadillah Bte Mohamed	|Mdm Huang Qizhen
