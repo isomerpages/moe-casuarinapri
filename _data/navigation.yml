@@ -1,8 +1,4 @@
 logo: /images/logo (2).png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: CAPS Family
+    collection: caps-family
