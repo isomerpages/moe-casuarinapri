@@ -54,7 +54,7 @@ third_nav_title: About Us
 | -------- | -------- | -------- | -------- |
 | 1A	|Ms Sng Jie Ling Steffi	|Mdm Liu Ruihong
 |1B	|Mdm Affarita Bte Abdul Jaffar|	Mdm Lai TingFang Fiona	 
-1C	|Miss Cindy Soh Li Ling	|Mdm Maryana Bte Mohamad	 
+1C	|Miss Cindy Soh Li Ling	|Mdm Maryana Bte Mohamad
 1D	|Mdm Faridah Bee|	Miss Lim Shu Hui	 
 1E	|Mdm Low Mui Kian Nancy	|Ms Kwa Yan Teng	 
 2A	|Mdm Sarah Bte Md Harris	|Ms Lee Hui Min Grace	|Mdm Norashikin
@@ -88,3 +88,15 @@ third_nav_title: About Us
 6E	|Mdm Camillus d/o V Justine	|Mdm Wei Ling	 
 6F	|Miss Alicia Yap Sheng Ru	|Miss Nashima Banu d/o Mohd Ansari	 
 6G	|Miss Fadillah Bte Mohamed	|Mdm Huang Qizhen
+
+**Our Educational Support Staff**
+
+| ||
+| -------- | --------|
+|**SEN Officer**|Mdm Phay Gee Ling
+|**SEN Officer**|Mdm Hairunnisa Binte Amzah
+|**SEN Officer**| Mr Colleemallay Jerry Clive Curwin
+|**SEN Officer**|Mrs Mulder - Aishwarya Manu
+|**School Counsellor**|Miss Poh Siew Hong
+|**School Counsellor**|Ms Dewi Suryaningsih
+|**Student Welfare Education Officer**|Mrs Esther Chia (Mdm Poh Pey Lin)
