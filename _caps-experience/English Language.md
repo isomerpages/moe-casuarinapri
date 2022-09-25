@@ -52,3 +52,20 @@ CAPS English Language Signature Programme – The Art of Language
 ![](/images/Slide7.jpeg)
 ![](/images/Slide8.jpeg)
 ![](/images/Slide9.jpeg)
+
+English Language Talent Development Programme (EL TDP)
+------------------------------------------------------
+
+  
+
+The aim of the EL TDP is to nurture Casuarinians who excel in English and have demonstrated an aptitude for the language e.g., have a flair for writing, show precocity in reading and possess effective oral communication skills. Students identified for the EL TDP are mentored by teachers to develop their talents in word fluency, writing and speaking. As part of their development, the students are given the opportunity to participate in various school-based and/or national competitions such as the Inter-School National Scrabble Championships (ISNSC), and the Scholastic Environmental Fund (SEF) Oratorical Competition as well as in the School Musicals. Students who display verbal talents will also have the opportunity to take on the role of emcees in school events.
+
+![](/images/Slide10.jpeg)
+![](/images/Slide11.jpeg)![](/images/EL%20website%20pic%2010.jpeg)
+
+The Stellar Curriculum
+----------------------
+
+  
+
+STELLAR (STELLAR - Str ategies for English Language Learning And Reading) aims to strengthen both language and reading skills as well as promote a positive attitude towards reading in the foundational years through the use of well-established, learner-centred and developmentally appropriate pedagogical approaches using authentic children's literature.
