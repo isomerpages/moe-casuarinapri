@@ -39,3 +39,16 @@ At Primary 5 and 6, students further explore writers’ story themes and literar
 To introduce our students to the habit of reading newspapers from young and expose them to current affairs, all students from Primary 3 to 6, subscribe to the Little Red Dot (LRD) - a weekly educational newspaper supplement within The ST - on Tuesdays. The LRD offers kid-friendly headlines, edutainment articles as well as activities.
 
 ![](/images/EL%20website%20pic%203.jpeg)
+
+CAPS English Language Signature Programme – The Art of Language
+---------------------------------------------------------------
+
+![](/images/Slide3.jpeg)
+
+![](/images/EL%20website%20pic%204.jpeg)
+![](/images/Slide4.jpeg)
+![](/images/Slide5.jpeg)
+![](/images/Slide6.jpeg)
+![](/images/Slide7.jpeg)
+![](/images/Slide8.jpeg)
+![](/images/Slide9.jpeg)
