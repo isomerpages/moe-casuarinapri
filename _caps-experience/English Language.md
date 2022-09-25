@@ -69,3 +69,52 @@ The Stellar Curriculum
   
 
 STELLAR (STELLAR - Str ategies for English Language Learning And Reading) aims to strengthen both language and reading skills as well as promote a positive attitude towards reading in the foundational years through the use of well-established, learner-centred and developmentally appropriate pedagogical approaches using authentic children's literature.
+
+![](/images/outcome.jpeg)
+
+The strategies used for lower primary (Primary 1-3):
+
+  
+
+*   Shared Book Approach (SBA)
+*   Modified Language Experience Approach (MLEA)
+*   Differentiated Instruction (DI)
+
+![](/images/LP.jpeg)
+
+The **Shared Book Approach (SBA)** is an integrated and balanced language teaching approach that uses motivating and enjoyable "big books" of enlarged print and illustrations or "e-book".
+
+  
+
+The **Modified Language Experience Approach (MLEA)** is an integrated and balanced language teaching approach that uses motivating and enjoyable experiences to extend and exapnd on the language skills learned from the Big Books of SBA.
+
+  
+
+By Primary 3, most pupils can already handle more independence in reading and writing and the support from the shared reading of Big Books becomes less necessary. Teachers would then use another approach that provides some support, but leads to further independence in reading and learning.
+
+  
+
+**The strategies used for upper Primary (Primary 4-6):**
+
+  
+
+*   Supported Reading (SR)
+*   Know-Want to Know Learnt (KWL)
+*   Writing Process Cycle
+*   Differentiated Instruction (DI)
+
+  
+
+A **Supported Reading (SR)** lesson hinges on the effective use of Questioning Techniques. Through the use of Questioning Techniques and making predictions, pupils are kept involved, their thinking is stimulated and they acquire critical comprehension strategies.
+
+  
+
+The **Know-Want to Know-Learnt (KWL)** strategy focuses on what pupils Know, what pupils Want to know, and what pupils have Learnt. KWL helps learners to approach text independently by teaching them a powerful comprehension strategy. Pupils will learn to connect reading, writing, listening and speaking in an authentic inquiry learning situation.
+
+  
+
+The **Writing Process Cycle** involves the processes of planning, writing and reviewing. A series of writing lessons begins with Class Writing followed by Group Writing, and lastly Independent Writing. These processes provide pupils with scaffolding that promotes the acquisition of writing skills in a sequential manner.
+
+  
+
+**Differentiated Instruction (DI)** creates a responsive and personalised learning experience for pupils. Teachers guide pupils through activities rather than spend most of the time delivering content. Reading materials are selected according to pupils’ reading levels. Pupils are coached to work in teams to practise collaborative learning and self-directed learning.
