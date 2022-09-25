@@ -14,3 +14,26 @@ Structured and explicit instruction based on the STELLAR (**STELLAR** \- **ST*
 
 ![](/images/Slide1.jpeg)
 ![](/images/Slide2.jpeg)
+
+CAPS 'I Love Reading' Programme
+-------------------------------
+
+  
+
+The Primary 1 to 6 CAPS ‘I Love Reading!’ Programme is a structured reading programme that aims to nurture the love for reading among all Casuarinians.  
+
+  
+
+At Primary 1 and 2, students will be provided with an array of engaging and age-appropriate reading materials, comprising fiction and non-fiction texts to promote extensive reading and enrich language learning through the P1 and P2 Structured Reading programme.
+
+  
+
+From Primary 3 to 4, students progress to reading beloved children’s literature classics such as Roald Dahl’s Fantastic Mr Fox (P3) and Matilda (P4) with teachers exploring the author’s literary devices with them. The chapters in the book are then dramatized and brought to life as part of the Primary 3 and 4 Drama in Literature Programme.
+
+  
+
+At Primary 5 and 6, students further explore writers’ story themes and literary devices through the reading of award-winning books like The Hundred Dresses (P5) and Wonder (P6). They then learn to apply and incorporate the relevant themes and techniques to their composition writing.
+
+  
+
+To introduce our students to the habit of reading newspapers from young and expose them to current affairs, all students from Primary 3 to 6, subscribe to the Little Red Dot (LRD) - a weekly educational newspaper supplement within The ST - on Tuesdays. The LRD offers kid-friendly headlines, edutainment articles as well as activities.
