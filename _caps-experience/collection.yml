@@ -2,4 +2,4 @@ collections:
   caps-experience:
     output: true
     order:
-      - English.md
+      - English Language.md
