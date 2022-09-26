@@ -18,7 +18,7 @@ third_nav_title: For Parents
 [P3 WA1 Schedule & Topics Tested](/files/P3%20WA1%20Schedule%20%20Topics%20Tested.pdf)
 [P5 WA1 Schedule & Topics Tested](/files/P5%20WA1%20Schedule%20%20Topics%20Tested.pdf)
 [P4 and P6 SA1 Schedule](/files/P4%20and%20P6%20SA1%20Schedule.pdf)
-[P4 and P6 SA1 Topics Tested][](/files/P4%20and%20P6%20SA1%20Topics%20Tested.pdf)
+[P4 and P6 SA1 Topics Tested](/files/P4%20and%20P6%20SA1%20Topics%20Tested.pdf)
 
   
 
