@@ -11,6 +11,14 @@ description: ""
 		 
 <a href="https://www.hrp.gov.sg/hrp/#/"><img src="/images/HRP.png" 
      style="width:33%;float:left"></a>
+		 
+
+
+| **Opal 2.0** |**iCON Mail**|**HRP** |
+| -------- | -------- | -------- |
+|||
+
+
 
 <br><br>
 
