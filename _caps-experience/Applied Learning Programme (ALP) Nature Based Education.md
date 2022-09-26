@@ -80,3 +80,20 @@ All students also learn the importance of protecting and preserving the environm
 ||||
 | -------- | -------- | -------- |
 |Tetra Pack Recycling| Plastic Bottle Recycling|Paper Recycling
+
+We actively seek organisations that help to provide learning opportunities that our students would not have had in school. Such collaborations also help our students to see the connection between the curriculum in school and the skills required in the real world as well as hone public-speaking skills and boost self-confidence. The Science and Environmental Club collaborated with NParks for a series of Nature-infused activities. They are also the Nature-based Education Ambassadors. These student leaders had shared with the school about man’s impact on the environment through fun games during Biodiversity Day. They even conducted a terrarium demonstration for the elderly during the VIA activity.
+
+<img src="/images/alp%20ambassador.jpeg" 
+     style="width:50%;float:left"><img src="/images/alp%20ambassador%202.jpeg" 
+     style="width:50%">
+		 
+
+
+|||
+| -------- | -------- |
+|NBE Ambassadors shared about man’s impact on the environment through fun games.   | NBE Ambassadors learnt how to create terrarium before sharing with the elderly.     | 
+
+<img src="/images/alp%20ambassador%203.jpeg" 
+     style="width:50%">
+
+<center>NBE Ambassadors at Pasir Ris Park, Mangrove Boardwalk.</center>
