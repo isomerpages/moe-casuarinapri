@@ -2,6 +2,7 @@ collections:
   caps-connection:
     output: true
     order:
+      - For Parents/Important Links.md
       - For Parents/School Canteen Menu.md
       - For Parents/Others.md
       - For Parents/.keep
