@@ -1,4 +1,5 @@
 collections:
   caps-connection:
     output: true
-    order: []
+    order:
+      - For Teachers.md
