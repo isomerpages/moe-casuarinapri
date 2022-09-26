@@ -58,3 +58,16 @@ description: ""
 | **MIMS Portal**	 |**iExams**|**MOE Intranet** |
 | -------- | -------- | -------- |
 |||
+
+<a href="https://form.gov.sg/"><img src="/images/FORMSG.png" 
+     style="width:33%;float:left"></a>
+		 
+<a href="https://go.gov.sg/#/"><img src="/images/gov%20shortener.png" 
+     style="width:33%;float:left"></a>
+		 
+<a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login"><img src="/images/iMTL.png" 
+     style="width:33%;float:left"></a>
+		 
+| **MIMS Portal**	 |**iExams**|**MOE Intranet** |
+| -------- | -------- | -------- |
+|||
