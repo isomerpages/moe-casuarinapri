@@ -2,6 +2,7 @@ collections:
   caps-connection:
     output: true
     order:
+      - CAPS Open House/Our Stakeholders.md
       - CAPS Open House/.keep
       - For Parents/Travel Declarations.md
       - For Parents/CAPS Circulars.md
