@@ -2,6 +2,7 @@ collections:
   caps-connection:
     output: true
     order:
+      - For Parents/Support for Home Based Learning.md
       - For Parents/Important Links.md
       - For Parents/School Canteen Menu.md
       - For Parents/Others.md
