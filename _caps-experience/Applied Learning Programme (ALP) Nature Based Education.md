@@ -44,3 +44,9 @@ Besides using the school gardens as a platform for teaching and learning, studen
 ||||
 | -------- | -------- | -------- |
 |P4 - Hydroponics| P5 – Sungei Buloh| P6 – Pasir Ris Park
+
+The theme of nature is also infused into one of the domains of Programme for Active Learning (PAL), Outdoor Education. Students get to explore and interact freely and spontaneously with the natural environment. Through their personal interaction with the natural environment, students learn more about their role in the environment and more specifically, how their actions impact the environment around them.
+
+<img src="/images/alp%207.jpeg" 
+     style="width:50%;float:left"><img src="/images/alp%208.jpeg" 
+     style="width:50%">)
