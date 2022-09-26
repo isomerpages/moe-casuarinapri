@@ -2,6 +2,7 @@ collections:
   caps-experience:
     output: true
     order:
+      - Cognitive/Project Work (PW).md
       - Cognitive/Science.md
       - Cognitive/Mathematics.md
       - Cognitive/Mother Tongue Languages.md
