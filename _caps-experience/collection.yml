@@ -2,10 +2,10 @@ collections:
   caps-experience:
     output: true
     order:
-      - Cognitive/Applied Learning Programme (ALP) Nature Based Education.md
-      - Cognitive/Project Work (PW).md
-      - Cognitive/Science.md
-      - Cognitive/Mathematics.md
-      - Cognitive/Mother Tongue Languages.md
-      - Cognitive/English Language.md
       - Cognitive/.keep
+      - Cognitive/English Language.md
+      - Cognitive/Mother Tongue Languages.md
+      - Cognitive/Mathematics.md
+      - Cognitive/Science.md
+      - Cognitive/Project Work (PW).md
+      - Cognitive/Applied Learning Programme (ALP) Nature Based Education.md
