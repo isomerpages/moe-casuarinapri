@@ -55,6 +55,6 @@ description: ""
 <a href="https://ssoe2.moe.edu.sg/"><img src="/images/INTRANET.png" 
      style="width:33%;float:left"></a>
 		 
-| **SC Mobile**	 |**RBS**|**SSOE 2 Service Portal** |
+| **MIMS Portal**	 |**iExams**|**MOE Intranet** |
 | -------- | -------- | -------- |
 |||
