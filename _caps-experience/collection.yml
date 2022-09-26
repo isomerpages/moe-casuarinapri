@@ -2,6 +2,7 @@ collections:
   caps-experience:
     output: true
     order:
+      - Cognitive/Mathematics.md
       - Cognitive/Mother Tongue Languages.md
       - Cognitive/English Language.md
       - Cognitive/.keep
