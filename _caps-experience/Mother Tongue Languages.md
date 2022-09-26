@@ -13,4 +13,4 @@ Hands-on learning experiences, ICT-infused lessons and learning journeys are amo
 
 To ignite students’ passion and appreciation for their MTL and cultures, meaningful and engaging activities like MTL Fortnight program are organised for all levels. Students are exposed to different aspects of their MTL cultural activities such dances, musical instruments and poetry. Infusion of MTL values and culture are also done through CCE lessons.
 
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQmx0W_bcCuV7Sdq9j3LUVxmTPCZKUtzKWsvYl_cU_n_RzcsDZ9R5_yGhXJ--7tNGhv2OXV5v5FfAZE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
