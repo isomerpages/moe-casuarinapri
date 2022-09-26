@@ -43,4 +43,4 @@ Besides using the school gardens as a platform for teaching and learning, studen
 		 
 ||||
 | -------- | -------- | -------- |
-|P1 - Zoo| P2 - Jurong Bird Park | P3 - Dairy Farm Nature Park
+|P4 - Hydroponics| P5 – Sungei Buloh| P6 – Pasir Ris Park
