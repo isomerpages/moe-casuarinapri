@@ -2,6 +2,7 @@ collections:
   caps-experience:
     output: true
     order:
+      - Social Moral Emotional/.keep
       - Cognitive/.keep
       - Cognitive/English Language.md
       - Cognitive/Mother Tongue Languages.md
