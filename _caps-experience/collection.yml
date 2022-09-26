@@ -2,9 +2,9 @@ collections:
   caps-experience:
     output: true
     order:
+      - English Language.md
       - Mother Tongue Languages.md
       - Mathematics.md
       - Science.md
       - Project Work (PW).md
       - Applied Learning Programme (ALP) Nature Based Education.md
-      - English Language.md
