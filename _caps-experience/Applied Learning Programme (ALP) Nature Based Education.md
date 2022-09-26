@@ -26,3 +26,21 @@ The NBE Curriculum not only involves the whole school and cut across the various
 
 Besides using the school gardens as a platform for teaching and learning, students also went on learning journey to nature sites where elements of natural world are used as focal points for teaching and learning, providing opportunity for students to connect knowledge and skills across subject disciplines. They also embarked on projects and learn beyond the classroom. P3 and P5 students were engaged in Interdisciplinary Project Work after their learning journey to Dairy Farm Nature Farm and Sungei Buloh respectively.
 
+<img src="/images/.jpeg" 
+     style="width:33%;float:left"><img src="/images/p2%20alp.jpeg" 
+     style="width:33%;float:left"><img src="/images/p3%20alp.jpeg" 
+     style="width:33%">
+
+||||
+| -------- | -------- | -------- |
+|P1 - Zoo| P2 - Jurong Bird Park | P3 - Dairy Farm Nature Park
+
+
+<img src="/images/p4%20alp.jpeg" 
+     style="width:33%;float:left"><img src="/images/p5%20alp.jpeg" 
+     style="width:33%;float:left"><img src="/images/p6alp2.jpeg" 
+     style="width:33%">
+		 
+||||
+| -------- | -------- | -------- |
+|P1 - Zoo| P2 - Jurong Bird Park | P3 - Dairy Farm Nature Park
