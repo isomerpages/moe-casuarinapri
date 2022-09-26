@@ -6,8 +6,8 @@ description: ""
 <a href="https://vle.learning.moe.edu.sg/login"><img src="/images/SLS.jpeg" 
      style="width:33%;float:left"></a>
 		 
-<a href="https://vle.learning.moe.edu.sg/login"><img src="/images/MC%20Online.jpeg" 
+<a href="http://%20%20%20https//www.mconline.sg/LEAD/login/lms_login.aspx"><img src="/images/MC%20Online.jpeg" 
      style="width:33%;float:left"></a>
 		 
-<a href="https://vle.learning.moe.edu.sg/login"><img src="/images/My%20SkillsFuture.jpeg" 
+<a href="https://www.myskillsfuture.sg/content/student/en/primary/about/myskillsfuture-for-students.html"><img src="/images/My%20SkillsFuture.jpeg" 
      style="width:33%;float:left"></a>
