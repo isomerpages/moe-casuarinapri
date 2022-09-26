@@ -25,12 +25,12 @@ third_nav_title: For Parents
 Booklist 2022
 -------------
 
-![](https://casuarinapri.moe.edu.sg/rs/cc/icon/onyx/copy.png) [Primary 1](https://casuarinapri.moe.edu.sg/qql/slot/u725/2022/Booklist/P1.pdf)  
-![](https://casuarinapri.moe.edu.sg/rs/cc/icon/onyx/copy.png) [Primary 2](https://casuarinapri.moe.edu.sg/qql/slot/u725/2022/Booklist/P2.pdf)  
-![](https://casuarinapri.moe.edu.sg/rs/cc/icon/onyx/copy.png) [Primary 3](https://casuarinapri.moe.edu.sg/qql/slot/u725/2022/Booklist/P3.pdf)  
-![](https://casuarinapri.moe.edu.sg/rs/cc/icon/onyx/copy.png) [Primary 3 HMT](https://casuarinapri.moe.edu.sg/qql/slot/u725/2022/Booklist/P3%20HMT.pdf)  
-![](https://casuarinapri.moe.edu.sg/rs/cc/icon/onyx/copy.png) [Primary 4](https://casuarinapri.moe.edu.sg/qql/slot/u725/2022/Booklist/P4.pdf)  
-![](https://casuarinapri.moe.edu.sg/rs/cc/icon/onyx/copy.png) [Primary 5](https://casuarinapri.moe.edu.sg/qql/slot/u725/2022/Booklist/P5.pdf)  
-![](https://casuarinapri.moe.edu.sg/rs/cc/icon/onyx/copy.png) [Primary 5 Foundation](https://casuarinapri.moe.edu.sg/qql/slot/u725/2022/Booklist/P5%20Foundation.pdf)  
-![](https://casuarinapri.moe.edu.sg/rs/cc/icon/onyx/copy.png) [Primary 6](https://casuarinapri.moe.edu.sg/qql/slot/u725/2022/Booklist/P6.pdf)  
-![](https://casuarinapri.moe.edu.sg/rs/cc/icon/onyx/copy.png) [Primary 6 Foundation](https://casuarinapri.moe.edu.sg/qql/slot/u725/2022/Booklist/P6%20Foundation.pdf)
+ [Primary 1](/files/P1.pdf)
+ [Primary 2](/files/P2.pdf)
+ [Primary 3](/files/P3.pdf)
+ [Primary 3 HMT](/files/P3%20HMT.pdf)
+ [Primary 4](/files/P4.pdf)
+ [Primary 5](/files/P5.pdf)
+[Primary 5 Foundation](/files/P5%20Foundation.pdf) 
+[Primary 6](/files/P6.pdf)
+ [Primary 6 Foundation](/files/P6%20Foundation.pdf)
