@@ -2,6 +2,7 @@ collections:
   caps-connection:
     output: true
     order:
+      - For Parents/CAPS Circulars.md
       - For Parents/Parents Gateway.md
       - For Parents/Support for Home Based Learning.md
       - For Parents/Important Links.md
