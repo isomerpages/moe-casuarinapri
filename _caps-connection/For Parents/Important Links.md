@@ -40,8 +40,8 @@ third_nav_title: For Parents
 <a href="https://beta.moe.gov.sg/secondary/dsa/"><img src="/images/DSA.jpeg" 
      style="width:33%;float:left"></a>
 		 
-<a href="http://%20%20%20https//www.mconline.sg/LEAD/login/lms_login.aspx"><img src="/images/Typing%20Club%20(Lower_Upper%20Pri).jpeg" 
+<a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html"><img src="/images/SLS%20Troubleshooting%20Guide.jpeg" 
      style="width:33%;float:left"></a>
 		 
-<a href="https://www.myskillsfuture.sg/content/student/en/primary/about/myskillsfuture-for-students.html"><img src="/images/Typing%20Club%20(Lower_Upper%20Pri).jpeg" 
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vR3BGx41jZr4Rvhf5mTlxcuA6jP8sUslkBnwAp6sQ2QmFISluU7ZiR75Em0futpQw/pub?start=false&loop=false&delayms=3000&slide=id.p1"><img src="/images/lsp.png" 
      style="width:33%;float:left"></a>
