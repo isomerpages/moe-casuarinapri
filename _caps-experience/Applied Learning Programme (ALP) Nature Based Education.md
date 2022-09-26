@@ -72,3 +72,11 @@ Students apply their understanding of their role in the environment to help them
 
 All students also learn the importance of protecting and preserving the environment surrounding them and apply their learning through programmes like CAPS Go Green Programme. Student leaders like the Character and Citizenship Ambassadors help out with the paper recycling collection. They also ensure all lights, fans and all electrical devices are switched off before leaving the classrooms.
 
+<img src="/images/alp%20tetra.jpeg" 
+     style="width:33%;float:left"><img src="/images/alp%20bottle.jpeg" 
+     style="width:33%;float:left"><img src="/images/alp%20paper.jpeg" 
+     style="width:33%">
+
+||||
+| -------- | -------- | -------- |
+|Tetra Pack Recycling| Plastic Bottle Recycling|Paper Recycling
