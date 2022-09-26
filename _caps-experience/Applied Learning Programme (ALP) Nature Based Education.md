@@ -54,3 +54,21 @@ The theme of nature is also infused into one of the domains of Programme for Act
 <br><br><br>
 Students apply their understanding of their role in the environment to help them understand the consequences of their actions and be responsible for the things they do. This, is core to Nature Conservation. Values are inculcated through programme, Values-In-Action (VIA). P3 students participated in National Environment Agency (NEA) programme, Clean Buddy Trail which they were involved in an ‘Area Cleaning in the School’ Project. Students went around the school compound and picked up litter that cannot be decomposed. Save the Earth message was also brought home through Parent and Child Bonding Activity. Parents and their child made compost using food waste. As for the P4 students, they created terrarium, upcycled carton pouch and banner wallet with the elderly from Lions Befrienders Service Association (Singapore). P6 students learnt about man’s impact on the environment. After which, they picked up litter along Pasir Ris Beach.
 
+<img src="/images/alp%20p3%20parent%20child.jpeg" 
+     style="width:50%;float:left"><img src="/images/alp%20p3%20cleaning%20proj.jpeg" 
+     style="width:50%">
+		 
+|||
+| -------- | -------- | 
+|P3 – Parent-Child Composting Activity| P3 – Area Cleaning in the School Project
+
+<img src="/images/p4%20upcycling.jpeg" 
+     style="width:50%;float:left"><img src="/images/alp%20p6%20litter.jpeg" 
+     style="width:50%">
+		 
+|||
+| -------- | -------- | 
+|P4 – Upcycling Activity with the elderly| P6 Litter picking at Pasir Ris Park
+
+All students also learn the importance of protecting and preserving the environment surrounding them and apply their learning through programmes like CAPS Go Green Programme. Student leaders like the Character and Citizenship Ambassadors help out with the paper recycling collection. They also ensure all lights, fans and all electrical devices are switched off before leaving the classrooms.
+
