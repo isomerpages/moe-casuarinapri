@@ -2,5 +2,6 @@ collections:
   caps-experience:
     output: true
     order:
+      - Project Work (PW).md
       - Applied Learning Programme (ALP) Nature Based Education.md
       - English Language.md
