@@ -57,3 +57,7 @@ Students also visit the Singapore Science Centre and are engaged in the lessons.
 
 Our garden provides green pockets of garden landscape in the school which serves both aesthetic and educational purposes. There are plots of flowering plants, fruit trees, herbs, cacti and climbers, and vegetables. Students frequently spot some ‘visitors’ like butterflies, dragonflies and birds in our garden. The garden also features two large eco-pond, complete with clear glass panels, for the students to have an outdoor experiential learning opportunity to explore and learn more about the different plants and animals around them.
 
+![](/images/sc%2011.jpeg)
+
+CAPS garden has attained the ‘Gold’ certification and ‘Outstanding Educational Community Garden’ achievement ribbon at the Community in Bloom organised by NParks.  It also clinched the Yellow Flame award in the School Green Awards for our green efforts.
+
