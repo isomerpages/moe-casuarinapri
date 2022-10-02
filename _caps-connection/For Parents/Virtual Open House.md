@@ -17,5 +17,5 @@ Watch this video to find out more [about us](https://drive.google.com/file/d/1w
 
 ![](/images/Picture3.jpeg)
 
-To support the holistic development of our students, our programmes aim to [_Inspire Learning_](https://drive.google.com/file/d/1l4prqo8Jbf9ScguGobP3jOEar0pmyU7m/view?usp=sharing) ![](https://casuarinapri-moe-edu-sg-admin.cwp.sg/rs/cc/icon/graphite/link.png) and _[Nurture Character](https://drive.google.com/file/d/1MTQDQJqn83E9Rb9K0kUs3kUeASvf3Ilg/view?usp=sharing)_ ![](https://casuarinapri.moe.edu.sg/rs/cc/icon/graphite/link.png).  
+To support the holistic development of our students, our programmes aim to [_Inspire Learning_](https://drive.google.com/file/d/1l4prqo8Jbf9ScguGobP3jOEar0pmyU7m/view?usp=sharing) and _[Nurture Character](https://drive.google.com/file/d/1MTQDQJqn83E9Rb9K0kUs3kUeASvf3Ilg/view?usp=sharing)_ 
 Do visit the page on [_Applied Learning Programme_]() and _[Lifelong Learning Programme]()_ to know how our Casuarians are engaged to be joyful and life-long learners.
