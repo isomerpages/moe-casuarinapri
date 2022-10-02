@@ -32,3 +32,4 @@ Students' sharing on [what they like about CAPS](https://drive.google.com/file/
 
 ##### Parents
 ![](/images/Slide3.png)
+![](/images/Slide2.png)
