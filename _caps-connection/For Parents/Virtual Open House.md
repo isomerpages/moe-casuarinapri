@@ -23,3 +23,12 @@ Do visit the page on [_Applied Learning Programme_]() and _[Lifelong Learning
 <img src="/images/Picture4.jpeg" 
      style="width:50%;float:left"><img src="/images/Picture5.jpeg" 
      style="width:50%">
+		 
+#### Our Stakeholders
+
+##### Students
+
+Students' sharing on [what they like about CAPS](https://drive.google.com/file/d/1LoDhSa0ZEqr3UGUFmSsnC_2gMoifTocW/view?usp=sharing) 
+
+##### Parents
+![](/images/Slide3.png)
