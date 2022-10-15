@@ -20,11 +20,11 @@ Our Choir members performed at various platforms - school-based performances suc
 4.  Mdm Kaladevi
 
 
-<img src="/images/IMG_8140.jpeg" 
-     style="width:50%;float:left"><img src="/images/IMG_0163.jpeg" 
+<img src="/images/IMG_9864.jpeg" 
+     style="width:50%;float:left"><img src="/images/IMG_9870.jpeg" 
      style="width:50%;float:left">
-<img src="/images/IMG_0168.jpeg" 
-     style="width:50%;float:left"><img src="/images/" 
+<img src="/images/IMG_9878.jpeg" 
+     style="width:50%;float:left"><img src="/images/IMG_9883.jpeg" 
      style="width:50%">
 		 
 [Back to CCA](/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/)
