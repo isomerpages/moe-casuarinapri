@@ -22,11 +22,11 @@ Our Concert Band was selected to perform during SYF Band Jamboree which was held
 4.  Mdm Nashitah Fikriyah
 5.  Mdm Sarah Harris
 
-<img src="/images/IMG_0001.jpeg" 
-     style="width:50%;float:left"><img src="/images/IMG_0020.jpeg" 
+<img src="/images/IMG_8140.jpeg" 
+     style="width:50%;float:left"><img src="/images/IMG_0163.jpeg" 
      style="width:50%;float:left">
-<img src="/images/DSC_8176.jpeg" 
-     style="width:50%;float:left"><img src="/images/20190704-_AR38624.jpeg" 
-     style="width:50%">![](/images/IMG_8140.jpeg)![](/images/IMG_0163.jpeg)![](/images/IMG_0168.jpeg)
+<img src="/images/IMG_0168.jpeg" 
+     style="width:50%;float:left"><img src="/images/" 
+     style="width:50%">
 		 
 [Back to CCA](/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/)
