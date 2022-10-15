@@ -12,10 +12,10 @@ CCA offered by the school are as follows:
 
   
 
-*   [Sports and Games](https://casuarinapri.moe.edu.sg/caps-experience/social-moral-emotional/co-curricular-activities-cca/sports-n-games) \- Badminton, Floorball, Football, Rugby, Wushu.
-*   [Visual and Performing Arts](https://casuarinapri.moe.edu.sg/caps-experience/social-moral-emotional/co-curricular-activities-cca/visual-n-performing-arts) \- Art and Crafts, Concert Band, Chinese Dance, Choir, Modern Dance, Malay Dance.
-*   [Uniformed Groups](https://casuarinapri.moe.edu.sg/caps-experience/social-moral-emotional/co-curricular-activities-cca/uniformed-groups) \- Brownies, Scouts.
-*   [Clubs and Societies](https://casuarinapri.moe.edu.sg/caps-experience/social-moral-emotional/co-curricular-activities-cca/clubs-and-societies) \- InfoComm Technology, Environmental Science.
+*   [Sports and Games](/cca/Sports-and-Games/Badminton/) \- Badminton, Floorball, Football, Rugby, Wushu.
+*   [Visual and Performing Arts](/cca/Visual-and-Performing-Arts/Art-and-Crafts/) \- Art and Crafts, Concert Band, Chinese Dance, Choir, Modern Dance, Malay Dance.
+*   [Uniformed Groups](/cca/Uniformed Groups/Brownies/) \- Brownies, Scouts.
+*   [Clubs and Societies](/cca/Clubs-and-Societies/Infocomm-Technology/) \- InfoComm Technology, Environmental Science.
 
 ##### Objectives and learning outcomes of CCA offered in CAPS
 
