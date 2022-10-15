@@ -21,4 +21,4 @@ The Environmental Science CCA aims to inculcate in our members the love for Scie
      style="width:50%;float:left"><img src="/images/thumbnail.jpeg" 
      style="width:50%;float:left">
 		 
-[Back to CCA]([Back to CCA](/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/))
+[Back to CCA](/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/)
