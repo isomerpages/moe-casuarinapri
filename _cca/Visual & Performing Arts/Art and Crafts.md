@@ -28,7 +28,7 @@ In 2019, as part of our partnership with the community, our Art & Crafts CCA mem
      style="width:50%;float:left"><img src="/images/IMG_9443.jpeg" 
      style="width:50%;float:left">
 <img src="/images/IMG_9458.jpeg" 
-     style="width:50%;float:left"><img src="/images/IMG_9549.jpeg" 
+     style="width:50%;float:left"><img src="/images/IMG_9469.jpeg" 
      style="width:50%">
 		 
 [Back to CCA](/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/)
