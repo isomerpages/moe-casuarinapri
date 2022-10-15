@@ -14,7 +14,7 @@ CCA offered by the school are as follows:
 
 *   [Sports and Games](/cca/Sports-and-Games/Badminton/) \- Badminton, Floorball, Football, Rugby, Wushu.
 *   [Visual and Performing Arts](/cca/Visual-and-Performing-Arts/Art-and-Crafts/) \- Art and Crafts, Concert Band, Chinese Dance, Choir, Modern Dance, Malay Dance.
-*   [Uniformed Groups](/cca/Uniformed Groups/Brownies/) \- Brownies, Scouts.
+*   [Uniformed Groups](/cca/Uniformed-Groups/Brownies/) \- Brownies, Scouts.
 *   [Clubs and Societies](/cca/Clubs-and-Societies/Infocomm-Technology/) \- InfoComm Technology, Environmental Science.
 
 ##### Objectives and learning outcomes of CCA offered in CAPS
