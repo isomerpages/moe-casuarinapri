@@ -2,4 +2,5 @@ collections:
   citizenship-education:
     output: true
     order:
+      - Global Outreach/.keep
       - Global Outreach.md
