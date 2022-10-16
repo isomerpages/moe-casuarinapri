@@ -2,6 +2,7 @@ collections:
   caps-experience:
     output: true
     order:
+      - Social Moral Emotional/Holistic Health.md
       - Social Moral Emotional/Co Curricular Activities CCA.md
       - Social Moral Emotional/Programme for Active Learning (PAL).md
       - Social Moral Emotional/.keep
