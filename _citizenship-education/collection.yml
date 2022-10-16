@@ -2,5 +2,6 @@ collections:
   citizenship-education:
     output: true
     order:
+      - Global Outreach/Northeast Heritage Trail.md
       - Global Outreach/Global Outreach.md
       - Global Outreach/.keep
