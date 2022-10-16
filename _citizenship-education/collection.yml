@@ -1,4 +1,5 @@
 collections:
   citizenship-education:
     output: true
-    order: []
+    order:
+      - Global Outreach.md
