@@ -24,3 +24,12 @@ Miss Chong Qian Min
 
 Mr Dyon Lee
 
+![](/images/DSC09525.jpeg)
+		 
+<br><br><br><br>
+		 
+<img src="/images/IMG_6221.jpeg" 
+     style="width:50%;float:left"><img src="/images/IMG_6210.jpeg" 
+     style="width:50%">
+		 
+[Back to CCA](/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/)
