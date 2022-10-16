@@ -12,3 +12,7 @@ The CAPS cyber wellness framework is crafted based on the MOE's Cyber Wellness f
 #### Teaching & Learning Approach (3-Tier)
 
 ![](/images/Cyberwellness%20Approach.jpeg)
+
+#### CAPS Cyber Wellness Learning Experience
+
+![](/images/cyber%20wellness.png)
