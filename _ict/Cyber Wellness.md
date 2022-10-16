@@ -41,3 +41,8 @@ During Cyber Wellness Week, several recess activities were carried out at the fo
      style="width:50%"><img src="/images/CW1.jpeg" 
      style="width:50%;float:left"><img src="/images/CW4.jpeg" 
      style="width:50%">
+		 
+**Cyber Wellness Student Ambassadors**
+
+Each year, two students from every primary 4 to Primary 6 classes will be nominated by their Form Teachers as the Cyber Wellness Ambassadors (CWSA) of their respective classes. As ambassadors, they are expected to promote and raise Cyber Wellness awareness among their peers. They actively support the school's Cyber Wellness programme by helping to conduct and create Cyber Wellness learning resources such as games, puzzles, comics and posters. As part of their training to prepare them for their role, our ambassadors attends workshops conducted by the school's CW Teacher Coordinators.
+
