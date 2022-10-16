@@ -2,6 +2,7 @@ collections:
   caps-experience:
     output: true
     order:
+      - Social Moral Emotional/Student Management.md
       - Social Moral Emotional/Information & Communication Technology (ICT).md
       - Social Moral Emotional/Holistic Health.md
       - Social Moral Emotional/Co Curricular Activities CCA.md
