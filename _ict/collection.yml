@@ -2,4 +2,5 @@ collections:
   ict:
     output: true
     order:
+      - Code For Fun (CFF).md
       - School Library.md
