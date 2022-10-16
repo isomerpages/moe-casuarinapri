@@ -32,9 +32,6 @@ Mr Zhang Xiaohong
      style="width:50%;float:left">
 		 
 <br><br><br><br>
-
-
-
 		 
 <img src="/images/Pic%203.png" 
      style="width:50%;float:left"><img src="/images/20190704-A7301090.jpeg" 
