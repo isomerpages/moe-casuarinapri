@@ -22,4 +22,4 @@ We work very closely with the CCE department to strengthen the learning of value
 
 ![](/images/Capture.jpeg)
 
-The school advocates Discipline with CARE AND DIGNITY.
+The school advocates Discipline with **CARE AND DIGNITY**.
