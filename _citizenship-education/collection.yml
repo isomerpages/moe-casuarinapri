@@ -2,6 +2,8 @@ collections:
   citizenship-education:
     output: true
     order:
+      - Global Outreach/Cultural and Aesthetic Immersion Programme to Bandung,
+        Indonesia.md
       - Global Outreach/IS Get To Know Session.md
       - Global Outreach/Northeast Heritage Trail.md
       - Global Outreach/Global Outreach.md
