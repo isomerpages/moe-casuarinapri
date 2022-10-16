@@ -36,4 +36,8 @@ During Cyber Wellness Week, several recess activities were carried out at the fo
 ![](/images/CW9.jpeg)
 <img src="/images/CW2.jpeg" 
      style="width:50%;float:left"><img src="/images/CW3.jpeg" 
+     style="width:50%"><img src="/images/CW6.jpeg" 
+     style="width:50%;float:left"><img src="/images/CW7.jpeg" 
+     style="width:50%"><img src="/images/CW1.jpeg" 
+     style="width:50%;float:left"><img src="/images/CW4.jpeg" 
      style="width:50%">
