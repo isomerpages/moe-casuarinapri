@@ -36,3 +36,9 @@ Want to know what books are available at our school library? Check them out **[
 <img src="/images/NLB%20Reading%20Poster%20(Lower%20Primary).jpeg" 
      style="width:50%;float:left"><img src="/images/NLB%20Reading%20Poster%20(Upper%20Primary).jpeg" 
      style="width:50%">
+		 
+#### Our Media Resource Library
+
+![](/images/LIB%201.jpeg)
+![](/images/LIB2.jpeg)
+![](/images/LIB3.jpeg)
