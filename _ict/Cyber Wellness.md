@@ -46,3 +46,12 @@ During Cyber Wellness Week, several recess activities were carried out at the fo
 
 Each year, two students from every primary 4 to Primary 6 classes will be nominated by their Form Teachers as the Cyber Wellness Ambassadors (CWSA) of their respective classes. As ambassadors, they are expected to promote and raise Cyber Wellness awareness among their peers. They actively support the school's Cyber Wellness programme by helping to conduct and create Cyber Wellness learning resources such as games, puzzles, comics and posters. As part of their training to prepare them for their role, our ambassadors attends workshops conducted by the school's CW Teacher Coordinators.
 
+![](/images/cyber1.jpeg)
+
+**Cyber Wellness Updates**
+
+In this digital age, it is common to see technological devices in the hands of our children. They use technology in a variety of ways: they're playing games online, sending texts via their mobile phones and are constantly connected to the Internet. With the many risks and challenges involved in the cyber world, safeguarding your child online is just as important as it is in the real world. As parents, you need to support your children in harnessing it meaningfully. You can play an important role to help your child have safe and positive experiences online.
+
+  
+
+At times, you may not be by their side when they surf the Internet or play computer games. Hence, to complement your current parenting practices, you can use parental controls and Internet filters to safeguard your children from inappropriate websites and help them navigate the digital world safely. Click [here](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/parental-controls) on how you can set up parental controls on common operating systems and web browsers.
