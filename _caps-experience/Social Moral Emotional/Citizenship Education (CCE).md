@@ -22,5 +22,5 @@ Our key CCE programmes emphasises the interconnectedness of the core values, soc
 - [National Education](/Citizenship-Education/National-Education/Total-Defence-Day/)
 - [Social Studies](/Citizenship-Education/Social-Studies/Social-Studies)
 - [Value-In-Action](/Citizenship-Education/Value-In-Action/Value-In-Action)
-- [Environment Education](/Citizenship-Education/Environment-Education)
+- [Environment Education](/citizenship-education/environment-education/)
 - [Global Outreach](/Citizenship-Education/Global-Outreach/Global-Outreach)
