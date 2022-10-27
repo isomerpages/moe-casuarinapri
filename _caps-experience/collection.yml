@@ -2,19 +2,6 @@ collections:
   caps-experience:
     output: true
     order:
-      - Aesthetics/Visual Arts.md
-      - Aesthetics/Music.md
-      - Aesthetics/Learning For Life Programme (LLP), HEARTS@CAPS.md
-      - Aesthetics/.keep
-      - Physical.md
-      - Social Moral Emotional/Character Education (CCE).md
-      - Social Moral Emotional/Citizenship Education (CCE).md
-      - Social Moral Emotional/Student Management.md
-      - Social Moral Emotional/Information & Communication Technology (ICT).md
-      - Social Moral Emotional/Holistic Health.md
-      - Social Moral Emotional/Co Curricular Activities CCA.md
-      - Social Moral Emotional/Programme for Active Learning (PAL).md
-      - Social Moral Emotional/.keep
       - Cognitive/.keep
       - Cognitive/English Language.md
       - Cognitive/Mother Tongue Languages.md
@@ -22,3 +9,16 @@ collections:
       - Cognitive/Science.md
       - Cognitive/Project Work (PW).md
       - Cognitive/Applied Learning Programme (ALP) Nature Based Education.md
+      - Aesthetics/.keep
+      - Aesthetics/Visual Arts.md
+      - Aesthetics/Music.md
+      - Aesthetics/Learning For Life Programme (LLP), HEARTS@CAPS.md
+      - Physical.md
+      - Social Moral Emotional/.keep
+      - Social Moral Emotional/Character Education (CCE).md
+      - Social Moral Emotional/Citizenship Education (CCE).md
+      - Social Moral Emotional/Student Management.md
+      - Social Moral Emotional/Information & Communication Technology (ICT).md
+      - Social Moral Emotional/Holistic Health.md
+      - Social Moral Emotional/Co Curricular Activities CCA.md
+      - Social Moral Emotional/Programme for Active Learning (PAL).md
