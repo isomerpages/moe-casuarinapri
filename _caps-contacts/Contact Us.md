@@ -55,4 +55,4 @@ If you are driving your child to school, please note the drop-off procedures in 
 If you are driving to pick up your child from school, please note the pick-up arrangements as follows:
 
 *   At school dismissal time, please do not drive into the school premises as the school buses are waiting for our students in the carpark. Parents are strongly encouraged to park their vehicles at nearby public carparks and take a short walk to school to pick children up. For safety reasons, you are advised not to park your vehicle along the main road to wait for your child.
-*   In the event of wet weather, parents will be allowed to drive in
+*   In the event of wet weather, parents will be allowed to drive into the school compound to fetch their children only after all the school buses have left the school premises.
