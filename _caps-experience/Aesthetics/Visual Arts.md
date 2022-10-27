@@ -24,3 +24,12 @@ Visual Art Curriculum
 
 ![](/images/art2.png)
 ![](/images/art3.png)
+
+Students explored the techniques of photography and took photographs of subjects found around the school. They created digital photomontages with the photographs that they have taken.
+
+Our events:
+-----------
+
+Arts Ablaze 2019
+
+![](/images/arts4.png)
