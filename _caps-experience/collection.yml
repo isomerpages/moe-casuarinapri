@@ -2,6 +2,7 @@ collections:
   caps-experience:
     output: true
     order:
+      - Aesthetics/Visual Arts.md
       - Aesthetics/Music.md
       - Aesthetics/Learning For Life Programme (LLP), HEARTS@CAPS.md
       - Aesthetics/.keep
