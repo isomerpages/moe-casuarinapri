@@ -2,6 +2,7 @@ collections:
   citizenship-education:
     output: true
     order:
+      - National Education/International Friendship Day (IFD).md
       - National Education/Racial Harmony Day.md
       - National Education/P5 NE Show.md
       - National Education/National Day Celebration.md
