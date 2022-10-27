@@ -1,4 +1,5 @@
 collections:
   character-education:
     output: true
-    order: []
+    order:
+      - Guidance Module.md
