@@ -2,6 +2,7 @@ collections:
   citizenship-education:
     output: true
     order:
+      - Social Studies/.keep
       - Value In Action/P1 I'm a Responsible Child.md
       - Value In Action/P2 I'm a More Responsible Child.md
       - Value In Action/P3 Canteen Cleaning.md
