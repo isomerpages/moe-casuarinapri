@@ -20,3 +20,5 @@ The school commemorated Singapore World Water Day on 11 March 2015. A range of s
   
 
 The school’s Youth for the Environment Day was conducted on 22 April 2015. This day, creates awareness among students about how they can play their part in caring for the environment. The students learnt about the 3Rs by making origami using old magazines and reducing the waste in the school by recycling TetraPaks. They also posed for photos with environmental messages at the Environmental Champion photo booth. They reflected and penned down their thoughts on how their actions can impact the environment and ways they can conserve the environment from school, home and nationwide.
+
+![](/images/Environment%20photo2.jpeg)
