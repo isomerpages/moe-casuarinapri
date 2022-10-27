@@ -39,3 +39,5 @@ Our Students at Work:
   
 
 Students are also given various platforms and opportunities to showcase their learning outside the classroom, eg. iTalent during morning assembly.
+
+![](/images/music2.png)
