@@ -2,4 +2,5 @@ collections:
   caps-contacts:
     output: true
     order:
+      - Contact Us.md
       - Vendors.md
