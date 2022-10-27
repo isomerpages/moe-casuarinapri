@@ -2,6 +2,7 @@ collections:
   citizenship-education:
     output: true
     order:
+      - Social Studies/Primary 1 Learning Journey to Peranakan Museum.md
       - Social Studies/Primary 2 Singapore Philatelic Museum.md
       - Social Studies/Primary 3 Singapore Urban Redevelopment Authority (URA)
         Gallery.md
