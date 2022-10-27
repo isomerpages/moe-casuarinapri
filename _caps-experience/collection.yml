@@ -2,6 +2,7 @@ collections:
   caps-experience:
     output: true
     order:
+      - Physical.md
       - Social Moral Emotional/Character Education (CCE).md
       - Social Moral Emotional/Citizenship Education (CCE).md
       - Social Moral Emotional/Student Management.md
