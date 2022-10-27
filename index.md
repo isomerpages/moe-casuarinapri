@@ -11,9 +11,8 @@ sections:
       key_highlights:
         - title: ANNOUNCEMENTS
           description: ""
-          url: /announcements
+          url: /announcements/
         - title: HIGHLIGHTS
           description: ""
-          url: /highlights
+          url: /highlights/
 ---
-
