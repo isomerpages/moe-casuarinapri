@@ -87,7 +87,7 @@ You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education)
 
 #### Information for Parents
 
-   Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
+8.   Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
 9.       Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. Please click on this link [**here**](https://form.gov.sg/61e9ffadad84620013f9931f) to complete the opt-out form. 
 
