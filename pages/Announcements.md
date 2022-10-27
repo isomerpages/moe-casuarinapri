@@ -26,11 +26,10 @@ Click on the link to find out how to resolve the issue.
 
 All students and their parents are invited to send nominations for the 'Inspiring Teacher of English Award'. If the English teacher exemplify the use of good spoken and written English, promote learning-focused interaction during English lessons and choose pedagogies appropriate to learners' readiness, interest and learning profiles, then now's the time to acknowledge him/her!
 
-**[NLB Resources](https://casuarinapri-moe-edu-sg-admin.cwp.sg/caps/discovereads)**
+**[NLB Resources](/discovereads/)**
 
 Click on the title to view more National Library Board resources.
 
 **[Home-based Learning](https://tinyurl.com/classhblcaps)**
 
 Click on the title to find out more about Home-based Learning.
-
