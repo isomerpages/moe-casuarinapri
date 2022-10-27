@@ -2,6 +2,7 @@ collections:
   citizenship-education:
     output: true
     order:
+      - Value In Action/P2 I'm a More Responsible Child.md
       - Value In Action/P3 Canteen Cleaning.md
       - Value In Action/P4 NEA Clean Singapore Learning Trail.md
       - Value In Action/P6 No Efforts Too Small.md
