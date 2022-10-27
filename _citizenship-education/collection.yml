@@ -2,6 +2,7 @@ collections:
   citizenship-education:
     output: true
     order:
+      - Environment Education.md
       - Global Outreach/.keep
       - Global Outreach/Global Outreach.md
       - Global Outreach/Cultural and Aesthetic Immersion Programme to Bandung,
