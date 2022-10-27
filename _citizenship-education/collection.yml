@@ -2,6 +2,8 @@ collections:
   citizenship-education:
     output: true
     order:
+      - Social Studies/Primary 3 Singapore Urban Redevelopment Authority (URA)
+        Gallery.md
       - Social Studies/.keep
       - Value In Action/Value in Action.md
       - Value In Action/P1 I'm a Responsible Child.md
