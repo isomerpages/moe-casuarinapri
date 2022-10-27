@@ -19,8 +19,8 @@ In crafting meaningful CCE learning experiences for our students, we are in cogn
 
 Our key CCE programmes emphasises the interconnectedness of the core values, social and emotional competencies and civic literacy, global awareness and cross-cultural skills that are critical for character and citizenship development of our students.
 
-- [National Education](/Citizenship-Education/National-Education/Total-Defence-Day/)
-- [Social Studies](/Citizenship-Education/Social-Studies/Social-Studies/)
+- [National Education](/citizenship-education/National-Education/Total-Defence-Day/)
+- [Social Studies](/citizenship-education/Social-Studies/Social-Studies/)
 - [Value-In-Action](/Citizenship-Education/Value-In-Action/Value-In-Action/)
 - [Environment Education](/citizenship-education/environment-education/)
 - [Global Outreach](/citizenship-education/Global-Outreach/Global-Outreach/)
