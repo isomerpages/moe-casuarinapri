@@ -1,0 +1,4 @@
+collections:
+  caps-contacts:
+    output: true
+    order: []
