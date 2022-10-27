@@ -2,5 +2,6 @@ collections:
   character-education:
     output: true
     order:
+      - School Based Programme.md
       - Sexuality Education.md
       - Guidance Module.md
