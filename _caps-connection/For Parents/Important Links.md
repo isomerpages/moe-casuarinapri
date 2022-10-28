@@ -66,3 +66,8 @@ Click [HERE](https://form.gov.sg/#!/60fba258d0fde70012525a82) or scan the QR c
 
 <img src="/images/LOA%20QR%20Code.jpeg" 
      style="width:50%">
+		 
+<img src="/images/insurance.png" 
+     style="width:50%">
+		 
+Click [HERE][](/files/NTUC%20Income%20Insurance%20Co.pdf) for more information.
