@@ -70,4 +70,4 @@ Click [HERE](https://form.gov.sg/#!/60fba258d0fde70012525a82) or scan the QR c
 <img src="/images/insurance.png" 
      style="width:50%">
 		 
-Click [HERE][](/files/NTUC%20Income%20Insurance%20Co.pdf) for more information.
+Click [HERE](/files/NTUC%20Income%20Insurance%20Co.pdf) for more information.
