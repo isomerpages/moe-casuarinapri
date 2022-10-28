@@ -13,7 +13,7 @@ third_nav_title: For Parents
      style="width:33%;float:left"></a>
 		 
 
-<a href="https://vle.learning.moe.edu.sg/login"><img src="/images/iMTL.jpeg" 
+<a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login"><img src="/images/iMTL.jpeg" 
      style="width:33%;float:left"></a>
 		 
 <a href="https://caps1771.typingclub.com/"><img src="/images/Typing%20Club%20(Lower_Upper%20Pri).jpeg" 
@@ -46,3 +46,14 @@ third_nav_title: For Parents
 		 
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vR3BGx41jZr4Rvhf5mTlxcuA6jP8sUslkBnwAp6sQ2QmFISluU7ZiR75Em0futpQw/pub?start=false&loop=false&delayms=3000&slide=id.p1"><img src="/images/lsp.png" 
      style="width:33%;float:left"></a>
+		 
+#### Student Admin
+
+<img src="/images/moe%20fas.png" 
+     style="width:50%">
+		 
+1.  For MOE FAS pamphlet, click [HERE](https://drive.google.com/file/d/1Kqvok8983uLYvse4jS7jV4hwXe2rLfHt/view?usp=sharing)
+2.  To check eligibility, click [HERE](https://www.moe.gov.sg/financial-matters/financial-assistance%20)
+3.  For the list of supporting documents to submit, click [HERE](https://drive.google.com/file/d/1Izc-2CHsnbQdFof_oK2L0PUGDvy17OQ9/view?usp=sharing)
+4.  To apply online, click [HERE](https://go.gov.sg/moe-efas)
+5.  To download MOE FAS Application Form \[hardcopy\], click [HERE](https://drive.google.com/file/d/1GjQ0DXDQIeZ1rxaiZHSpIp0e6VYT7htG/view?usp=sharing)
