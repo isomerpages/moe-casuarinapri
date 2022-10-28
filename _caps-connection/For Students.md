@@ -19,10 +19,10 @@ description: ""
 <a href="https://vle.learning.moe.edu.sg/login"><img src="/images/iMTL.jpeg" 
      style="width:33%;float:left"></a>
 		 
-<a href="http://%20%20%20https//www.mconline.sg/LEAD/login/lms_login.aspx"><img src="/images/Typing%20Club%20(Lower_Upper%20Pri).jpeg" 
+<a href="https://caps1771.typingclub.com/"><img src="/images/Typing%20Club%20(Lower_Upper%20Pri).jpeg" 
      style="width:33%;float:left"></a>
 		 
-<a href="https://www.myskillsfuture.sg/content/student/en/primary/about/myskillsfuture-for-students.html"><img src="/images/upper.jpeg" 
+<a href="https://caps1771.typingclub.com/"><img src="/images/upper.jpeg" 
      style="width:33%;float:left"></a>
 		 
 | **iMTL** |**Typing Club (Lower Primary)**|**Typing Club (Upper Primary)** |
