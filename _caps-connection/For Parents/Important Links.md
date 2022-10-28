@@ -9,9 +9,6 @@ third_nav_title: For Parents
 <a href="https://vle.learning.moe.edu.sg/login"><img src="/images/SLS.jpeg" 
      style="width:33%;float:left"></a>
 		 
-<a href="http://https//www.mconline.sg/LEAD/login/lms_login.aspx"><img src="/images/MC%20Online.jpeg" 
-     style="width:33%;float:left"></a>
-		 
 <a href="https://www.myskillsfuture.sg/content/student/en/primary/about/myskillsfuture-for-students.html"><img src="/images/My%20SkillsFuture.jpeg" 
      style="width:33%;float:left"></a>
 		 
@@ -25,6 +22,10 @@ third_nav_title: For Parents
 <a href="https://caps1771.typingclub.com/"><img src="/images/upper.jpeg" 
      style="width:33%;float:left"></a>
 		 
+<br>
+<br>
+<br>
+
 #### Parents
 
 <a href="https://www.schoolbag.edu.sg/"><img src="/images/Schoolbag.jpeg" 
