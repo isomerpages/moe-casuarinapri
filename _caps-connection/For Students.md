@@ -16,7 +16,7 @@ description: ""
 | -------- | -------- | -------- |
 |||
 
-<a href="https://vle.learning.moe.edu.sg/login"><img src="/images/iMTL.jpeg" 
+<a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login"><img src="/images/iMTL.jpeg" 
      style="width:33%;float:left"></a>
 		 
 <a href="https://caps1771.typingclub.com/"><img src="/images/Typing%20Club%20(Lower_Upper%20Pri).jpeg" 
