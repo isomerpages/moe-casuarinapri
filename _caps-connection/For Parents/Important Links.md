@@ -57,3 +57,12 @@ third_nav_title: For Parents
 3.  For the list of supporting documents to submit, click [HERE](https://drive.google.com/file/d/1Izc-2CHsnbQdFof_oK2L0PUGDvy17OQ9/view?usp=sharing)
 4.  To apply online, click [HERE](https://go.gov.sg/moe-efas)
 5.  To download MOE FAS Application Form \[hardcopy\], click [HERE](https://drive.google.com/file/d/1GjQ0DXDQIeZ1rxaiZHSpIp0e6VYT7htG/view?usp=sharing)
+
+<img src="/images/loa.png" 
+     style="width:50%">
+		 
+Click [HERE](https://form.gov.sg/#!/60fba258d0fde70012525a82) or scan the QR code below to access the LOA application form.
+
+
+<img src="/images/LOA%20QR%20Code.jpeg" 
+     style="width:50%">
