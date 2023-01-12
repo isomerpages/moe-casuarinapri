@@ -60,37 +60,36 @@ third_nav_title: About Us
 1C	| Mdm Sahra Kamal 	| Miss Nashima Banu d/o Mohd Ansari 
 1D	|Mdm Low Xiaoxuan |	Mdm Nadia Mochtar 	 
 1E	|Ms Ng Wei Hunn 	|Miss Khaireen Faezah Bt Abdul Rahim 	 
-2A	|Mdm Natdia Faranaz Bte Shokat 	|Ms Sng Jie Ling Steffi 	|Mdm Norashikin
-2B	|Mdm Lai TingFang Fiona Mrs Evelyn Ng	|Mdm Affarita Bte Abdul Jaffar Mdm Lee Swee Choo (Joanne)	 
-2C	|Miss Cindy Soh Li Ling 	|Mdm Maryana Bte Mohamad Mdm Lau Ai Theng	 
-2D	|Mdm Faridah Bee Miss Melody Wong Yin Jie	|Mdm Liu Ruihong Miss Nur Rahmah	 
-2E	|Mdm Low Mui Kian Nancy	|Ms Kwa Yan Teng Mdm Nadia Mochtar	 
-2F	|Ms Ng Wei Hunn	|Mdm Halena Bte Abdul Rahman	 
-3A	|Mdm Nashitah Fikriyah Bte Hafid	|Ms Lee Hui Min Grace Mr Lee Tian Lim (Daniel)	 
-3B	|Mdm Marina Bte Nasib	|Mr Kok Rui Jie	|Mdm Siti Fauziah Bte Basri
+2A	|Mdm Natdia Faranaz Bte Shokat 	|Ms Sng Jie Ling Steffi 	|
+2B	|Mdm Lai Ting Fang Fiona 	|Mdm Affarita Bte Abdul Jaffar 	 
+2C	|Miss Cindy Soh Li Ling 	|Mdm Maryana Bte Mohamad  
+2D	|Mdm Faridah Bee 	|Mdm Liu Ruihong 	 
+2E	|Mdm Low Mui Kian Nancy	|Ms Kwa Yan Teng 	 |	 
+3A	|Mdm Aliza Bte Mohamed Shariff 	|Ms Lee Hui Min Grace 	 
+3B	|Miss Melody Wong Yin Jie 	|Mrs Ooi-Chan Ah Pheng (Jane) 	|
 3C	|Mdm Noorhaslin bte Abas|	Mdm Teo Choon Nancy	 
 3D|	Miss Aw Caili|	Mr Mohammed Azry Bin Abdul Karim	 
-3E	|Mdm Salha Bte Mohd Ghazli|	Mdm Ong Hui Lin	 
-3F|	Mr Yeo Choon Kuan (Jackson)|Mdm Baizura	 
-4A|	Mdm Milahwati Bte Hussain	|Mr Lim Kwee Beng (Ben)|	Ms Vivien Tan
-4B	|Mdm Aliza Bte Mohamed Shariff	|Mrs Ooi-Chan Ah Pheng (Jane)	 
+3E	|Miss Alicia Yap Sheng Ru |	Mdm Ong Hui Lin	 
+3F|	Mdm Lily Tow |Mr Kok Rui Jie 	 | Miss Chong Qian Min
+4A|	Mdm Nashitah Fikriyah Bte Hafid 	|Mdm Huang Qizhen |	Mr Daniel Lee 
+4B	|Mdm Marina Bte Nasib	|Mdm Siti Fauziah Bte Basri	 
 4C	|Mdm Koh Chia Hwee (Ivy)|	Miss Lim Shu Hui 	|
-4D	|Miss Ong Amy	|Mdm Linda Rosli	 
-4E	|Mr Iskandar Bin Ishahak Bahroocha	|Miss Yeap Yun Lin	 
-4F|	Miss Lim Mui Ping, Regina|	Mdm Wong Yoke Yoong Emily	 
-5A	|Mrs Lim-Png Bee Lan	|Mdm Hayati Bte Manshor	 
-5B	|Miss Peh Siew Mei (Samatha)	|Mr Lek Wee Chiang Melvin	|Mdm Fadila Ismail
-5C	|Mdm Yew Chen Foong (Sarah)|	Mdm Kasthuri Krishnan	 
+4D	|Mdm Wong Yoke Yoong Emily 	|Mdm Linda Rosli	 
+4E	|Mdm Salha Bte Mohd Ghazli |Miss Yeap Yun Lin	 
+4F|	Mr Yeo Choon Kuan (Jackson) |	Ms Lee Lay Peng	 
+5A	|Miss Fadillah Bte Mohamed	|Mdm Wei Ling 	 
+5B	|Miss Ong Amy 	|Mdm Asmah Bte Buang 	|Mdm Norashikin 
+5C	|Miss Lim Mui Ping, Regina |	Mdm Milahwati Bte Hussain 
 5D	|Mdm Liza bin Sufahat	|Mr Zhang Xiaohong	 
-5E	|Mdm Chew Zi Yee Amanda	|Mdm Kaladevi d/o Nadarajah	 
-5F	|Mdm S Chandra	|Mdm Yeow Wai Foong 	 
-6A	|Mdm Lily Tow	|Ms Lee Lay Peng	 
-6B	|Mdm Natdia Faranaz Bte Shokat|	Mrs Catherine Teo	 
-6C	|Miss Chong Qian Min	|Mdm Asmah Bte Buang	 
+5E	|Mdm Chew Zi Yee Amanda	|Mdm Baizura 	 
+5F	|Mdm S Chandra	|Mdm Halena Bte Abdul Rahman  	 
+6A	|Mrs Lim-Png Bee Lan 	|Mdm Hayati Bte Manshor	 
+6B	|Miss Peh Siew Mei (Samatha) |	Mr Lek Wee Chiang Melvin 	 | Mdm Fadila Ismail
+6C	|Mdm Yew Chen Foong (Sarah) 	|Mdm Kasthuri Krishnan	  	 
 6D	|Ms Wong Li Juin (Theresa)	|Mdm Huang Yan	 
-6E	|Mdm Camillus d/o V Justine	|Mdm Wei Ling	 
-6F	|Miss Alicia Yap Sheng Ru	|Miss Nashima Banu d/o Mohd Ansari	 
-6G	|Miss Fadillah Bte Mohamed	|Mdm Huang Qizhen
+6E	|Mdm Camillus d/o V Justine	|Mdm Kaladevi d/o Nadarajah 	 
+6F	|Mrs Catherine Teo 	|Mr Lim Kwee Beng (Ben) | Mdm Yeow Wai Foong	 
+
 
 **Our Educational Support Staff**
 
