@@ -43,6 +43,7 @@ third_nav_title: About Us
 |Teacher Leaders| |
 | -------- | -------- | 
 |Lead Teacher (English Language)|Mdm Lee Swee Choo Joanne
+|Lead Teacher (English Language)|Mdm DianarosAb Majid
 |Senior Teacher (English Language)|Mdm Wong Yoke Yoong Emily
 |Senior Teacher (Science)|Mdm Nancy Teo Choon
 |Senior Teacher (Chinese Language)|Mr Zhang Xiaohong
