@@ -55,11 +55,11 @@ third_nav_title: About Us
 
 | Class | Form Teacher | Form Teacher | Form Teacher
 | -------- | -------- | -------- | -------- |
-| 1A	|Ms Sng Jie Ling Steffi	|Mdm Liu Ruihong
-|1B	|Mdm Affarita Bte Abdul Jaffar|	Mdm Lai TingFang Fiona	 
-1C	|Miss Cindy Soh Li Ling	|Mdm Maryana Bte Mohamad
-1D	|Mdm Faridah Bee|	Miss Lim Shu Hui	 
-1E	|Mdm Low Mui Kian Nancy	|Ms Kwa Yan Teng	 
+| 1A	|Mdm Sarah Bte Md Harris Ms Sng Jie Ling Steffi	|Mdm Lim Hui Yii (Sarah) Mdm Liu Ruihong
+|1B	|Miss Nur Rahmah Mdm Affarita Bte Abdul Jaffar|	Mdm Sofia Chin Mdm Lai TingFang Fiona	 
+1C	| Mdm Sahra Kamal Miss Cindy Soh Li Ling	| Miss Nashima Banu d/o Mohd Ansari Mdm Maryana Bte Mohamad
+1D	|Mdm Low Xiaoxuan Mdm Faridah Bee|	Mdm Nadia Mochtar Miss Lim Shu Hui	 
+1E	|Ms Ng Wei Hunn Mdm Low Mui Kian Nancy	|Ms Kwa Yan Teng	 
 2A	|Mdm Sarah Bte Md Harris	|Ms Lee Hui Min Grace	|Mdm Norashikin
 2B	|Mrs Evelyn Ng	|Mdm Lee Swee Choo (Joanne)	 
 2C	|Mdm Sahra Kamal	|Mdm Lau Ai Theng	 
