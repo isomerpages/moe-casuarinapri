@@ -29,14 +29,15 @@ third_nav_title: About Us
 
 | Subject Heads/Level Heads| |
 | -------- | -------- | 
-|LH / English Language|Mrs Nancy Lim - Low Mui Kian
 |LH / Mathematics|Mr Lim Kwee Beng (Ben)
 |SH / Chinese Language|Mdm Yeow Wai Foong
 |SH / Aesthetics|Mdm Hayati Bte Manshor
 |SH / Student Leadership|Ms Siti Fauziah Bte Basri
-|SH / Pastoral Care|Mdm Norazlin Bte A Rahman
-|SH/CCE|Mdm Kasthuri Krishnan (Mrs Cilan)
+|SH / CCE|Mdm Kasthuri Krishnan (Mrs Cilan)
 |SH / Special Education Needs|Mdm Low Xiaoxuan
+|SH / ICT|Miss Yeap Yun Lin
+|SH / PE/CCA|Ms Lee Lay Peng
+
 
 |Teacher Leaders| |
 | -------- | -------- | 
