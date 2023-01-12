@@ -8,6 +8,7 @@ third_nav_title: About Us
 | -------- | -------- | 
 | Principal|Mrs Pek Kwee Lan     
 |Vice Principals | Mr Steven Wong Junfu<br>Mr Tayeb Rajib  
+|Vice Principal (Admin)|Mdm Hafsah Abdullah  
 
 | Heads of Department| |
 | -------- | -------- | 
