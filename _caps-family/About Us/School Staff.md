@@ -55,18 +55,18 @@ third_nav_title: About Us
 
 | Class | Form Teacher | Form Teacher | Form Teacher
 | -------- | -------- | -------- | -------- |
-| 1A	|Mdm Sarah Bte Md Harris Ms Sng Jie Ling Steffi	|Mdm Lim Hui Yii (Sarah) Mdm Liu Ruihong
-|1B	|Miss Nur Rahmah Mdm Affarita Bte Abdul Jaffar|	Mdm Sofia Chin Mdm Lai TingFang Fiona	 
-1C	| Mdm Sahra Kamal Miss Cindy Soh Li Ling	| Miss Nashima Banu d/o Mohd Ansari Mdm Maryana Bte Mohamad
-1D	|Mdm Low Xiaoxuan Mdm Faridah Bee|	Mdm Nadia Mochtar Miss Lim Shu Hui	 
-1E	|Ms Ng Wei Hunn Mdm Low Mui Kian Nancy	|Ms Kwa Yan Teng	 
-2A	|Mdm Sarah Bte Md Harris	|Ms Lee Hui Min Grace	|Mdm Norashikin
-2B	|Mrs Evelyn Ng	|Mdm Lee Swee Choo (Joanne)	 
-2C	|Mdm Sahra Kamal	|Mdm Lau Ai Theng	 
-2D	|Miss Melody Wong Yin Jie	|Miss Nur Rahmah	 
-2E	|Mdm Low Xiaoxuan	|Mdm Nadia Mochtar	 
+| 1A	|Mdm Sarah Bte Md Harris 	|Mdm Lim Hui Yii (Sarah) 
+|1B	|Miss Nur Rahmah |	Mdm Sofia Chin 	 
+1C	| Mdm Sahra Kamal 	| Miss Nashima Banu d/o Mohd Ansari 
+1D	|Mdm Low Xiaoxuan |	Mdm Nadia Mochtar 	 
+1E	|Ms Ng Wei Hunn 	|Miss Khaireen Faezah Bt Abdul Rahim 	 
+2A	|Mdm Natdia Faranaz Bte Shokat 	|Ms Sng Jie Ling Steffi 	|Mdm Norashikin
+2B	|Mdm Lai TingFang Fiona Mrs Evelyn Ng	|Mdm Affarita Bte Abdul Jaffar Mdm Lee Swee Choo (Joanne)	 
+2C	|Miss Cindy Soh Li Ling 	|Mdm Maryana Bte Mohamad Mdm Lau Ai Theng	 
+2D	|Mdm Faridah Bee Miss Melody Wong Yin Jie	|Mdm Liu Ruihong Miss Nur Rahmah	 
+2E	|Mdm Low Mui Kian Nancy	|Ms Kwa Yan Teng Mdm Nadia Mochtar	 
 2F	|Ms Ng Wei Hunn	|Mdm Halena Bte Abdul Rahman	 
-3A	|Mdm Nashitah Fikriyah Bte Hafid	|Mr Lee Tian Lim (Daniel)	 
+3A	|Mdm Nashitah Fikriyah Bte Hafid	|Ms Lee Hui Min Grace Mr Lee Tian Lim (Daniel)	 
 3B	|Mdm Marina Bte Nasib	|Mr Kok Rui Jie	|Mdm Siti Fauziah Bte Basri
 3C	|Mdm Noorhaslin bte Abas|	Mdm Teo Choon Nancy	 
 3D|	Miss Aw Caili|	Mr Mohammed Azry Bin Abdul Karim	 
@@ -74,7 +74,7 @@ third_nav_title: About Us
 3F|	Mr Yeo Choon Kuan (Jackson)|Mdm Baizura	 
 4A|	Mdm Milahwati Bte Hussain	|Mr Lim Kwee Beng (Ben)|	Ms Vivien Tan
 4B	|Mdm Aliza Bte Mohamed Shariff	|Mrs Ooi-Chan Ah Pheng (Jane)	 
-4C	|Mdm Koh Chia Hwee (Ivy)|	Miss Khaireen Faezah Bt Abdul Rahim	|Mr Dyon Lee
+4C	|Mdm Koh Chia Hwee (Ivy)|	Miss Lim Shu Hui 	|
 4D	|Miss Ong Amy	|Mdm Linda Rosli	 
 4E	|Mr Iskandar Bin Ishahak Bahroocha	|Miss Yeap Yun Lin	 
 4F|	Miss Lim Mui Ping, Regina|	Mdm Wong Yoke Yoong Emily	 
