@@ -67,27 +67,27 @@ third_nav_title: About Us
 2E	|Mdm Low Mui Kian Nancy	|Ms Kwa Yan Teng 	 |	 
 3A	|Mdm Aliza Bte Mohamed Shariff 	|Ms Lee Hui Min Grace 	 
 3B	|Miss Melody Wong Yin Jie 	|Mrs Ooi-Chan Ah Pheng (Jane) 	|
-3C	|Mdm Noorhaslin bte Abas|	Mdm Teo Choon Nancy	 
-3D|	Miss Aw Caili|	Mr Mohammed Azry Bin Abdul Karim	 
+3C	|Mdm Teo Choon Nancy |	Miss Yeap Yun Lin 	 
+3D|	Mdm S Chandra |	Mr Mohammed Azry Bin Abdul Karim	 
 3E	|Miss Alicia Yap Sheng Ru |	Mdm Ong Hui Lin	 
 3F|	Mdm Lily Tow |Mr Kok Rui Jie 	 | Miss Chong Qian Min
 4A|	Mdm Nashitah Fikriyah Bte Hafid 	|Mdm Huang Qizhen |	Mr Daniel Lee 
 4B	|Mdm Marina Bte Nasib	|Mdm Siti Fauziah Bte Basri	 
-4C	|Mdm Koh Chia Hwee (Ivy)|	Miss Lim Shu Hui 	|
+4C	|Mdm Noorhaslin bte Abas |	Miss Lim Shu Hui 	|
 4D	|Mdm Wong Yoke Yoong Emily 	|Mdm Linda Rosli	 
 4E	|Mdm Salha Bte Mohd Ghazli |Miss Yeap Yun Lin	 
 4F|	Mr Yeo Choon Kuan (Jackson) |	Ms Lee Lay Peng	 
 5A	|Miss Fadillah Bte Mohamed	|Mdm Wei Ling 	 
 5B	|Miss Ong Amy 	|Mdm Asmah Bte Buang 	|Mdm Norashikin 
 5C	|Miss Lim Mui Ping, Regina |	Mdm Milahwati Bte Hussain 
-5D	|Mdm Liza bin Sufahat	|Mr Zhang Xiaohong	 
-5E	|Mdm Chew Zi Yee Amanda	|Mdm Baizura 	 
-5F	|Mdm S Chandra	|Mdm Halena Bte Abdul Rahman  	 
+5D	|Mdm Koh Chia Hwee (Ivy) 	|Mr Zhang Xiaohong	 
+5E	|Mdm Camillus d/o V Justine 	|Mdm Baizura 	 
+5F	|Ms Wong Li Juin (Theresa) 	|Mdm Halena Bte Abdul Rahman  	 
 6A	|Mrs Lim-Png Bee Lan 	|Mdm Hayati Bte Manshor	 
 6B	|Miss Peh Siew Mei (Samatha) |	Mr Lek Wee Chiang Melvin 	 | Mdm Fadila Ismail
-6C	|Mdm Yew Chen Foong (Sarah) 	|Mdm Kasthuri Krishnan	  	 
-6D	|Ms Wong Li Juin (Theresa)	|Mdm Huang Yan	 
-6E	|Mdm Camillus d/o V Justine	|Mdm Kaladevi d/o Nadarajah 	 
+6C	|Mdm Liza bin Sufahat Mdm Yew Chen Foong (Sarah) 	|Mdm Kasthuri Krishnan (Mrs Cilan)	  	 
+6D	|Mdm Liza bin Sufahat 	|Mr Zhang Xiaohong Mdm Huang Yan	 
+6E	|Mdm Chew Zi Yee Amanda 	|Mdm Kaladevi d/o Nadarajah 	 
 6F	|Mrs Catherine Teo 	|Mr Lim Kwee Beng (Ben) | Mdm Yeow Wai Foong	 
 
 
