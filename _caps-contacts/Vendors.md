@@ -40,8 +40,8 @@ School Uniform
 | --- | --- |
 | Address | : 209 New Upper Changi Road, #03-651, Singapore 460209 |
 | Contact No.  | : 62766689 |
-|  Operating Hours | : Day of sale in school during school term - Friday, at school canteen  
+|  Day of Sale in School | : Fridays (1.30pm - 3pm) - School Canteen (Please enter by Gate F)  
 *   1 pm - 3.00 pm (purchase by students)
 *   2 pm - 3.00 pm (for walk-in purchase by parents)
 
-   Website  : www.myuniformshop.com.sg 
+   Website  : www.myuniformshop.com.sg
