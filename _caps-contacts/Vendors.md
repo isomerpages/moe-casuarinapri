@@ -44,5 +44,4 @@ School Uniform
 *   1 pm - 3.00 pm (purchase by students)
 *   2 pm - 3.00 pm (for walk-in purchase by parents)
 
- |
-|  Website | : www.myuniformshop.com.sg |
+   Website  : www.myuniformshop.com.sg 
