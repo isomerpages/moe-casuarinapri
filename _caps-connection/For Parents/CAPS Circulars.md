@@ -4,6 +4,10 @@ permalink: /caps-connection/For-Parents/CAPS-Circulars/
 description: ""
 third_nav_title: For Parents
 ---
+2023 CAPS Newsletter
+--------------------
+Coming soon
+
 2022 CAPS Newsletter
 --------------------
 
@@ -20,17 +24,4 @@ third_nav_title: For Parents
 [P4 and P6 SA1 Schedule](/files/P4%20and%20P6%20SA1%20Schedule.pdf)
 [P4 and P6 SA1 Topics Tested](/files/P4%20and%20P6%20SA1%20Topics%20Tested.pdf)
 
-  
-
-Booklist 2022
--------------
-
- [Primary 1](/files/P1.pdf)
- [Primary 2](/files/P2.pdf)
- [Primary 3](/files/P3.pdf)
- [Primary 3 HMT](/files/P3%20HMT.pdf)
- [Primary 4](/files/P4.pdf)
- [Primary 5](/files/P5.pdf)
-[Primary 5 Foundation](/files/P5%20Foundation.pdf) 
-[Primary 6](/files/P6.pdf)
- [Primary 6 Foundation](/files/P6%20Foundation.pdf)
+ 
