@@ -26,12 +26,12 @@ School Dentist
 Student Care Services
 ---------------------
 
-| Name | : Nascan Student Care Centre  |
+| Name | : Raffles Student Care Centre  |
 | --- | --- |
 | Address | : Casuarina Primary School (ISH Block) |
-| Contact No. | : 96541951 |
-|  Operating Hours | : 10 am to 7 pm  |
-|  Website | :  www.nascans.com |
+| Contact No. | : 8951 5269 |
+|  Operating Hours | : Monday - Friday : 11 am to 7 pm  |
+|  Website | :  https://rafflesstudentcare.com |
 
 School Uniform
 --------------
