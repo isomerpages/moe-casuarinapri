@@ -13,16 +13,10 @@ In 2019, the Senior and Junior Rugby boys participated in the National Primary S
   
 
 **Teachers-in-charge:**
-
-Miss Nur Rahmah  
-
-Ms Vivien Tan
-
-Ms Theresa Wong
-
-Miss Chong Qian Min
-
-Mr Dyon Lee
+* Miss Nur Rahmah  
+* Ms Theresa Wong
+* Miss Chong Qian Min
+* Ms Lim Hui Yii
 
 ![](/images/DSC09525.jpeg)
 <img src="/images/IMG_6221.jpeg" 
