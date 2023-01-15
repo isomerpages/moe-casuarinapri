@@ -18,11 +18,10 @@ In 2019, as part of our partnership with the community, our Art & Crafts CCA mem
 
 **Teachers-in-charge of Art & Crafts:**
 
-1.  Ms Nazli Adnan
-2.  Mdm Ng Evelyn
-3.  Miss Fadillah Mohd
-4.  Mdm Amerah Begum
-5.  Mdm Noorhaslin
+* Ms Nazli Adnan
+* Mdm Noorhaslin
+* Miss Fadillah Mohd
+* Mdm Amerah Begum
 
 <img src="/images/IMG_9449.jpeg" 
      style="width:50%;float:left"><img src="/images/IMG_9443.jpeg" 
