@@ -76,7 +76,3 @@ Parents should:
 *   Be mindful not to overload the child with out-of-school activities; and
 *   Work in partnership with teachers to support child’s learning and development.
 
-<img src="/images/Homework.jpeg" 
-     style="width:50%;float:left">
-		 <img src="/images/Homework2.jpeg" 
-     style="width:50%">
