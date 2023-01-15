@@ -9,12 +9,9 @@ At Infocomm Technology CCA, students are given access to the latest technology t
   
 
 **Teachers-in-charge:**
-
-  
-
-1.  Mr Jackson Yeo
-2.  Miss Yeap Yun Lin
-3.  Mr Daniel Lee
+* Mr Jackson Yeo
+* Mr Daniel Lee
+* Miss Nashima Banu
 
 <img src="/images/IMG_8553.jpeg" 
      style="width:50%;float:left"><img src="/images/IMG_8556.jpeg" 
