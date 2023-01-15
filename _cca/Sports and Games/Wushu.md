@@ -19,12 +19,10 @@ In 2019, our Wushu CCA members put up a wonderful performance for our school mus
   
 
 **Teachers-in-charge:**
-
-Mdm Huang Yan  
-
-Mdm Liu Rui Hong
-
-Mr Zhang Xiaohong
+* Mdm Huang Yan  
+* Mdm Liu Rui Hong
+* Mr Zhang Xiaohong
+* Mrs Nancy Lim
 
 
 <img src="/images/07e65686-a047-4776-a538-0e12b5e5db03.jpeg" 
