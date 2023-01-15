@@ -22,15 +22,10 @@ In 2019, our Senior Team clinched the 5th to 8th placing in their Division and t
 
 **Teachers-in-charge of Floorball (Boys):**
 
-  
-
-Miss Lim Shu Hui
-
-Miss Alicia Yap Sheng Ru  
-
-Miss Regina Lim
-
-Ms Chan Jan Siang
+* Miss Lim Shu Hui
+* Miss Alicia Yap Sheng Ru  
+* Miss Regina Lim
+* Ms Chan Jan Siang
 
 <img src="/images/IMG_5628.jpeg" 
      style="width:50%;float:left"><img src="/images/IMG_5498.jpeg" 
@@ -56,17 +51,10 @@ In 2019, the Senior Girls team took part in the Singapore Floorball Association 
 
 **Teachers-in-charge of Floorball (Girls):**
 
-  
-
-Miss Lee Lay Peng
-
-Mdm Faridah Yahya
-
-Mdm Asmah Bte Buang
-
-Ms Theresa Wong
-
-Miss Steffi Sng
+* Mdm Faridah Yahya
+* Mdm Vivien Tan
+* Mdm Asmah Bte Buang
+* Miss Steffi Sng
 
 <img src="/images/IMG_4715.jpeg" 
      style="width:50%;float:left"><img src="/images/IMG_4710.jpeg" 
