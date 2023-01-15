@@ -26,7 +26,7 @@ Mr Mohd Azry
 
 Mdm Salha Ghazali
 
-Mr Iskandar Bahroocha
+Mr Zareen Shariff
 
 <img src="/images/DSC09512.jpeg" 
      style="width:50%;float:left"><img src="/images/DSC09513.jpeg" 
