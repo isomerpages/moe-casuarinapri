@@ -4,17 +4,13 @@ permalink: /cca/Visual-and-Performing-Arts/Malay-Dance/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-Malay Dance provides the platform for students to be exposed to the culture and heritage of the Malay performing arts namely, ‘Inang’, ‘Masri’, ‘Zapin’, ‘Joget’ and ‘Asli’. Through their involvement this CCA, specific set skills are honed and values such as responsibility and perseverance are inculcated.
-
-  
+Malay Dance provides the platform for students to be exposed to the culture and heritage of the Malay performing arts namely, ‘Inang’, ‘Masri’, ‘Zapin’, ‘Joget’ and ‘Asli’. Through their involvement this CCA, specific set skills are honed and values such as responsibility and perseverance are inculcated. 
 
 **Teachers-in-charge:**
 
-  
-
-1.  Mdm Affarita
-2.  Mdm Linda Rosli
-3.  Mdm Milahwati
+* Mdm Affarita
+* Mdm Linda Rosli
+* Mdm Milahwati
 
 <img src="/images/IMG_0099.jpeg" 
      style="width:50%;float:left"><img src="/images/IMG_9782.jpeg" 
