@@ -10,14 +10,12 @@ The Choir provides the platform for students who love singing to develop their v
 
 Our Choir members performed at various platforms - school-based performances such as National Day Celebration and Annual Award Ceremony.
 
-  
-
 **Teachers-in-charge of Choir**
 
-1.  Mdm Camillus V Justine
-2.  Ms Sebrina Kwa
-3.  Mrs Esther Chia
-4.  Mdm Kaladevi
+* Mdm Camillus V Justine
+* Miss Kwa Yan Teng
+* Mdm Kaladevi
+* Mrs Esther Chia
 
 
 <img src="/images/IMG_9864.jpeg" 
