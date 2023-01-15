@@ -18,10 +18,9 @@ A scout is to be trusted, loyal, disciplined and considerate. He needs to have c
 
 **Teachers-in-charge of Cadet Scouts:**
 
-1.  Miss Samantha Peh
-2.  Mdm Aliza Mohd Shariff
-3.  Miss Nashima Banu
-4.  Ms Sarah Yew
+Miss Samantha Peh
+Mdm Aliza Mohd Shariff
+Ms Sarah Yew
 
 <img src="/images/CSLC%20Camp%202.jpeg" 
      style="width:50%;float:left"><img src="/images/CSLC%20Camp.jpeg" 
