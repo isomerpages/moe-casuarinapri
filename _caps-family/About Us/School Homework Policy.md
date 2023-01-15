@@ -75,4 +75,3 @@ Parents should:
 *   Reinforce good study habits and attitudes;
 *   Be mindful not to overload the child with out-of-school activities; and
 *   Work in partnership with teachers to support child’s learning and development.
-
