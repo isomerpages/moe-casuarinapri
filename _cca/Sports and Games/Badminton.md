@@ -10,12 +10,14 @@ Badminton CCA focuses on providing students with the opportunity to acquire badm
 
 The year 2019 was an exciting year for the students in Badminton. In providing opportunities for students to excel in sports, our P6 students did well in the National School Games Badminton Championship. Our students showed grit and resilience during the competition.
 
- **Teachers-in-charge:**
- 
-Mr Melvin Lek 
-Mr Kok Rui Jie
-Mdm Liza Sufahat
-Mrs Ooi-Chan Ah Pheng
+  
+
+**Teachers-in-charge:** 
+
+1.  Mr Melvin Lek
+2.  Mdm Jane Ooi
+3.  Mr Kok Rui Jie
+4.  Mdm Liza Sufahat
 
 
 ![](/images/IMG_6106.jpeg)
