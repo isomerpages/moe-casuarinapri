@@ -9,10 +9,9 @@ The Environmental Science CCA aims to inculcate in our members the love for Scie
   
 
 **Teachers-in-charge:**
-
-1.  Mdm Lily Tow
-2.  Mrs Ivy Wai
-3.  Mdm Nancy Teo
+* Mdm Lily Tow
+* Mrs Ivy Wai
+* Mdm Nancy Teo
 
 <img src="/images/thumbnail%20(2).jpeg" 
      style="width:50%;float:left"><img src="/images/thumbnail%20(4).jpeg" 
