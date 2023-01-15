@@ -8,14 +8,11 @@ In Modern Dance, our dancers are exposed to different genres of dance. Our dance
 
   
 
-**Teachers-in-charge of Modern Dance:**
+**Teachers-in-charge of Modern Dance:** 
 
-  
-
-1.  Ms Amanda Chew
-2.  Mdm Sahra Kamal
-3.  Ms Ng Wei Hunn
-4.  Ms Aw Caili
+* Ms Amanda Chew
+* Mdm Sahra Kamal
+* Ms Ng Wei Hunn
 
 <img src="/images/IMG_0001.jpeg" 
      style="width:50%;float:left"><img src="/images/IMG_0020.jpeg" 
