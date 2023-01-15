@@ -15,18 +15,12 @@ Our boys participated in the Junior and Senior Division of the National School G
 In 2019, our Primary 4 boys took part in the FAS Inter-school Futsal competition in July and emerged Champions in the Plate category.
 
   
-
 **Teachers-in-charge:**
 
-  
-
-Mrs Catherine Teo
-
-Mr Mohd Azry
-
-Mdm Salha Ghazali
-
-Mr Zareen Shariff
+* Mrs Catherine Teo
+* Mr Mohd Azry
+* Mdm Salha Ghazali
+* Mr Zareen Shariff
 
 <img src="/images/DSC09512.jpeg" 
      style="width:50%;float:left"><img src="/images/DSC09513.jpeg" 
