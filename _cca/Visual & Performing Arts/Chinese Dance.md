@@ -13,12 +13,9 @@ Our Chinese Dance members performed at various school-based celebrations and our
   
 
 **Teachers-in-charge:**
-
-  
-
-1.  Mdm Wei Ling
-2.  Mdm Huang Qizhen
-3.  Mrs Lim-Png Bee Lan
+* Mdm Wei Ling
+* Mdm Huang Qizhen
+* Mrs Lim-Png Bee Lan
 
 
 <img src="/images/Chinese%20Dance%201%20ok.jpeg" 
