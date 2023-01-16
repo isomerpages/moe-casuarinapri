@@ -25,13 +25,15 @@ third_nav_title: For Parents
 <br>
 <br>
 <br>
+<br>
+<br>
 
 #### Parents
 
 <a href="https://www.schoolbag.edu.sg/"><img src="/images/Schoolbag.jpeg" 
      style="width:33%;float:left"></a>
 		 
-<a href="https://www.nascans.com/"><img src="/images/Nascans.jpeg" 
+<a href="https://rafflesstudentcare.com/"><img src="/images/raffles.jpeg" 
      style="width:33%;float:left"></a>
 		 
 <a href="https://beta.moe.gov.sg/secondary/s1-posting/"><img src="/images/Sec1posting.jpeg" 
@@ -70,4 +72,4 @@ Click [HERE](https://form.gov.sg/#!/60fba258d0fde70012525a82) or scan the QR c
 <img src="/images/insurance.png" 
      style="width:50%">
 		 
-Click [HERE](/files/NTUC%20Income%20Insurance%20Co.pdf) for more information.
+Click [HERE](https://drive.google.com/file/d/1prbZgZkeR6lt4S-Q4V3g9VAZu_xX7IxQ/view?usp=share_link) for more information.
