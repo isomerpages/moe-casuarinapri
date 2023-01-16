@@ -18,9 +18,9 @@ School Bus Services
 School Dentist
 --------------
 
-| Name | :School's Dental Clinic |
+| Name | : School's Dental Clinic |
 | --- | --- |
-| Address | :In-house (Block A, Level 1) |
+| Address | : In-house (Block A, Level 1) |
 | Contact No. | : 89400947 |
 
 Student Care Services
