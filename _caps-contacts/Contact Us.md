@@ -42,7 +42,7 @@ To ensure the safety and security of our students, the school's side-gates (Gate
 | -------- | -------- | -------- |
 | **Before school hours (morning)**     | 7:10 AM - 7:40 AM  | 7:10 AM - 7:40 AM      |
 |**After school hours (afternoon)**|1:25 PM - 2:00 PM|1:25 PM - 5:30 PM|
-| | |Turnstile will be activated between 2:30 p.m. to 5:30 p.m. to allow students to exit the school only.|
+| | |Turnstile will be activated between 2:30 PM to 5:30 PM to allow students to exit the school only.|
 
 Drop-Off and Pick-Up by Parents who drive
 -----------------------------------------
