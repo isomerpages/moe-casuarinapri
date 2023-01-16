@@ -38,7 +38,12 @@ Buses along Pasir Ris Drive 6 :12, 21, 358
 
 To ensure the safety and security of our students, the school's side-gates (Gate B, Gate C, Gate D, Gate F) are closed during school hours. The&nbsp;**school main gate (Gate A) at the Security Post is open the whole day**. Please note the side gates are open before and after school hours for arrival and dismissal as follows:
 
-![](/images/gate.png)
+|  | Gate B | Gate C, Gate F |
+| -------- | -------- | -------- |
+| **Before school hours (morning)**     | 7:10 AM - 7:40 AM  | 7:10 AM - 7:40 AM      |
+|**After school hours (afternoon)**|1:25 PM - 2:00 PM|1:25 PM - 5:30 PM|
+| | |Turnstile will be activated between 2.30 p.m. to 5.30 p.m. to allow students to exit the school only.|
+
 
 Drop-Off and Pick-Up by Parents who drive
 -----------------------------------------
