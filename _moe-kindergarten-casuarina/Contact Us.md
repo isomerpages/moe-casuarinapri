@@ -13,5 +13,5 @@ Singapore 518935<br>
 **MK Office :** TBC<br>
 **Fax No :** TBC<br>
 
-**Email :** casuarina\_ps@moe.edu.sg<br>
-Website : http://www.moe.gov.sg/mk
+**Email:** TBC<br>
+**Website:** http://www.moe.gov.sg/mk
