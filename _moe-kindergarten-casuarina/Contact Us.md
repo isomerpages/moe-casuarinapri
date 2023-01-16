@@ -3,6 +3,15 @@ title: Contact Us
 permalink: /moe-kindergarten-casuarina/contactus/
 description: ""
 ---
-Phone : TBC
+Contact Us
+==========
 
+**Casuarina Primary School**<br>
+30 Pasir Ris Street 41<br>
+Singapore 518935<br>
+
+**MK Office :** TBC<br>
+**Fax No :** TBC<br>
+
+**Email :** casuarina\_ps@moe.edu.sg<br>
 Website : http://www.moe.gov.sg/mk
