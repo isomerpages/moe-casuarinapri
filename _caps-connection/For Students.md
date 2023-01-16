@@ -3,8 +3,6 @@ title: For Students
 permalink: /caps-connection/For-Students/
 description: ""
 ---
-
-
 **Students Learning Space (SLS)**
  <br><a href="https://vle.learning.moe.edu.sg/login"><img style="width:33%;float:left" src="/images/SLS.jpeg"></a><br><br>
 		 
