@@ -13,17 +13,17 @@ Our Parent Support Group (PSG) plays a pivotal role in facilitating and assistin
 
 **PSG@CAPS Organisational Structure**  
 
- We have put in place an Organisational structure which includes an Executive Committee (EXCO) and a Mentor.
+ To be updated.
  
- ![](/images/PSG%20CHART.png)
+
  
  **New Parent Volunteers:**  
 
-  
+  To be updated.
 
 To join the PSG@CAPS family, please scan the QR code and complete the registration form:
 
-![](/images/PSG%20QR%20Code.jpeg)
+
 
 ___
 
@@ -70,4 +70,3 @@ Community involvement is an important form of support to provide authentic learn
      style="width:50%">
 		 
 <center>Story-Time for the Kindergarteners</center>
-
