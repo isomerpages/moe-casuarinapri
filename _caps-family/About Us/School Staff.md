@@ -25,8 +25,8 @@ third_nav_title: About Us
 | Year Heads| |
 | -------- | -------- | 
 |Year Head (P1-2)|Mrs Ho - Tan Chay Shwan
-|Year Head (P3-4)|Mdm Lau Jye Yu Jocelyn
-|Year Head (P5-6)|Mdm See Huey Kean Leana
+|Year Head (P3-4)|Mdm See Huey Kean Leana
+|Year Head (P5-6)|Mdm Lau Jye Yu Jocelyn
 
 | Subject Heads/Level Heads| |
 | -------- | -------- | 
