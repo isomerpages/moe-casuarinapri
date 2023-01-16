@@ -12,4 +12,4 @@ third_nav_title: For Parents
 
 2023 Assessment Schedule
 ------------------------
-Coming soon
+To be released via Parents Gateway at a nearer date.
