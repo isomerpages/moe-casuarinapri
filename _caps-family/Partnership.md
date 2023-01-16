@@ -21,7 +21,6 @@ Our Parent Support Group (PSG) plays a pivotal role in facilitating and assistin
 
   To be updated.
 
-To join the PSG@CAPS family, please scan the QR code and complete the registration form:
 
 
 
