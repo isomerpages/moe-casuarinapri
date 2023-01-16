@@ -2,7 +2,7 @@ collections:
   moe-kindergarten-casuarina:
     output: true
     order:
-      - Forms.md
       - About Us.md
       - Announcement.md
+      - Forms.md
       - Contact Us.md
