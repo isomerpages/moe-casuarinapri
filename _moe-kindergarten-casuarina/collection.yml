@@ -2,6 +2,6 @@ collections:
   moe-kindergarten-casuarina:
     output: true
     order:
-      - Announcement.md
       - About Us.md
+      - Announcement.md
       - Contact Us.md
