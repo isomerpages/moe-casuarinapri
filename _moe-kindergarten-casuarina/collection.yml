@@ -1,0 +1,8 @@
+collections:
+  moe-kindergarten-casuarina:
+    output: true
+    order:
+      - About Us.md
+      - Announcement.md
+      - Forms.md
+      - Contact Us.md
