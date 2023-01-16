@@ -14,16 +14,16 @@ Singapore 518935
 
   
 
-**General Office :** 65837132
+**General Office :**&nbsp;65837132
 
-**HOD Room :** 65832545
+**HOD Room :**&nbsp;65832545
 
-**Staff Room :** 65832969
+**Staff Room :**&nbsp;65832969
 
-**Fax No :** 65836227
+**Fax No :**&nbsp;65836227
 
-**Email :** casuarina\_ps@moe.edu.sg
-
+**Email :**&nbsp;casuarina\_ps@moe.edu.sg<br>
+<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.6736453967615!2d103.95483181443134!3d1.3725005989989938!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da3db2780b2b57%3A0xb8ff88368d9b539!2sCasuarina%20Primary%20School!5e0!3m2!1sen!2ssg!4v1673856843225!5m2!1sen!2ssg"></iframe>
 **Getting to Casuarina Primary School**
 
 Buses along Pasir Ris Street 41 : 358
@@ -36,7 +36,7 @@ Buses along Pasir Ris Drive 6 :12, 21, 358
 
   
 
-To ensure the safety and security of our students, the school's side-gates (Gate B, Gate C, Gate D, Gate F) are closed during school hours. The **school main gate (Gate A) at the Security Post is open the whole day**. Please note the side gates are open before and after school hours for arrival and dismissal as follows:
+To ensure the safety and security of our students, the school's side-gates (Gate B, Gate C, Gate D, Gate F) are closed during school hours. The&nbsp;**school main gate (Gate A) at the Security Post is open the whole day**. Please note the side gates are open before and after school hours for arrival and dismissal as follows:
 
 ![](/images/gate.png)
 
