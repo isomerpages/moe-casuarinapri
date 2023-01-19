@@ -19,8 +19,6 @@ Click below to find out more.
 
 2023 MOE Kindergarten Open House and Registration Exercise.
 
-
-
-
+2023 MK Open House - Letter to Parents
 
 
