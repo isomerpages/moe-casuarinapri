@@ -17,10 +17,6 @@ The 2023 MK Registration Exercise is open to SC and Permanent Resident (PR) chil
 
 Click below to find out more.
 
-2023 MOE Kindergarten Open House and Registration Exercise.
+[2023 MOE Kindergarten Open House and Registration Exercise](https://drive.google.com/file/d/1d0Xu0R76pwg_4RiN1xvzHyPeWBriwg4u/view?usp=share_link)
 
 [2023 MK Open House - Letter to Parents](https://drive.google.com/file/d/1Ol-2AQP1UdD8Um91Dq_epxoxJ4D62Qcw/view?usp=share_link)
-
-
-
-
