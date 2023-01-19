@@ -3,6 +3,13 @@ title: Announcement
 permalink: /moe-kindergarten-casuarina/announcement/
 description: ""
 ---
+MK 2023 Open House (in-person)
+==============================
+
+Is your child turning 5 years old in 2024? To find out more about the pre-school experience at MK, you may visit [www.moe.gov.sg/mk](http://www.moe.gov.sg/mk).
+
+As our premises are not yet ready, you may attend the Open House of our partner MK _(MK@Meridian)_ to find out about what MK offers. You may also choose to visit any other MK in operation. (to add attached poster)
+
 MK 2023 Online Registration
 ===== 
 
