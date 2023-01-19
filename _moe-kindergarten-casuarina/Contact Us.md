@@ -10,8 +10,8 @@ Contact Us
 30 Pasir Ris Street 41<br>
 Singapore 518935<br>
 
-**MK Office :** TBC<br>
-**Fax No :** TBC<br>
+**MK Office :** 65837132<br>
+**Fax No :** 65836227<br>
 
 **Email:** TBC<br>
 **Website:** http://www.moe.gov.sg/mk
