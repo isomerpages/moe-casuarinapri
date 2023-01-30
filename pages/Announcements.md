@@ -3,8 +3,6 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-
-
 **[Parents and Students Resource Kits](https://tinyurl.com/capshblresourcekit)**
 
 Click on the title to view more information on how to manage Home-based Learning.
@@ -35,3 +33,9 @@ Click on the title to view more National Library Board resources.
 **[Home-based Learning](https://tinyurl.com/classhblcaps)**
 
 Click on the title to find out more about Home-based Learning.
+
+
+**[CCA E-Open House](https://sites.google.com/view/caps-cca-openhouse)**
+
+Click on the title to view CCA e-open house. 
+
