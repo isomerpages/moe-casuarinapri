@@ -46,13 +46,13 @@ description: ""
 | -------- | -------- | -------- |
 |||
 
-<a href="https://scmobile.moe.edu.sg/login"><img src="/images/MIMS.png" 
+<a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso"><img src="/images/MIMS.png" 
      style="width:33%;float:left"></a>
 		 
-<a href="https://rbs.avero-tech.com/"><img src="/images/iExams.png" 
+<a href="https://iexams.seab.gov.sg/login"><img src="/images/iExams.png" 
      style="width:33%;float:left"></a>
 		 
-<a href="https://ssoe2.moe.edu.sg/"><img src="/images/INTRANET.png" 
+<a href="https://intranet.moe.gov.sg/"><img src="/images/INTRANET.png" 
      style="width:33%;float:left"></a>
 		 
 | **MIMS Portal**	 |**iExams**|**MOE Intranet** |
@@ -65,9 +65,6 @@ description: ""
 <a href="https://go.gov.sg/#/"><img src="/images/gov%20shortener.png" 
      style="width:33%;float:left"></a>
 		 
-<a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login"><img src="/images/iMTL.png" 
-     style="width:33%;float:left"></a>
-		 
-| **MIMS Portal**	 |**iExams**|**MOE Intranet** |
+| **FormSG**	 |**GO Link Shortner**| |
 | -------- | -------- | -------- |
 |||
