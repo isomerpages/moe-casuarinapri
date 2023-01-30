@@ -37,5 +37,4 @@ Click on the title to find out more about Home-based Learning.
 
 **[CCA E-Open House](https://sites.google.com/view/caps-cca-openhouse)**
 
-Click on the title to view CCA e-open house. 
-
+Click on the title to view CCA e-open house.
