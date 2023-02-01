@@ -12,4 +12,6 @@ third_nav_title: For Parents
 
 2023 Assessment Schedule
 ------------------------
-To be released via Parents Gateway at a nearer date.
+[P6 Assessment Circular for Term 1](https://drive.google.com/file/d/17RhGvW4n81voflDGNXHY-19F-7Q1Efpo/view?usp=share_link)
+
+
