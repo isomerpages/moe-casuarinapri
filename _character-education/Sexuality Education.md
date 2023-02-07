@@ -38,8 +38,9 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 ##### **At Casuarina Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
+#### Primary 5 
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
+![](/images/p5%20sex%20ed%20cropped.jpg)
 
+#### Primary 6
+![](/images/p6%20sex%20ed.jpg)
