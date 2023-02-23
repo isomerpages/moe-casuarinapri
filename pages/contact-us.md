@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Casuarina Primary School
 locations:
   - address:
-      - Casuarina Primary School
+      - "  "
       - 30 Pasir Ris Street 41
       - Singapore 518935
     operating_hours:
@@ -16,16 +16,11 @@ locations:
         time: 7.00am - 5.00pm
         description: ""
     maps_link: https://goo.gl/maps/6fcF6EPTPScLKTXA8
-    title: Main Office
+    title: Casuarina Primary School
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
+      - phone: +65 6583 7132
+      - email: casuarina_ps@moe.edu.sg
+      - other: For general enquiries, do send us an email using the email above.
+    title: "General Office "
 ---
