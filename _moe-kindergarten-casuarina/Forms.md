@@ -5,4 +5,5 @@ description: ""
 ---
 ### MK Wait List 
 ---
-To apply for school wait list, please click [here](https://go.gov.sg/capsmk-waitlist).
+To apply for school wait list, please click [here](https://go.gov.sg/capsmk-waitlist) or scan the QR Code below.
+![QR Code - MK Wait List]()
