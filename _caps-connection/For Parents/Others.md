@@ -7,7 +7,7 @@ third_nav_title: For Parents
 Insurance Claims
 ----------------
 
-Click [HERE](/files/NTUC%20Income%20Insurance%20Co%20.pdf) for more information.  
+Click [here](/files/Income%20Gp%20Insurance%20for%20Students%20-%20Form%20%20Product%20Fact%20Sheet%20Year%202023%20(002).pdf) for more information.  
   
 
 Financial Assistance
