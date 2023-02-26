@@ -4,8 +4,8 @@ permalink: /caps-connection/For-Parents/Important-Links/
 description: ""
 third_nav_title: For Parents
 ---
-#### Parents
-
+### Parents
+---
 <a href="https://www.schoolbag.edu.sg/"><img src="/images/Schoolbag.jpeg" 
      style="width:50%;float:left"></a>
 		 
@@ -25,9 +25,8 @@ third_nav_title: For Parents
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vR3BGx41jZr4Rvhf5mTlxcuA6jP8sUslkBnwAp6sQ2QmFISluU7ZiR75Em0futpQw/pub?start=false&loop=false&delayms=3000&slide=id.p1"><img src="/images/lsp.png" 
      style="width:50%;float:right"></a>
 &nbsp;
-
-#### Student Admin
-
+### Student Admin
+---
 <img src="/images/moe%20fas.png" 
      style="width:60%">
 		 
