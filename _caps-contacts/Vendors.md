@@ -8,7 +8,7 @@ description: ""
 **Name :** The Continental Book Centre 
 <br>
 **Opening Hours :** 8:30 AM to 2:30 PM [Weekdays]<br>
-** 2:00 PM to 2:30 PM (for walk-in purchase by parents)
+* 2:00 PM to 2:30 PM (for walk-in purchase by parents)
 <br>
 **Contact Number :** 62432832 
 <br>
@@ -55,5 +55,3 @@ description: ""
 *   2 pm - 3.00 pm (for walk-in purchase by parents)
 <br>
 **Website :** www.myuniformshop.com.sg
-
-
