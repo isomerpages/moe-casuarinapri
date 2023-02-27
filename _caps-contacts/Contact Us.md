@@ -6,13 +6,9 @@ description: ""
 Contact Us
 ==========
 
-**Casuarina Primary School**
-
-30 Pasir Ris Street 41
-
+**Casuarina Primary School**<br>
+30 Pasir Ris Street 41<br>
 Singapore 518935
-
-  
 
 **General Office :**&nbsp;65837132
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
