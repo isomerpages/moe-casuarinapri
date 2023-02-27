@@ -6,13 +6,6 @@ third_nav_title: For Parents
 ---
 [Parents Gateway Onboarding Guide](https://go.gov.sg/capspgguide2022)
 
-[Application to offer Non-Mother Tongue Language (Chinese / Malay / Tamil)](https://go.gov.sg/capsnmtloffer2022)
-
-[https://go.gov.sg/capsnmtloffer2022](https://go.gov.sg/capsnmtloffer2022)
-
-[Indication of interest in school-based Student Care Centre (SCC) for 2023 in Casuarina Primary School](https://go.gov.sg/capsscc2022)
-
-
 [Student Medical Records](https://go.gov.sg/capsstudentmedrec)
 
 
@@ -23,4 +16,3 @@ third_nav_title: For Parents
 
 
 [Purchase of School Attire (Online)](https://www.myuniformshop.com.sg/)
-
