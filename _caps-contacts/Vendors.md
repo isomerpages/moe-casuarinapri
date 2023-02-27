@@ -40,6 +40,7 @@ description: ""
 **Contact Number :** 89515269 
 <br>
 **Operating Hours :**  11 am to 7 pm [Monday - Friday]
+<br>
 **Website :** https://rafflesstudentcare.com
 
 #### School Uniform
