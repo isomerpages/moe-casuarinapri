@@ -11,7 +11,6 @@ description: ""
 * 2:00 PM to 2:30 PM (for walk-in purchase by parents)
 <br>
 **Contact Number :** 62432832 
-<br>
 
 #### School Bus Services
 ---
@@ -40,6 +39,7 @@ description: ""
 **Contact Number :** 89515269 
 <br>
 **Operating Hours :**  11 am to 7 pm [Monday - Friday]
+<br>
 **Website :** https://rafflesstudentcare.com
 
 #### School Uniform
