@@ -50,7 +50,7 @@ description: ""
 <br>
 **Contact Number :** 62766689 
 <br>
-**Operating Hours :**  Fridays (1.30pm - 3pm) @ School Canteen (Please enter by Gate F)
+**Operating Hours :**  Fridays (1.30pm - 3pm) @ School Canteen
 *   1 pm - 3.00 pm (purchase by students)
 *   2 pm - 3.00 pm (for walk-in purchase by parents)
 <br>
