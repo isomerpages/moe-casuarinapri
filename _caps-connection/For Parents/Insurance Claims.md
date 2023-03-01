@@ -4,7 +4,7 @@ permalink: /caps-connection/For-Parents/insuranceclaims/
 description: ""
 third_nav_title: For Parents
 ---
-Insurance Claims
+<h3 style="color:DarkBlue;">Insurance Claims</h3>
 
 ---
 
