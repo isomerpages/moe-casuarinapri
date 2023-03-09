@@ -13,7 +13,9 @@ third_nav_title: For Parents
 2023 Assessment Schedule
 ------------------------
 ##### Term 1
-[P6 Assessment Circular for Term 1](https://drive.google.com/file/d/17RhGvW4n81voflDGNXHY-19F-7Q1Efpo/view?usp=share_link)
+[P6 Assessment Circular for Term 1 ](/files/P6%20Assessment%20Circular%20Term%201%20(2023).pdf)<br>
+[P6 Weighted Assessment 1 (WA1)](/files/P6%20Weighted%20Assessment%201%20(WA1)%20-%202023.pdf)<br>
+[P6 Foundation Weighted Assessment 1 (WA1)](/files/P6%20Foundation%20Weighted%20Assessment%201%20(WA1)%20-%202023.pdf)<br>
 ##### Term 2
 [P3-P6 Assessment Circular for Term 2](/files/P3-P6%20Assessment%20Circular%20Term%202%20(2023).pdf)<br>
 [P3 Weighted Assessment 1 (WA1)](/files/P3%20Weighted%20Assessment%201%20(WA1)%20-%202023.pdf)<br>
