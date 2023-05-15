@@ -16,6 +16,21 @@ Please click [here](/files/call%20for%20proprosal%20for%20appointment%20of%20sch
 
 1. Download and complete the [application form.](/files/annex%20a%20-%20casuarina%20pri%20sch.pdf)
 2. Submit the completed hardcopy application form by 16 May 2023 to the School’s General Office.
+**Address:** 30 Pasir Ris Street 41, Singapore 518935<br>
+**Contact Number:** 6583 7132 [**General Office**]<br>
+**Email:** casuarina_ps@moe.edu.sg
 * * *
 
-&nbsp;
+#### **Getting to Casuarina Primary School**
+
+Buses along Pasir Ris Street 41 : 358<br>
+Buses along Pasir Ris Drive 6 :12, 21, 358<br>
+
+
+
+
+
+
+
+
+
