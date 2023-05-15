@@ -91,7 +91,7 @@ General attire:
 *   Dress appropriately for all school functions and activities.
 *   Ensure that the embroidered name tag is sewn on each school shirt/blouse/T-shirt.
 *   Tuck in shirt, blouse or T-shirt.
-*   Wear only white canvas shoes and white socks which must be clearly visible.
+*   Wear only black canvas shoes and black socks which must be clearly visible.
 *   Seek permission from teachers if other types of shoes have to be worn for medical reasons.
 *   Wear track shoes only on CCA days and specific event days.
 *   Wear the school socks. (Other white plain socks are allowed and the length must be comparable to that of the school socks)
