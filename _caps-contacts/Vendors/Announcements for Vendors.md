@@ -10,7 +10,8 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 #### **Service Requirements**<br>
 
-Please click [here](/files/call%20for%20proprosal%20for%20appointment%20of%20school%20bus%20operator%20to%20provide%20school%20bus%20services.pdf) to view call for proposal.
+Click on the attachments below to view<br> 
+[Call for Proposal](/files/call%20for%20proprosal%20for%20appointment%20of%20school%20bus%20operator%20to%20provide%20school%20bus%20services.pdf) 
 * * *
 #### **Application Procedure**
 
@@ -25,12 +26,3 @@ Please click [here](/files/call%20for%20proprosal%20for%20appointment%20of%20sch
 
 Buses along Pasir Ris Street 41 : 358<br>
 Buses along Pasir Ris Drive 6 :12, 21, 358<br>
-
-
-
-
-
-
-
-
-
