@@ -2,5 +2,6 @@ collections:
   caps-contacts:
     output: true
     order:
+      - Announcements for Vendors.md
       - Contact Us.md
       - Vendors.md
