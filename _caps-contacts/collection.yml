@@ -2,5 +2,6 @@ collections:
   caps-contacts:
     output: true
     order:
+      - Example Title.md
       - Contact Us.md
       - Vendors.md
