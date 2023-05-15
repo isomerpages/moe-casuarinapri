@@ -11,7 +11,8 @@ To apply, please refer to the Service Requirements and the Application Procedure
 #### **Service Requirements**<br>
 
 Click on the attachments below to view<br> 
-[Call for Proposal](/files/call%20for%20proprosal%20for%20appointment%20of%20school%20bus%20operator%20to%20provide%20school%20bus%20services.pdf) 
+1. [Call for Proposal](/files/call%20for%20proprosal%20for%20appointment%20of%20school%20bus%20operator%20to%20provide%20school%20bus%20services.pdf) 
+2. [Agreement for Appointment of School Bus Operator](/files/agreement%20for%20appointment%20of%20school%20bus%20operator.pdf)
 * * *
 #### **Application Procedure**
 
