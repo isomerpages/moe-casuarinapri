@@ -17,7 +17,7 @@ Click on the attachments below to view<br>
 #### **Application Procedure**
 
 1. Download and complete the [Call for Proposal - Annex A.](/files/annex%20a%20-%20casuarina%20pri%20sch.pdf)
-2. Submit the completed hardcopy Annex A by 16 May 2023 to the School’s General Office.
+2. Submit the completed hardcopy Annex A by 16 May 2023 to the School’s General Office.<br>
 **Address:** 30 Pasir Ris Street 41, Singapore 518935<br>
 **Contact Number:** 6583 7132 [**General Office**]<br>
 **Email:** casuarina_ps@moe.edu.sg
