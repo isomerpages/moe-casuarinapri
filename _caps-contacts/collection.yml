@@ -3,4 +3,6 @@ collections:
     output: true
     order:
       - Contact Us.md
-      - Vendors.md
+      - Vendors/.keep
+      - Vendors/Announcements for Vendors.md
+      - Vendors/Vendors Details.md

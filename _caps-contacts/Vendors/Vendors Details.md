@@ -1,7 +1,8 @@
 ---
-title: Vendors
-permalink: /caps-contacts/Vendors/
+title: Vendors Details
+permalink: /caps-contacts/vendors/
 description: ""
+third_nav_title: Vendors
 ---
 #### School Bookshop
 ---
@@ -51,7 +52,7 @@ description: ""
 **Contact Number :** 62766689 
 <br>
 **Operating Hours :**  Fridays (1.30pm - 3pm) @ School Canteen
-*   1 pm - 3.00 pm (purchase by students)
+*   1&nbsp;pm - 3.00 pm (purchase by students)
 *   2 pm - 3.00 pm (for walk-in purchase by parents)
 <br>
 **Website :** www.myuniformshop.com.sg

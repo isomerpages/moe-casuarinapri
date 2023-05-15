@@ -12,7 +12,7 @@ third_nav_title: For Parents
 [Edusave Standing Order](https://form.gov.sg/5be24a1bb3f842000fdc4e59)
 
 
-[MOE Financial Assistance Scheme](https://cms.isomer.gov.sg/sites/moe-casuarinapri/folders/caps-connection/subfolders/For%20Parents/editPage/Important%20Links.md)
+[MOE Financial Assistance Scheme](https://form.gov.sg/632432ba67747a0011d4a0cc)
 
 
 [Purchase of School Attire (Online)](https://www.myuniformshop.com.sg/)
