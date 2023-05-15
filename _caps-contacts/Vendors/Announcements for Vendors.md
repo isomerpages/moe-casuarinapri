@@ -1,6 +1,6 @@
 ---
 title: Announcements for Vendors
-permalink: /caps-contacts/permalink/
+permalink: /caps-contacts/vendor-advertisements/
 description: ""
 third_nav_title: Vendors
 ---
