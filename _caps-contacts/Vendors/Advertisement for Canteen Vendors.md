@@ -22,7 +22,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 * Healthy and fit to operate the stall.
 
-**Applicants should preferably fulfil the following criteria:**
+**Applicants should preferably fulfill the following criteria:**
 
 * Possess catering experience or experience operating in a school environment.
 
@@ -54,7 +54,3 @@ To apply, please refer to the Service Requirements and the Application Procedure
 **Nearest MRT station:** Pasir Ris - Green Line *(about 14 mins walk)*<br>
 **Buses along Pasir Ris Street 41 :** 358<br>
 **Buses along Pasir Ris Drive 6 :** 12, 21, 358<br>
-
-
-
-
