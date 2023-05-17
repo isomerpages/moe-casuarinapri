@@ -28,7 +28,3 @@ Click on the attachments below to view<br>
 **Nearest MRT station:** Pasir Ris - Green Line *(about 14 mins walk)*<br>
 **Buses along Pasir Ris Street 41 :** 358<br>
 **Buses along Pasir Ris Drive 6 :** 12, 21, 358<br>
-
-
-
-
