@@ -105,4 +105,4 @@ Mdm Low Xiaoxuan|SH / Special Education Needs|
 6C	|Mdm Yew Chen Foong (Sarah) 	|Mdm Kasthuri Krishnan (Mrs Cilan)	  	 
 6D	|Mdm Liza bin Sufahat 	|Mr Zhang Xiaohong 	 
 6E	|Mdm Chew Zi Yee Amanda 	|Mdm Kaladevi d/o Nadarajah 	 
-6F	|Mrs Catherine Teo 	|Mr Lim Kwee Beng (Ben) | Mdm Yeow Wai Foong	 
+6F	|Mrs Catherine Teo 	|Mr Lim Kwee Beng (Ben) | Mdm Yeow Wai Foong
