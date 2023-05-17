@@ -4,5 +4,6 @@ collections:
     order:
       - Contact Us.md
       - Vendors/.keep
-      - Vendors/Announcements for Vendors.md
       - Vendors/Vendors Details.md
+      - Vendors/Announcements for School Bus Vendors.md
+      - Vendors/Advertisement for Canteen Vendors.md
