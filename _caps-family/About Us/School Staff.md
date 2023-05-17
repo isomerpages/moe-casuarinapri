@@ -4,56 +4,73 @@ permalink: /caps-family/About-Us/School-Staff/
 description: ""
 third_nav_title: About Us
 ---
-|School Leaders|  |
-| -------- | -------- | 
-| Principal|Mrs Pek Kwee Lan     
-|Vice Principals | Mr Steven Wong Junfu<br>Mr Tayeb Rajib  
-|Vice Principal (Admin)|Mdm Hafsah Abdullah  
-
-| Heads of Department| |
-| -------- | -------- | 
-|Heads of Department|Miss Juliana Jamil |
-| HOD / Mathematics|Mrs Lynn Siew|
-|HOD / Science|Mr Ang Kim Hock Steven
-|HOD / Mother Tongue Languages|Mr Mohd Zareen B Md Shariff
-|HOD / ICT|Mr Yon Kok Shin
-|HOD / PE/CCA/Aesthetics|Mdm Noor Jamifah Bte M Jamal
-|HOD / Student Management|Mrs Mohsan - Farah Bte N Mohd
-|HOD / CCE|Mdm Tang Shunting
-|School Staff Developer|Miss Yong Lee Hoong Sally
-
-| Year Heads| |
-| -------- | -------- | 
-|Year Head (P1-2)|Mrs Ho - Tan Chay Shwan
-|Year Head (P3-4)|Mdm See Huey Kean Leana
-|Year Head (P5-6)|Mdm Lau Jye Yu Jocelyn
-
-| Subject Heads/Level Heads| |
-| -------- | -------- | 
-|LH / Mathematics|Mr Lim Kwee Beng (Ben)
-|SH / Chinese Language|Mdm Yeow Wai Foong
-|SH / Aesthetics|Mdm Hayati Bte Manshor
-|SH / Student Leadership|Ms Siti Fauziah Bte Basri
-|SH / CCE|Mdm Kasthuri Krishnan (Mrs Cilan)
-|SH / Special Education Needs|Mdm Low Xiaoxuan
-|SH / ICT|Miss Yeap Yun Lin
-|SH / PE/CCA|Ms Lee Lay Peng
+<u><p style="color:darkgreen;font-size:30px">School Leaders</p></u>
+|Name| | Designation |
+| -------- | -------- | -------- |
+| Mrs Pek Kwee Lan |      | Principal|
+|Mr Steven Wong Junfu| | Vice-Principal
+|Mr Tayeb Rajib || Vice-Principal
+|Mdm Hafsah Abdullah ||Vice-Principal (Admin)
 
 
-|Teacher Leaders| |
-| -------- | -------- | 
-|Lead Teacher (English Language)|Mdm Lee Swee Choo Joanne
-|Lead Teacher (English Language)|Mdm DianarosAb Majid
-|Senior Teacher (English Language)|Mdm Wong Yoke Yoong Emily
-|Senior Teacher (Science)|Mdm Nancy Teo Choon
-|Senior Teacher (Chinese Language)|Mr Zhang Xiaohong
-|Senior Teacher (SEN)|Ms Chan Jan Siang
-|Senior Teacher (CCE)|Mdm Huang Qizhen
-|Senior Teacher (Mathematics)|Mdm Sarah Yew
+<u><p style="color:darkgreen;font-size:30px">Head of Departments</p></u>
+|Name| | Designation |
+| -------- | -------- | -------- |
+|Miss Juliana Jamil  |      | HOD - English Language|
+|Mrs Lynn Siew| | HOD - Mathematics|
+|Mr Ang Kim Hock Steven| | HOD - Science|
+|Mr Mohd Zareen B Md Shariff|| HOD - Mother Tongue Languages  |
+|Mr Yon Kok Shin||HOD - Information Communication Technology|
+|Mdm Noor Jamifah Bte M Jamal||HOD -  PE/CCA/Aesthetics|
+|Mrs Mohsan - Farah Bte N Mohd||HOD - Student Management|
+|Mdm Tang Shunting||HOD - Character &amp; Citizenship Education|
+|Miss Yong Lee Hoong Sally||School Staff Developer|
 
-**Our Teachers**
+<u><p style="color:darkgreen;font-size:30px">Year Head</p></u>
+|Name|Designation|  |
+| -------- | -------- | -------- |
+|Mrs Ho - Tan Chay Shwan|Year Head (P1-2) | |
+|Mdm See Huey Kean Leana|Year Head (P3-4)| |
+|Mdm Lau Jye Yu Jocelyn|Year Head (P5-6)| |
 
-| Class | Form Teacher | Form Teacher | Form Teacher
+
+<u><p style="color:darkgreen;font-size:30px">Subject Head and Level Head</p></u>
+|Name|Designation|  |
+| -------- | -------- | -------- |
+|Mr Lim Kwee Beng (Ben)|LH / Mathematics
+|Mdm Yeow Wai Foong|SH / Chinese Language 
+|Mdm Hayati Bte Manshor|SH / Aesthetics 
+|Ms Siti Fauziah Bte Basri|SH / Student Leadership 
+|Mdm Kasthuri Krishnan (Mrs Cilan)|SH / CCE
+Mdm Low Xiaoxuan|SH / Special Education Needs| 
+|Miss Yeap Yun Lin|SH / ICT 
+|Ms Lee Lay Peng|SH / PE/CCA 
+
+<u><p style="color:darkgreen;font-size:30px">Teacher Leaders and Senior Teachers</p></u>
+|Name|Designation|  |
+| -------- | -------- | -------- |
+|Mdm DianarosAb Majid|Lead Teacher (English Language) 
+|Mdm Wong Yoke Yoong Emily|Senior Teacher (English Language) 
+|Mdm Nancy Teo Choon|Senior Teacher (Science) 
+|Mr Zhang Xiaohong|Senior Teacher (Chinese Language) 
+|Ms Chan Jan Siang|Senior Teacher (SEN) 
+|Mdm Huang Qizhen|Senior Teacher (CCE)
+|Mdm Yew Chen Foong Sarah (Mrs Teng)|Senior Teacher (Mathematics)
+
+<u><p style="color:darkgreen;font-size:30px">Our Educational Support Staff</p></u>
+|Name|Designation|  |
+| -------- | -------- | -------- |
+|Mdm Phay Gee Ling|SEN Officer 
+|Mdm Hairunnisa Binte Amzah|SEN Officer 
+| Mr Colleemallay Jerry Clive Curwin|SEN Officer 
+|Mrs Mulder - Aishwarya Manu|SEN Officer 
+|Miss Poh Siew Hong|School Counsellor  
+|Ms Dewi Suryaningsih|School Counsellor 
+|Mrs Esther Chia (Mdm Poh Pey Lin)|Student Welfare Education Officer 
+
+<u><p style="color:darkgreen;font-size:30px">Our Teachers</p></u>
+
+| Class |Form Teacher | Form Teacher | Form Teacher
 | -------- | -------- | -------- | -------- |
 | 1A	|Mdm Sarah Bte Md Harris 	|Mdm Lim Hui Yii (Sarah) 
 |1B	|Miss Nur Rahmah |	Mdm Sofia Chin 	 
@@ -89,16 +106,3 @@ third_nav_title: About Us
 6D	|Mdm Liza bin Sufahat 	|Mr Zhang Xiaohong 	 
 6E	|Mdm Chew Zi Yee Amanda 	|Mdm Kaladevi d/o Nadarajah 	 
 6F	|Mrs Catherine Teo 	|Mr Lim Kwee Beng (Ben) | Mdm Yeow Wai Foong	 
-
-
-**Our Educational Support Staff**
-
-| ||
-| -------- | --------|
-|**SEN Officer**|Mdm Phay Gee Ling
-|**SEN Officer**|Mdm Hairunnisa Binte Amzah
-|**SEN Officer**| Mr Colleemallay Jerry Clive Curwin
-|**SEN Officer**|Mrs Mulder - Aishwarya Manu
-|**School Counsellor**|Miss Poh Siew Hong
-|**School Counsellor**|Ms Dewi Suryaningsih
-|**Student Welfare Education Officer**|Mrs Esther Chia (Mdm Poh Pey Lin)
