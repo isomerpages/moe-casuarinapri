@@ -4,11 +4,11 @@ permalink: /caps-contacts/vendors/advertisementcanteenvendors/
 description: ""
 third_nav_title: Vendors
 ---
-## **School Canteen Advertisement**
+## **<u>School Canteen Advertisement</u>**
 
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
-#### **Service Requirements**<br>
+#### **<u>Service Requirement</u>** <br>
 
 **Interested applicants must meet the following criteria:**
 
@@ -34,7 +34,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 * * *
-#### **Application Procedure**
+#### **<u>Application Procedure</u>**
 
 1. Download and complete the [application form](/files/application%20form%20for%20canteen%20stalls.pdf). You may also request for a hardcopy from the School’s General Office.
 2. Attached the following documents together with the application form:
