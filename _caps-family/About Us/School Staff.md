@@ -4,7 +4,7 @@ permalink: /caps-family/About-Us/School-Staff/
 description: ""
 third_nav_title: About Us
 ---
-### <u style="color:darkgreen"><p style="color:darkgreen;font-size:30px">School Leaders</p></u>
+###  <u style="color:darkgreen"> School Leaders</u>  <p style="color:darkgreen;font-size:30px"></p>
 |Name| | Designation |
 | -------- | -------- | -------- |
 | Mrs Pek Kwee Lan |      | Principal|
