@@ -33,7 +33,9 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 * Apply for a food stall license from Singapore Food Agency (SFA).<br>
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.<br>
+
 * * *
+
 #### **<u>Application Procedure</u>**
 
 1. Download and complete the [application form](/files/application%20form%20for%20canteen%20stalls.pdf). You may also request for a hardcopy from the School’s General Office.
