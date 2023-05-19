@@ -4,7 +4,8 @@ permalink: /caps-family/About-Us/School-Staff/
 description: ""
 third_nav_title: About Us
 ---
-###  <u style="color:darkgreen"> School Leaders</u> 
+###  <u style="color:darkgreen"> School Leaders</u><br> 
+
 |Name| | Designation |
 | -------- | -------- | -------- |
 | Mrs Pek Kwee Lan |      | Principal|
@@ -13,7 +14,8 @@ third_nav_title: About Us
 |Mdm Hafsah Abdullah ||Vice-Principal (Admin)
 
 
-### <u style="color:darkgreen">Head of Departments</u>
+### <u style="color:darkgreen">Head of Departments</u><br>
+
 |Name| | Designation |
 | -------- | -------- | -------- |
 |Miss Juliana Jamil  |      | HOD - English Language|
@@ -26,7 +28,8 @@ third_nav_title: About Us
 |Mdm Tang Shunting||HOD - Character &amp; Citizenship Education|
 |Miss Yong Lee Hoong Sally||School Staff Developer|
 
-### <u style="color:darkgreen">Year Head</u>
+### <u style="color:darkgreen">Year Head</u><br>
+
 |Name|Designation|  |
 | -------- | -------- | -------- |
 |Mrs Ho - Tan Chay Shwan|Year Head (P1-2) | |
@@ -34,7 +37,8 @@ third_nav_title: About Us
 |Mdm Lau Jye Yu Jocelyn|Year Head (P5-6)| |
 
 
-### <u style="color:darkgreen">Subject Head and Level Head</u>
+### <u style="color:darkgreen">Subject Head and Level Head</u><br>
+
 |Name|Designation|  |
 | -------- | -------- | -------- |
 |Mr Lim Kwee Beng (Ben)|LH / Mathematics
@@ -46,7 +50,8 @@ Mdm Low Xiaoxuan|SH / Special Education Needs|
 |Miss Yeap Yun Lin|SH / ICT 
 |Ms Lee Lay Peng|SH / PE/CCA 
 
-### <u style="color:darkgreen">Teacher Leaders and Senior Teachers</u>
+### <u style="color:darkgreen">Teacher Leaders and Senior Teachers</u><br>
+
 |Name|Designation|  |
 | -------- | -------- | -------- |
 |Mdm DianarosAb Majid|Lead Teacher (English Language) 
@@ -57,7 +62,8 @@ Mdm Low Xiaoxuan|SH / Special Education Needs|
 |Mdm Huang Qizhen|Senior Teacher (CCE)
 |Mdm Yew Chen Foong Sarah (Mrs Teng)|Senior Teacher (Mathematics)
 
-### <u style="color:darkgreen">Our Educational Support Staff</u>
+### <u style="color:darkgreen">Our Educational Support Staff</u><br>
+
 |Name|Designation|  |
 | -------- | -------- | -------- |
 |Mdm Phay Gee Ling|SEN Officer 
@@ -68,7 +74,8 @@ Mdm Low Xiaoxuan|SH / Special Education Needs|
 |Ms Dewi Suryaningsih|School Counsellor 
 |Mrs Esther Chia (Mdm Poh Pey Lin)|Student Welfare Education Officer 
 
-### <u style="color:darkgreen">Our Teachers</u>
+### <u style="color:darkgreen">Our Teachers</u><br>
+
 | Class |Form Teacher | Form Teacher | Form Teacher
 | -------- | -------- | -------- | -------- |
 | 1A	|Mdm Sarah Bte Md Harris 	|Mdm Lim Hui Yii (Sarah) 
