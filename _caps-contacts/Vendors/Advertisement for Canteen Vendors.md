@@ -9,4 +9,4 @@ third_nav_title: Vendors
 
 | Type of food | Closing Date  | Requirements |
 | -------- | -------- | -------- |
-| Malay Rice Stall     | 16 June 2023     | Please click [here](https://casuarinapri.moe.edu.sg/schoolcanteenvendoradvertisement/) to view more.     |
+| Malay Rice Stall     |21 July 2023     | Please click [here](https://casuarinapri.moe.edu.sg/schoolcanteenvendoradvertisement/) to view more.     |
