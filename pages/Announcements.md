@@ -3,11 +3,6 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-**[Teachers' Day 2023](https://drive.google.com/file/d/1HGbBQ3FnY_-pe7f8BQMa5YV77qDATNd3/view?usp=sharing)**
-<br>
-Click on the title for more information. 
-
-
 
 **[Parents and Students Resource Kits](https://tinyurl.com/capshblresourcekit)**
 <br>
@@ -25,4 +20,3 @@ Click on the title for more information on Parent Gateway.
 **[SLS Support for Home-Based Learning](/files/SLS%20Helplines.pdf)**<br>
 Having difficulties with SLS?  
 Click on the link to find out how to resolve the issue.
-
