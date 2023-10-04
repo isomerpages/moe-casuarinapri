@@ -27,5 +27,8 @@ third_nav_title: For Parents
 ##### Term 4
 [P3 EOY Assessment Circular for Term 4](/files/Assessment%20Circular/p3%20eoy%20assessment%20circular%20(term%204)%20letter.pdf)<br>
 [P3 EOY Assessment Schedule and Details (Term 4)](/files/Assessment%20Circular/p3%20eoy%20assessment%20circular%20(term%204).pdf)<br>
-
-
+[P4 EOY Assessment Circular for Term 4](/files/Assessment%20Circular/p4%20eoy%20assessment%20circular%20(term%204)%20letter.pdf)<br>
+[P4 EOY Assessment Schedule and Details (Term 4)](/files/Assessment%20Circular/p4%20eoy%20assessment%20circular%20(term%204).pdf)<br>
+[P5 EOY Assessment Circular for Term 4](/files/Assessment%20Circular/p5%20eoy%20assessment%20circular%20(term%204)%20letter.pdf)<br>
+[P5 EOY Assessment Schedule and Details (Term 4)](/files/Assessment%20Circular/p5%20eoy%20assessment%20circular%20(term%204).pdf)<br>
+[P5 Foundation EOY Assessment Schedule and Details (Term 4)](/files/Assessment%20Circular/p5%20fdn%20eoy%20assessment%20circular%20(term%204).pdf)
