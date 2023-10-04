@@ -13,3 +13,8 @@ third_nav_title: For Parents
 4.&nbsp; To apply online, click [here](https://go.gov.sg/moe-efas). <br>
 5.&nbsp; For the list of supporting documents to submit, click&nbsp;[here](/files/MOE%20FAS%20Application%20-Documents%20to%20submit%20to%20school.pdf).<br>
 
+<h3 style="color:DarkBlue;">Casuarina Primary School Waitlist</h3>
+
+---
+
+Click&nbsp;[here](https://go.gov.sg/capswaitlist)&nbsp;to apply.
