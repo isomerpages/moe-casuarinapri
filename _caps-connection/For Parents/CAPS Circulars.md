@@ -15,7 +15,7 @@ third_nav_title: For Parents
 <h4 style="color:Black;">Term 3</h4>
 
 ---
-
+[CAPS News (Term 3)](/files/CAPS%20Newsletter/Term%203/term%203%20caps%20news%202023.pdf)
 <h4 style="color:Black;">Term 4</h4>
 
 ---
