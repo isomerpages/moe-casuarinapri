@@ -18,3 +18,12 @@ third_nav_title: For Parents
 ---
 
 Click&nbsp;[here](https://go.gov.sg/capswaitlist)&nbsp;to apply.
+
+
+<h3 style="color:DarkBlue;">Leave of Absence (LOA) Application</h3>
+
+---
+
+Click&nbsp;[here](https://form.gov.sg/60fba258d0fde70012525a82)&nbsp;or scan the QR code below to access the LOA application form.
+
+<img src="images/LOA%20QR%20Code.jpeg" style="width:40%">
