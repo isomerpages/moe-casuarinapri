@@ -24,3 +24,8 @@ third_nav_title: For Parents
 [P5 Foundation Weighted Assessment 1 (WA1)](/files/P5%20Foundation%20Weighted%20Assessment%201%20(WA1)%20-%202023.pdf)<br>
 [P6 Weighted Assessment 2 (WA2)](/files/P6%20Weighted%20Assessment%202%20(WA2)%20-%202023.pdf)<br>
 [P6 Foundation Weighted Assessment 2 (WA2)](/files/P6%20Foundation%20Weighted%20Assessment%202%20(WA2)%20-%202023.pdf)<br>
+##### Term 4
+[P3 EOY Assessment Circular for Term 4](/files/Assessment%20Circular/p3%20eoy%20assessment%20circular%20(term%204)%20letter.pdf)<br>
+[P3 EOY Assessment Schedule and Details (Term 4)](/files/Assessment%20Circular/p3%20eoy%20assessment%20circular%20(term%204).pdf)<br>
+
+
