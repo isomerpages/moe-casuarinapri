@@ -8,7 +8,7 @@ third_nav_title: For Parents
 
 [Student Medical Records](https://go.gov.sg/capsstudentmedrec)
 
-[MOE E-Giro](https://go.gov.sg/capsmoegiro)
+[MOE e-Giro](https://go.gov.sg/capsmoegiro)
 
 [Edusave Standing Order](https://form.gov.sg/5be24a1bb3f842000fdc4e59)
 
