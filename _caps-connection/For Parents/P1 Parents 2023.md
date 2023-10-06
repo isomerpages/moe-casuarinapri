@@ -8,11 +8,11 @@ third_nav_title: For Parents
 
 [Student Medical Records](https://go.gov.sg/capsstudentmedrec)
 
+[MOE E-Giro](https://go.gov.sg/capsmoegiro)
 
 [Edusave Standing Order](https://form.gov.sg/5be24a1bb3f842000fdc4e59)
 
 
 [MOE Financial Assistance Scheme](https://form.gov.sg/632432ba67747a0011d4a0cc)
-
 
 [Purchase of School Attire (Online)](https://www.myuniformshop.com.sg/)
