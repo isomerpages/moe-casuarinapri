@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Contact Us.md
-      - Vendors/School Uniform.md
-      - Vendors/Student Care Services.md
-      - Vendors/School Dentist.md
-      - Vendors/School Bookshop.md
-      - Vendors/School Bus.md
       - Vendors/.keep
+      - Vendors/School Bus.md
+      - Vendors/School Uniform.md
+      - Vendors/School Bookshop.md
+      - Vendors/School Dentist.md
+      - Vendors/Student Care Services.md
