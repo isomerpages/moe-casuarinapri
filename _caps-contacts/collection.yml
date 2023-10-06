@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Contact Us.md
+      - Vendors/School Bus.md
       - Vendors/.keep
       - Vendors/Vendors Details.md
