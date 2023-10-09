@@ -13,16 +13,8 @@ third_nav_title: For Parents
 [Edusave Standing Order](https://form.gov.sg/5be24a1bb3f842000fdc4e59)
 
 
-[MOE Financial Assistance Scheme](https://form.gov.sg/632432ba67747a0011d4a0cc)
+MOE Financial Assistance Scheme * ***(available at a later date)***
 
 [Purchase of School Attire (Online)](https://www.myuniformshop.com.sg/)
 
 [School Bus ](https://casuarinapri.moe.edu.sg/caps-contacts/vendors/schoolbus/)
-
-
-
-
-
-
-
-
