@@ -18,3 +18,5 @@ MOE Financial Assistance Scheme * ***(available at a later date)***
 [Purchase of School Attire (Online)](https://www.myuniformshop.com.sg/)
 
 [School Bus ](https://casuarinapri.moe.edu.sg/caps-contacts/vendors/schoolbus/)
+
+[School Bookshop](https://www.casuarinapri.moe.edu.sg/caps-contacts/vendors/school-bookshop/)
