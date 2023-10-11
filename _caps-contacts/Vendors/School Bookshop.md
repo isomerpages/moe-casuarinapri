@@ -14,3 +14,9 @@ third_nav_title: Vendors
 <br>
 
 **Contact Number :** 62432832
+
+<h4 style="color:DarkBlue;">Opening Hours during Year End 2023 and New Year Academic Year 2024</h4>
+
+----
+
+![](/images/year%20end%20book%20&amp;%20uniform%20sales%2010oct23.jpg)
