@@ -1,6 +1,6 @@
 ---
-title: Forms
-permalink: /moe-kindergarten-casuarina/forms/
+title: MK Forms
+permalink: /moe-kindergarten-casuarina/mk-forms/
 description: ""
 ---
 <h3 style="color:DarkBlue;">GIRO</h3>
@@ -19,8 +19,20 @@ description: ""
 [KiFAS Explanatory Notes](/files/MK@Casuarina/Forms/kifas%20explanatory%20notes.pdf)<br>
 [KiFAS Supporting Documents Checklist](/files/MK@Casuarina/Forms/supporting%20documents%20checklist.pdf)<br>
 
+<h3 style="color:DarkBlue;">Mother Tongue Language (MTL)</h3>
+
+---
+
+[Acknowledgement Form (MTL)](/files/MK@Casuarina/Forms/mtl%20acknowledgement.pdf)
+
+<h3 style="color:DarkBlue;">KCare Forms</h3>
+
+---
+
+Click [here](https://www.casuarinapri.moe.edu.sg/moe-kindergarten-casuarina/kindergarten-care-kcare/kcare-forms/) to find out more. 
+
 <h3 style="color:DarkBlue;">MK@Casuarina Waitlist</h3>
 
 ---
 Click [here](https://go.gov.sg/capsmk-waitlist) or scan the QR code below to apply. 
-<img src="images/1capsmk-waitlist.png" style="width:60%">
+<img src="/images/1capsmk-waitlist.png" style="width:60%">
