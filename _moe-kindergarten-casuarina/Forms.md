@@ -3,6 +3,16 @@ title: Forms
 permalink: /moe-kindergarten-casuarina/forms/
 description: ""
 ---
-### MK Wait List 
+<h3 style="color:DarkBlue;">GIRO</h3>
+
 ---
-To apply for MOE Kindergarten (MK) wait list, please click [here](https://go.gov.sg/capsmk-waitlist) or scan the QR Code below. ![](/images/1capsmk-waitlist.png)
+
+<h3 style="color:DarkBlue;">KIFAS</h3>
+
+---
+
+<h3 style="color:DarkBlue;">MK@Casuarina Waitlist</h3>
+
+---
+Click [here](https://go.gov.sg/capsmk-waitlist) or scan the QR code below to apply. 
+<img src="images/1capsmk-waitlist.png" style="width:60%">
