@@ -25,6 +25,11 @@ description: ""
 
 [Acknowledgement Form (MTL)](/files/MK@Casuarina/Forms/mtl%20acknowledgement.pdf)
 
+<h3 style="color:DarkBlue;">KCare Forms</h3>
+
+---
+
+Click [here](https://www.casuarinapri.moe.edu.sg/moe-kindergarten-casuarina/kindergarten-care-kcare/kcare-forms/) to find out more. 
 
 <h3 style="color:DarkBlue;">MK@Casuarina Waitlist</h3>
 
