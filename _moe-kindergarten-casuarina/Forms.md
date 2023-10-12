@@ -9,7 +9,7 @@ description: ""
 
 ****More information will be available at at later date.***
 
-<h3 style="color:DarkBlue;">KIFAS</h3>
+<h3 style="color:DarkBlue;">Kindergarten Fee Assistance Scheme (KiFAS)</h3>
 
 ---
 
