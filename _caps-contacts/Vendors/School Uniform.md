@@ -18,3 +18,9 @@ third_nav_title: Vendors
 <br>
 
 Click [here]( www.myuniformshop.com.sg) to find out more.
+
+<h4 style="color:DarkBlue;">Opening Hours during Year End 2023 and New Year Academic Year 2024</h4>
+
+----
+
+![](/images/year%20end%20book%20&amp;%20uniform%20sales%2012oct23.png)
