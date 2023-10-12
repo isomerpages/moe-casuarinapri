@@ -2,8 +2,8 @@ collections:
   moe-kindergarten-casuarina:
     output: true
     order:
-      - Overview of KCare/Overview of KCare (1).md
-      - Overview of KCare/.keep
+      - Kindergarten Care/Overview of KCare (1).md
+      - Kindergarten Care/.keep
       - About Us.md
       - Our Staffs in MK@CS.md
       - Announcement.md
