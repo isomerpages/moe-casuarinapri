@@ -30,4 +30,4 @@ description: ""
 
 ---
 Click [here](https://go.gov.sg/capsmk-waitlist) or scan the QR code below to apply. 
-<img src="images/1capsmk-waitlist.png" style="width:60%">
+<img src="/images/1capsmk-waitlist.png" style="width:60%">
