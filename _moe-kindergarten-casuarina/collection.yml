@@ -2,10 +2,10 @@ collections:
   moe-kindergarten-casuarina:
     output: true
     order:
-      - MK Uniform.md
       - About Us.md
       - Our Staffs in MK@CS.md
       - Announcement.md
       - Forms.md
       - Contact Us.md
       - Kindergarten Care.md
+      - MK Uniform.md
