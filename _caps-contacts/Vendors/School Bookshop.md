@@ -19,4 +19,4 @@ third_nav_title: Vendors
 
 ----
 
-![](/images/year%20end%20book%20&amp;%20uniform%20sales%2010oct23.jpg)
+![](/images/year%20end%20book%20&amp;%20uniform%20sales%2012oct23.png)
