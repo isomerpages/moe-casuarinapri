@@ -2,9 +2,9 @@ collections:
   moe-kindergarten-casuarina:
     output: true
     order:
-      - MK Family Handbook.md
       - About Us.md
       - Our Staffs in MK@CS.md
+      - MK Family Handbook.md
       - Announcement.md
       - MK Forms.md
       - Kindergarten Care (KCare)/.keep
