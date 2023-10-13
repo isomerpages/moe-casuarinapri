@@ -36,3 +36,11 @@ Click [here](https://www.casuarinapri.moe.edu.sg/moe-kindergarten-casuarina/kind
 ---
 Click [here](https://go.gov.sg/capsmk-waitlist) or scan the QR code below to apply. 
 <img src="/images/1capsmk-waitlist.png" style="width:60%">
+
+<h3 style="color:DarkBlue;">MK Family Handbook</h3>
+
+---
+
+Click [here](https://casuarinapri.moe.edu.sg/moe-kindergarten-casuarina/mk-family-handbook/) to find out more. 
+
+
