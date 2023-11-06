@@ -2,9 +2,10 @@
 title: About Us
 permalink: /moe-kindergarten-casuarina/aboutus/
 description: ""
+variant: markdown
 ---
 **ON TO A STRONG START!**
-<img src="/images/logo_casuarina_colour.jpg" style="width:50%">
+<img src="/images/mk%20logo.png" style="width:50%">
 
 Are you looking for a quality and affordable kindergarten programme for your preschool child?
 
