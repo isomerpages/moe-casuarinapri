@@ -34,3 +34,11 @@ It emphasizes the provision of time and space for children to play, explore and 
 
 <img src="/images/KCare/kcare.png" style="width:85%"> <br>
 <img src="/images/KCare/kcare1.png" style="width:85%"> <br>
+<img src="/images/KCare/kcare2.PNG" style="width:85%"> <br>
+<img src="/images/KCare/kcare_3.PNG" style="width:85%"> <br>
+
+   
+
+For more information on KCare, please visit&nbsp;https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care .
+
+For any enquiries, they can be reached at Email: KCCS@rafflesstudentcare.com .
