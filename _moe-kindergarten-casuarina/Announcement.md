@@ -9,4 +9,5 @@ variant: markdown
 ---
 Click [here](https://drive.google.com/file/d/1ab3PxMHDCsUv-1lq1t3ZX6nqfzLyKbwo/view?usp=sharing) for the slides that was shared on K1 Orientation Day 2024.
 
-[testing](https://docs.google.com/presentation/d/1su0UgUP8cnu-xhv7caUZfUPbL_9t4jZr/edit?usp=sharing&amp;ouid=101946221868518818170&amp;rtpof=true&amp;sd=true)
+Watch the following videos on [Curriculum Matters](https://drive.google.com/file/d/1rEDTbFz1RZyUREl3yAAlzy_sCTxpcuZ4/view?usp=sharing) 
+and [Every space is a learning space](https://drive.google.com/file/d/1TXw7E4qKt2nFBegIbgQVnCGH6nnuxouR/view?usp=sharing) to find out more. 
