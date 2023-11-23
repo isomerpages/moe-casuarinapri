@@ -32,4 +32,5 @@ They operate half-days on Christmas Eve, New Year’s Eve and Chinese New Year�
 The KCare programme has been designed to complement the MOE Kindergarten’s curriculum.  
 It emphasizes the provision of time and space for children to play, explore and discover. The programme also focuses on the importance of providing opportunities for the children to develop confidence, self-help skills, social skills and values such as responsibility, care and respect in a safe and conducive environment.
 
-<img src="/images/KCare/kcare.png" style="width:850%">
+<img src="/images/KCare/kcare.png" style="width:85%"> <br>
+<img src="/images/KCare/kcare1.png" style="width:85%"> <br>
