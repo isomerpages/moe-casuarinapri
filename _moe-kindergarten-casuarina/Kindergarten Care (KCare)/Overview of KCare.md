@@ -19,7 +19,7 @@ The programme includes meals as well as activities designed to provide time and 
 * Indoor and outdoor play, such as dramatic play, and sand and water play.
 
 
-<img src="/images/KCare/raffles_care.png" style="width:60%">
+<img src="/images/KCare/raffles_care.png" style="width:25%">
 
 We work with Raffles Student Care to help us run our KCare services.  
   
