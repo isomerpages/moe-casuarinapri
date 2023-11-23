@@ -19,7 +19,8 @@ The programme includes meals as well as activities designed to provide time and 
 * Indoor and outdoor play, such as dramatic play, and sand and water play.
 
 
-![](/images/KCare/raffles_care.png)
+<img src="images/KCare/raffles_care.png" style="width:70%">
+
 We work with Raffles Student Care to help us run our KCare services.  
   
-Raffles Student Care Centre was established in 2008 and has been operating community and school-based student care and KCare centres at various locations across the country. Guided by their vision of Building Our Next Generation, Raffles serves to inculcate core values and life skills to the young children to ensure they grow up well.
+Raffles Student Care Centre was established in 2008 and has been operating community and school-based student care and KCare centres at various locations across the country. Guided by their vision of&nbsp;Building Our Next Generation, Raffles serves to inculcate core values and life skills to the young children to ensure they grow up well.
