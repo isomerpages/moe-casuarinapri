@@ -2,7 +2,7 @@
 title: Student Care Services
 permalink: /caps-contacts/vendors/studentcareservices/
 description: ""
-third_nav_title: Vendors
+third_nav_title: Our Vendors
 ---
 #### Student Care Services
 ---
