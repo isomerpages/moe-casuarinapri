@@ -6,15 +6,9 @@ description: ""
 ---
 ### **Advertisement for Canteen Vendor**
 
-
-
 | Item| Closing Date|
 | -------- | -------- | 
 |Halal Western and Chicken Rice Stall | 7 December 2023|
-
-
-
-     
 
  #### <u>Application Procedure</u>
 
