@@ -3,11 +3,12 @@ title: Forms
 permalink: /caps-connection/for-parents/forms/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 <h3 style="color:DarkBlue;">MOE Financial Assistance Scheme</h3>
 
 ---
-**Details would be available at a later date.*
+ Click [here](https://go.gov.sg/moe-efas) to apply.
 
 <h3 style="color:DarkBlue;">Casuarina Primary School Waitlist</h3>
 
