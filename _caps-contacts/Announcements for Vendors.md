@@ -10,7 +10,7 @@ description: ""
 
 | Item| Closing Date|
 | -------- | -------- | 
-|Halal Western and Chicken Rice Stall   | 7 December 2023     |
+|Halal Western and Chicken Rice Stall | 7 December 2023|
 
 
 
@@ -27,7 +27,7 @@ description: ""
 * Address: 30 Pasir Ris St 41 S518935
 * Contact No: 65837132
 * Email: casuarina_ps@moe.edu.sg
-* Contact Person: Mr Abdul Rahman (Admin Executive) or Mdm Lee (Admin Manager)
+* Contact Person: **Mr Abdul Rahman** (Admin Executive) or **Mdm Lee** (Admin Manager)
 
 ---
  #### <u>Things to note</u>
