@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Contact Us.md
+      - Vendors/Announcements for Vendors.md
       - Vendors/.keep
       - Vendors/School Bus.md
       - Vendors/School Uniform.md
