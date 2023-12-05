@@ -2,6 +2,7 @@
 title: School Canteen Vendor Advertisement
 permalink: /schoolcanteenvendoradvertisement/
 description: ""
+variant: markdown
 ---
 ## **<u>School Canteen Advertisement</u>**
 
@@ -44,11 +45,11 @@ To apply, please refer to the Service Requirements and the Application Procedure
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 <br>
-3. Submit the completed application form and documents by closing date to the School's General Office.<br>
+3. Submit the completed application form and documents by 15 December 2023 to the School's General Office.<br>
 **Address:** 30 Pasir Ris Street 41, Singapore 518935<br>
 **Contact Number:** 6583 7132 *(General Office)*<br>
 **Email:** casuarina_ps@moe.edu.sg<br>
-**Contact Person:** Mr Tan *(Operations Manager)* or Mdm Lee *(Admin Manager)*
+**Contact Person:** Mdm Lee *(Admin Manager)*
 * * *
 
 #### **Getting to Casuarina Primary School**
