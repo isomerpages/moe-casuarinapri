@@ -8,7 +8,7 @@ description: ""
 
 | Item| Closing Date|
 | -------- | -------- | 
-|Halal Western and Chicken Rice Stall | 7 December 2023|
+|Halal Western and Chicken Rice Stall | 15 December 2023|
 
  #### <u>Application Procedure</u>
 
