@@ -19,5 +19,4 @@ variant: markdown
 <h4 style="color:DarkBlue;">Opening Hours during Year End 2023 and New Year Academic Year 2024</h4>
 
 ----
-
-![](/images/Year_End_book___Uniform_Sales_13Dec23_v3.jpg)
+<img src="/images/Year_End_book___Uniform_Sales_13Dec23_v3.jpg" style="width:90%">
