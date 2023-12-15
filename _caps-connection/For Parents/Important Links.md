@@ -1,32 +1,32 @@
 ---
 title: Important Links
-permalink: /caps-connection/For-Parents/Important-Links/
+permalink: /caps-connection/for-parents/important-links/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
-<h3 style="color:DarkBlue;">Parents</h3>
+<h3 style="color:DarkBlue;">Admin Matters</h3>
 
 ---
-<a href="https://www.schoolbag.edu.sg/"><img src="/images/Schoolbag.jpeg" 
-     style="width:100%;float:left"></a>
-<br>
-&nbsp;		 
-<a href="https://rafflesstudentcare.com/"><img src="/images/raffles.jpeg" 
-     style="width:100%;float:left"></a>
-<br>
-&nbsp;
-<a href="https://beta.moe.gov.sg/secondary/s1-posting/"><img src="/images/Sec1posting.jpeg" 
-     style="width:100%;float:left"></a>
-<br>
-&nbsp;		 
-<a href="https://beta.moe.gov.sg/secondary/dsa/"><img src="/images/DSA.jpeg" 
-     style="width:100%;float:left"></a>
-<br>
-&nbsp;
-<a href="https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html"><img src="/images/SLS%20Troubleshooting%20Guide.jpeg" 
-     style="width:100%;float:left"></a>
-<br>
-&nbsp;
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vR3BGx41jZr4Rvhf5mTlxcuA6jP8sUslkBnwAp6sQ2QmFISluU7ZiR75Em0futpQw/pub?start=false&loop=false&delayms=3000&slide=id.p1"><img src="/images/lsp.png" 
-     style="width:100%;float:left"></a>
-&nbsp;
+[Casuarina Primary School Waitlist](https://go.gov.sg/capswaitlist)<br>
+[Leave of Absence (LOA) Application ](https://form.gov.sg/60fba258d0fde70012525a82)<br>
+[Isurance Claims](/files/Income%20Gp%20Insurance%20for%20Students%20-%20Form%20%20Product%20Fact%20Sheet%20Year%202023%20(002).pdf)<br>
+[Student Medical Records](https://go.gov.sg/capsstudentmedrec)<br>
+[MOE e-Giro](https://go.gov.sg/capsmoegiro)<br>
+[Edusave Standing Order](https://form.gov.sg/5be24a1bb3f842000fdc4e59)<br>
+[MOE Financial Assistance Scheme (FAS)](https://form.gov.sg/64e2f8f73f582600139f54ac)<br>
+[Parents Gateway Onboarding Guide](https://go.gov.sg/capspgguide2022)<br>
+
+<h3 style="color:DarkBlue;">Our Vendors</h3>
+
+---
+[Purchase of School Attire (Online)](https://www.myuniformshop.com.sg/)<br>
+[School Bus ](https://casuarinapri.moe.edu.sg/caps-contacts/vendors/schoolbus/)<br>
+[School Bookshop](https://www.casuarinapri.moe.edu.sg/caps-contacts/vendors/school-bookshop/)<br>
+[Student Care Services](https://rafflesstudentcare.com/)<br>
+
+<h3 style="color:DarkBlue;">Resources</h3>
+
+---
+[School Bag](https://www.schoolbag.edu.sg/)<br>
+[Useful websites for Learning Support Programme (LSP)](https://docs.google.com/presentation/d/e/2PACX-1vR3BGx41jZr4Rvhf5mTlxcuA6jP8sUslkBnwAp6sQ2QmFISluU7ZiR75Em0futpQw/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p1)<br>
