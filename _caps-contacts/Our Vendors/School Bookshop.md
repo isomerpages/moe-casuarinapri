@@ -3,6 +3,7 @@ title: School Bookshop
 permalink: /caps-contacts/vendors/school-bookshop/
 description: ""
 third_nav_title: Our Vendors
+variant: markdown
 ---
 #### School Bookshop
 ---
@@ -19,4 +20,4 @@ third_nav_title: Our Vendors
 
 ----
 
-![](/images/year%20end%20book%20&amp;%20uniform%20sales%2012oct23.png)
+![](/images/Year_End_book___Uniform_Sales_13Dec23_v3.jpg)
