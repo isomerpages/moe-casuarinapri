@@ -23,3 +23,10 @@ variant: markdown
 [Purchase of School Attire (Online)](https://www.myuniformshop.com.sg/)<br>
 [School Bus ](https://casuarinapri.moe.edu.sg/caps-contacts/vendors/schoolbus/)<br>
 [School Bookshop](https://www.casuarinapri.moe.edu.sg/caps-contacts/vendors/school-bookshop/)<br>
+[Student Care Services](https://rafflesstudentcare.com/)<br>
+
+<h3 style="color:DarkBlue;">Resources</h3>
+
+---
+[School Bag](https://www.schoolbag.edu.sg/)<br>
+[Useful websites for Learning Support Programme (LSP)](https://docs.google.com/presentation/d/e/2PACX-1vR3BGx41jZr4Rvhf5mTlxcuA6jP8sUslkBnwAp6sQ2QmFISluU7ZiR75Em0futpQw/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p1)<br>
