@@ -5,4 +5,4 @@ description: ""
 third_nav_title: For Parents
 variant: markdown
 ---
-![](/images/This_page_isnt_available_error_msg_icon_for_school_website.png)
+<img src="/images/This_page_isnt_available_error_msg_icon_for_school_website.png" style="width:70%">
