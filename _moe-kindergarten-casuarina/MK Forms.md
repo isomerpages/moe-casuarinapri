@@ -2,6 +2,7 @@
 title: MK Forms
 permalink: /moe-kindergarten-casuarina/mk-forms/
 description: ""
+variant: markdown
 ---
 <h3 style="color:DarkBlue;">GIRO</h3>
 
@@ -31,7 +32,7 @@ description: ""
 
 Click [here](https://www.casuarinapri.moe.edu.sg/moe-kindergarten-casuarina/kindergarten-care-kcare/kcare-forms/) to find out more. 
 
-<h3 style="color:DarkBlue;">MK@Casuarina Waitlist</h3>
+<h3 style="color:DarkBlue;">Request to transfer into MK@Casuarina</h3>
 
 ---
 Click [here](https://go.gov.sg/capsmk-waitlist) or scan the QR code below to apply. 
@@ -41,6 +42,4 @@ Click [here](https://go.gov.sg/capsmk-waitlist) or scan the QR code below to app
 
 ---
 
-Click [here](https://casuarinapri.moe.edu.sg/moe-kindergarten-casuarina/mk-family-handbook/) to find out more. 
-
-
+Click [here](https://casuarinapri.moe.edu.sg/moe-kindergarten-casuarina/mk-family-handbook/) to find out more.
