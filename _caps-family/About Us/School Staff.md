@@ -3,13 +3,13 @@ title: School Staff
 permalink: /caps-family/About-Us/School-Staff/
 description: ""
 third_nav_title: About Us
+variant: markdown
 ---
 ###  <u style="color:darkgreen"> School Leaders</u><br> 
 
 |Name| | Designation |
 | -------- | -------- | -------- |
 | Mrs Pek Kwee Lan |      | Principal|
-|Mr Steven Wong Junfu| | Vice-Principal
 |Mr Tayeb Rajib || Vice-Principal
 |Mdm Hafsah Abdullah ||Vice-Principal (Admin)
 
@@ -72,7 +72,6 @@ Mdm Low Xiaoxuan|SH / Special Education Needs|
 |Mrs Mulder - Aishwarya Manu|SEN Officer 
 |Miss Poh Siew Hong|School Counsellor  
 |Ms Dewi Suryaningsih|School Counsellor 
-|Mrs Esther Chia (Mdm Poh Pey Lin)|Student Welfare Education Officer 
 
 ### <u style="color:darkgreen">Our Teachers</u><br>
 
