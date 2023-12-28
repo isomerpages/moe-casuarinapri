@@ -8,4 +8,4 @@ variant: markdown
 
 <h3> Our School Song</h3>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Casuarina Primary School Song" src="https://www.youtube.com/embed/TXKBBuoSMKA" height="715" width="1271"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; encrypted-media; gyroscope" frameborder="0" title="Casuarina Primary School Song" src="https://www.youtube.com/embed/TXKBBuoSMKA" height="715" width="1271"></iframe>
