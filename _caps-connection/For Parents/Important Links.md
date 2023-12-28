@@ -8,7 +8,7 @@ variant: markdown
 <h3 style="color:DarkBlue;">Admin Matters</h3>
 
 ---
-[Casuarina Primary School Waitlist](https://go.gov.sg/capswaitlist)<br>
+[Request for transfer into Casuarina Primary School](https://go.gov.sg/capswaitlist)<br>
 [Leave of Absence (LOA) Application ](https://form.gov.sg/60fba258d0fde70012525a82)<br>
 [Insurance Claims](/files/Income%20Gp%20Insurance%20for%20Students%20-%20Form%20%20Product%20Fact%20Sheet%20Year%202023%20(002).pdf)<br>
 [Student Medical Records](https://go.gov.sg/capsstudentmedrec)<br>
