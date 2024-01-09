@@ -2,6 +2,7 @@ collections:
   caps-family:
     output: true
     order:
+      - About Us/School Canteen Menu.md
       - About Us/Principal's Message.md
       - About Us/Vision, Mission & Values.md
       - About Us/School Crest & Motto.md
