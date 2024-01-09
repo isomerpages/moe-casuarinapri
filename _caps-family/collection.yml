@@ -2,6 +2,7 @@ collections:
   caps-family:
     output: true
     order:
+      - About Us/.keep
       - About Us/Principal's Message.md
       - About Us/Vision, Mission & Values.md
       - About Us/School Crest & Motto.md
@@ -10,7 +11,7 @@ collections:
       - About Us/School Staff.md
       - About Us/School Calendar.md
       - About Us/School Homework Policy.md
-      - About Us/.keep
+      - About Us/School Canteen Menu.md
       - Partnership.md
       - Photo Gallery/2023.md
       - Photo Gallery/.keep
