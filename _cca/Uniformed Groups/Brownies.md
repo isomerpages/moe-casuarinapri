@@ -3,20 +3,6 @@ title: Brownies
 permalink: /cca/Uniformed-Groups/Brownies/
 description: ""
 third_nav_title: Uniformed Groups
+variant: tiptap
 ---
-Casuarina Primary School Brownies was formed in 2004. The school pack is known as CAPS Pack 1. During our Brownies meetings, the Brownies and Tweenies play games, sing songs, do craftworks and learn skills such as cooking, sewing and tent-pitching. We help out during school events such as Upper Primary and Lower Primary Games Day. Our brownies actively participate in the events organised by the Girl Guide’s Association such as the World Thinking Day Celebration, East Division Day and the National Brownie Challenge. We build friendships with Brownies and Girl Guides from other schools as we attend camps together.
-
-  **Teachers-in-charge of Brownies:** 
-
-* Mdm Marina Nasib
-* Mdm Halena Abd Rahman
-* Miss Khaireen Faezah
-
-<img src="/images/20190430_152455.jpeg" 
-     style="width:50%;float:left"><img src="/images/20190430_154945.jpeg" 
-     style="width:50%;float:left">
-<img src="/images/20190726_150427.jpeg" 
-     style="width:50%;float:left"><img src="/images/20190726_153555.jpeg" 
-     style="width:50%">
-		 
-[Back to CCA](/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/)
+<p>Brownies CCA aims to inculcate in students self-reliance, resilience, discipline and a spirit of service to others. Casuarina Primary School Brownies pack is known as CAPS 1st Pack. </p><p>During the CCA sessions, Brownies and Tweenies play games, sing songs, do craftworks and learn skills such as cooking, sewing and tent-pitching. Brownies also provides service during school events such as Games Day.</p><p>Our Brownies participate actively in events organised by the Girl Guides Singapore such as the World Thinking Day Celebration, East Division Day and the National Brownie Challenge. Through these events, the Brownies build friendships with Brownies and Guides from other schools. </p><p><strong>Teachers-in-charge of Brownies:</strong></p><ul data-tight="true" class="tight"><li><p>Mdm Marina Nasib</p></li><li><p>Mdm Halena Abd Rahman</p></li><li><p>Miss Khaireen Faezah</p></li></ul><div class="isomer-image-wrapper"><img style="width:50%;float:left" height="auto" width="100%" src="/images/20190430_152455.jpeg"></div><div class="isomer-image-wrapper"><img style="width:50%;float:left" height="auto" width="100%" src="/images/20190430_154945.jpeg"></div><div class="isomer-image-wrapper"><img style="width:50%;float:left" height="auto" width="100%" src="/images/20190726_150427.jpeg"></div><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/20190726_153555.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/brownies_1.jpg"></div><p><a href="/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/" rel="noopener noreferrer nofollow" target="_blank">Back to CCA</a></p>
