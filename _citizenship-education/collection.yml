@@ -1,0 +1,30 @@
+collections:
+  citizenship-education:
+    output: true
+    order:
+      - National Education/Total Defence Day.md
+      - National Education/International Friendship Day (IFD).md
+      - National Education/Racial Harmony Day.md
+      - National Education/P5 NE Show.md
+      - National Education/National Day Celebration.md
+      - National Education/.keep
+      - Social Studies/Social Studies.md
+      - Social Studies/Primary 1 Learning Journey to Peranakan Museum.md
+      - Social Studies/Primary 2 Singapore Philatelic Museum.md
+      - Social Studies/Primary 3 Singapore Urban Redevelopment Authority (URA)
+        Gallery.md
+      - Social Studies/.keep
+      - Value In Action/Value in Action.md
+      - Value In Action/P1 I'm a Responsible Child.md
+      - Value In Action/P2 I'm a More Responsible Child.md
+      - Value In Action/P3 Canteen Cleaning.md
+      - Value In Action/P4 NEA Clean Singapore Learning Trail.md
+      - Value In Action/P6 No Efforts Too Small.md
+      - Value In Action/.keep
+      - Environment Education.md
+      - Global Outreach/.keep
+      - Global Outreach/Global Outreach.md
+      - Global Outreach/Cultural and Aesthetic Immersion Programme to Bandung,
+        Indonesia.md
+      - Global Outreach/IS Get To Know Session.md
+      - Global Outreach/Northeast Heritage Trail.md

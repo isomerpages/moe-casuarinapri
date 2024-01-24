@@ -1,0 +1,15 @@
+collections:
+  moe-kindergarten-casuarina:
+    output: true
+    order:
+      - About Us.md
+      - Our Staffs in MK@CS.md
+      - MK Family Handbook.md
+      - Announcement.md
+      - MK Forms.md
+      - Kindergarten Care (KCare)/.keep
+      - Kindergarten Care (KCare)/Overview of KCare.md
+      - Kindergarten Care (KCare)/KCare Forms.md
+      - Kindergarten Care (KCare)/Contact Us.md
+      - MK Uniform.md
+      - Contact Us.md

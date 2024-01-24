@@ -1,0 +1,7 @@
+collections:
+  ict:
+    output: true
+    order:
+      - Cyber Wellness.md
+      - Code For Fun (CFF).md
+      - School Library.md
