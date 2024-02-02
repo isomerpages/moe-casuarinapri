@@ -35,8 +35,8 @@ Click [here](https://www.casuarinapri.moe.edu.sg/moe-kindergarten-casuarina/kind
 <h3 style="color:DarkBlue;">Request to transfer into MK@Casuarina</h3>
 
 ---
-Click [here](https://go.gov.sg/capsmk-waitlist) or scan the QR code below to apply. 
-<img src="/images/1capsmk-waitlist.png" style="width:60%">
+Click [here](https://go.gov.sg/mk-cs-trf-req) or scan the QR code below to apply. 
+<img src="/images/MK@Casuarina%20/https___go_gov_sg_mk_cs_trf_req.png" style="width:60%">
 
 <h3 style="color:DarkBlue;">MK Family Handbook</h3>
 
