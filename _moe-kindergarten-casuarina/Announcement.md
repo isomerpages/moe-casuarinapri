@@ -2,12 +2,13 @@
 title: Announcement
 permalink: /moe-kindergarten-casuarina/announcement/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<h3 style="color:DarkBlue;">K1 Orientation Day (2024)</h3>
-
----
-Click [here](https://drive.google.com/file/d/1ab3PxMHDCsUv-1lq1t3ZX6nqfzLyKbwo/view?usp=sharing) for the slides that was shared on K1 Orientation Day 2024.
-
-Watch the following videos on [Curriculum Matters](https://drive.google.com/file/d/1rEDTbFz1RZyUREl3yAAlzy_sCTxpcuZ4/view?usp=sharing) 
-and [Every space is a learning space](https://drive.google.com/file/d/1TXw7E4qKt2nFBegIbgQVnCGH6nnuxouR/view?usp=sharing) to find out more.
+<h3>MK@Casuarina Open House (2024)</h3>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Casuarina%20/MK_CS_Stamp_Card__Template_.png">
+</div>
+<p>Click <a href="https://drive.google.com/file/d/1eD5ghRu5gDBwpXgDcXg5-niT1PGye_0m/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+find out more about us.</p>
+<p></p>
