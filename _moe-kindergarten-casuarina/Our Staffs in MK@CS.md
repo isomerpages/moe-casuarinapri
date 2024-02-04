@@ -4,4 +4,4 @@ permalink: /moe-kindergarten-casuarina/ourstaff/
 description: ""
 variant: markdown
 ---
-![](/images/MK@Casuarina%20/School_org_CHart.png)
+![](/images/MK@Casuarina%20/School_org_CHart__1_.png)
