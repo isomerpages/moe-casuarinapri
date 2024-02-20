@@ -4,7 +4,7 @@ permalink: /moe-kindergarten-casuarina/announcement/
 description: ""
 variant: tiptap
 ---
-<h3>MK@Casuarina Open House (2024)</h3>
+<h3>MK@Casuarina (2024)</h3>
 <hr>
 <p>Click <a href="https://drive.google.com/file/d/1TO6jV0j6_pC_2ZJdsNrlKMBKdSV6t9fQ/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more about us.</p>
