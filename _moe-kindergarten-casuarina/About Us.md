@@ -31,9 +31,10 @@ within the same premises.</p>
 <p>For more information on MOE Kindergarten, you may wish to visit&nbsp;
 <a href="http://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/mk</a>
 </p>
+<p></p>
 <hr>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/25BaOjAhFV0?si=1toJSKG1RAlKWBSa"></iframe>
 </div>
-<p></p>
 <p></p>
