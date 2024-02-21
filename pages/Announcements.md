@@ -4,10 +4,6 @@ permalink: /announcements/
 description: ""
 variant: markdown
 ---
-**[CCA Experience 2024](https://go.gov.sg/caps-cca-experience)**
-<br>
-Click the title for more details about our CCA.
-
 **[Parents and Students Resource Kits](https://tinyurl.com/capshblresourcekit)**
 <br>
 Click on the title to view more information on how to manage Home-based Learning.
