@@ -10,7 +10,7 @@ variant: markdown
 ---
 [Request for transfer into Casuarina Primary School](https://go.gov.sg/capswaitlist)<br>
 [Leave of Absence (LOA) Application ](https://go.gov.sg/capsloa)<br>
-[Insurance Claims](/files/Important%20Links/MOE_Student_Product_Fact_Sheet_Year_2024__1_.pdf)<br>
+[Insurance Claims](/files/Important%20Links/Product_Fact_Sheet__Year_2024_May__Revised.pdf)<br>
 [Student Medical Records](https://go.gov.sg/capsstudentmedrec)<br>
 [MOE e-Giro](https://go.gov.sg/capsmoegiro)<br>
 [Edusave Standing Order](https://form.gov.sg/5be24a1bb3f842000fdc4e59)<br>
