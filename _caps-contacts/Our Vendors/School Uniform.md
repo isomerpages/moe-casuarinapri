@@ -3,6 +3,7 @@ title: School Uniform
 permalink: /caps-contacts/vendors/school-uniform/
 description: ""
 third_nav_title: Our Vendors
+variant: markdown
 ---
 #### School Uniform
 ---
@@ -17,7 +18,7 @@ third_nav_title: Our Vendors
 *   2 pm - 3.00 pm (for walk-in purchase by parents)
 <br>
 
-Click [here]( www.myuniformshop.com.sg) to find out more.
+Click [here](https://www.myuniformshop.com.sg/) to find out more.
 
 <h4 style="color:DarkBlue;">Opening Hours during Year End 2023 and New Year Academic Year 2024</h4>
 
