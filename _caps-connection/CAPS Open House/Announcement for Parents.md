@@ -7,7 +7,4 @@ variant: tiptap
 ---
 <h4><u>Announcement for P1 Parents of 2025</u></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Important Links/CAPS_Open_House_2024.jpg">
-</div>
 <p></p>
