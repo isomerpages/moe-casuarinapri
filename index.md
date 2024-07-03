@@ -15,4 +15,12 @@ sections:
         - title: HIGHLIGHTS
           description: ""
           url: /highlights/
+  - infobar:
+      title: Open House
+      subtitle: P1 Parents of 2025
+      id: infobar
+      description: Join us for a tour and chat with our School Leaders to explore our
+        exciting programs and CCA offerings.
+      button: Register here
+      url: https://www.casuarinapri.moe.edu.sg/caps-connection/caps-open-house/announcementforparents/
 ---
