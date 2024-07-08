@@ -2,8 +2,8 @@ collections:
   caps-contacts:
     output: true
     order:
-      - For Our Vendors/Announcement for Vendors.md
-      - For Our Vendors/.keep
+      - For Vendors/Announcement for Vendors.md
+      - For Vendors/.keep
       - Contact Us.md
       - Our Vendors/.keep
       - Our Vendors/School Bus.md
