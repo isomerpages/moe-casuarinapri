@@ -10,8 +10,7 @@ third_nav_title: For Vendors
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CAPS Canteen Menu/Table_for_Vendors_2.png">
 </div>
-<p><strong>Application Procedure</strong>
-</p>
+<h3><strong>Application Procedure</strong></h3>
 <p>1. Download and complete the <a href="/files/application form for canteen stalls.pdf" rel="noopener noreferrer nofollow" target="_blank">application form</a>.
 You may also request for a hardcopy from the School’s General Office.</p>
 <p>2. Attached the following documents together with the application form:</p>
@@ -44,9 +43,9 @@ to the School's General Office.</p>
 <p>Contact Person: Mr Abdul Rahman (Admin Executive) or Mdm Lee (Admin Manager)</p>
 </li>
 </ul>
-<p></p>
-<p><strong>How to get there?</strong>
-</p>
+<blockquote>
+<h4><strong>How to get there?</strong></h4>
+</blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nearest MRT: Pasir Ris MRT (East-West Line)</p>
@@ -56,9 +55,7 @@ to the School's General Office.</p>
 </p>
 </li>
 </ul>
-<p></p>
-<p><strong>Interested applicants must meet the following criteria:</strong>
-</p>
+<h4><strong>Interested applicants must meet the following criteria:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
@@ -80,8 +77,7 @@ Programme (HMSP)" guidelines (see [link](<a rel="noopener noreferrer nofollow" t
 <p>Healthy and fit to operate the stall.</p>
 </li>
 </ul>
-<p><strong>Applicants should preferably fulfil the following criteria:</strong>
-</p>
+<h4><strong>Applicants should preferably fulfil the following criteria:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Possess catering experience or experience operating in a school environment.</p>
@@ -90,8 +86,7 @@ Programme (HMSP)" guidelines (see [link](<a rel="noopener noreferrer nofollow" t
 <p><em><sup>*</sup>Only shortlisted applicants will be notified. Shortlisted applicants would be required to undergo an interview and to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
 </p>
 <p></p>
-<p><strong>Successful applicant is required to: </strong>
-</p>
+<h4><strong>Successful applicant is required to:</strong></h4>
 <p>Apply for a food stall license from Singapore Food Agency (SFA).</p>
 <p>Successful applicant and stall assistant(s) must possess the WSQ Basic
 Food Hygiene Certificate.</p>
