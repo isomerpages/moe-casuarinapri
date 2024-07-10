@@ -89,7 +89,7 @@ Mdm Low Xiaoxuan|SH / Special Education Needs|
 3A	|Mdm Siti Fauziah 	|Mdm Kasthuri 	 
 3B	|Mdm Salha 	|Mdm Yeow Wai Foong 	|
 3C	|Miss Cindy Soh |	Mdm Liu Rui Hong 	 
-3D|	Mrs Jane Ooi |	Mr Daniel Lee | Mr Scott Foong
+3D|	Mr Ben Lim |	Mr Daniel Lee | 
 3E	|Mr Jackson Yeo |	Mdm Ong Hui Lin
 4A|	Mdm Aliza 	|Mdm Lau Ai Theng
 4B	|Miss Melody Wong	|Mdm Marina
