@@ -89,7 +89,7 @@ Programme (HMSP)" guidelines (see <a href="https://www.hpb.gov.sg/schools/school
 <p><em><sup>Only shortlisted applicants will be notified. Shortlisted applicants would be required to undergo an interview and to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</sup></em>
 </p>
 <p></p>
-<p><strong>Successful applicant is required to: </strong>
+<p><strong>Successful applicant is required to:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
