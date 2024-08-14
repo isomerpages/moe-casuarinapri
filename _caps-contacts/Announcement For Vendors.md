@@ -1,18 +1,17 @@
 ---
-title: Announcement for Vendors
+title: Announcement For Vendors
 permalink: /announcement-for-vendors/
 variant: tiptap
 description: ""
-third_nav_title: For Vendors
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CAPS Canteen Menu/Table_for_Vendors_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CAPS Canteen Menu/Chinese_Rice_Stall_Ad_2.png">
 </div>
-<h3><strong>Application Procedure</strong></h3>
-<p>1. Download and complete the <a href="/files/application form for canteen stalls.pdf" rel="noopener noreferrer nofollow" target="_blank">application form</a>.
+<h4><strong>Application Procedure</strong></h4>
+<p>1. Download and complete the <a href="/files/Application_Form_for_Canteen_Stalls.pdf" rel="noopener noreferrer nofollow" target="_blank">application form</a>.
 You may also request for a hardcopy from the School’s General Office.</p>
+<p></p>
 <p>2. Attached the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -26,11 +25,12 @@ You may also request for a hardcopy from the School’s General Office.</p>
 etc</p>
 </li>
 </ul>
+<p></p>
 <p>3. Submit the completed application form and documents by closing date
 to the School's General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Address: 30 Pasir Ris St 41 S518935</p>
+<p>Address: 30 Pasir Ris St 41, Singapore 518935</p>
 </li>
 <li>
 <p>Contact No: 65837132</p>
@@ -43,19 +43,20 @@ to the School's General Office.</p>
 <p>Contact Person: Mr Abdul Rahman (Admin Executive) or Mdm Lee (Admin Manager)</p>
 </li>
 </ul>
-<blockquote>
-<h4><strong>How to get there?</strong></h4>
-</blockquote>
+<p></p>
+<p><strong>How to get there?</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nearest MRT: Pasir Ris MRT (East-West Line)</p>
 </li>
 <li>
-<p>Bus number: <a rel="noopener noreferrer nofollow" target="_blank">12, 21, 358</a>
-</p>
+<p>Bus number: 12, 21, 358</p>
 </li>
 </ul>
-<h4><strong>Interested applicants must meet the following criteria:</strong></h4>
+<p></p>
+<p><strong>Interested applicants must meet the following criteria:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
@@ -68,7 +69,7 @@ consultation with the school.</p>
 <li>
 <p>Able to provide cooked food that meets the health / nutritional standards
 set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools
-Programme (HMSP)" guidelines (see [link](<a rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>)).</p>
+Programme (HMSP)" guidelines (see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
 </li>
 <li>
 <p>Able to maintain high standard of food safety and personal hygiene.</p>
@@ -77,16 +78,26 @@ Programme (HMSP)" guidelines (see [link](<a rel="noopener noreferrer nofollow" t
 <p>Healthy and fit to operate the stall.</p>
 </li>
 </ul>
-<h4><strong>Applicants should preferably fulfil the following criteria:</strong></h4>
+<p></p>
+<p><strong>Applicants should preferably fulfil the following criteria:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Possess catering experience or experience operating in a school environment.</p>
 </li>
 </ul>
-<p><em><sup>*</sup>Only shortlisted applicants will be notified. Shortlisted applicants would be required to undergo an interview and to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
+<p><em><sup>Only shortlisted applicants will be notified. Shortlisted applicants would be required to undergo an interview and to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</sup></em>
 </p>
 <p></p>
-<h4><strong>Successful applicant is required to:</strong></h4>
+<p><strong>Successful applicant is required to:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Apply for a food stall license from Singapore Food Agency (SFA).</p>
+</li>
+<li>
 <p>Successful applicant and stall assistant(s) must possess the WSQ Basic
 Food Hygiene Certificate.</p>
+</li>
+</ul>
+<p></p>
