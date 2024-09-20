@@ -4,9 +4,9 @@ permalink: /announcement-for-vendors/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CAPS Canteen Menu/Chinese_Rice_Stall_Ad_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CAPS Canteen Menu/Chinese_Rice_Stall_Ad_Extend_2024.png">
 </div>
 <h4><strong>Application Procedure</strong></h4>
 <p>1. Download and complete the <a href="/files/Application_Form_for_Canteen_Stalls.pdf" rel="noopener noreferrer nofollow" target="_blank">application form</a>.
