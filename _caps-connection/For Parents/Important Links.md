@@ -14,8 +14,10 @@ variant: markdown
 [Student Medical Records](https://go.gov.sg/capsstudentmedrec)<br>
 [MOE e-Giro](https://go.gov.sg/capsmoegiro)<br>
 [Edusave Standing Order](https://form.gov.sg/5be24a1bb3f842000fdc4e59)<br>
-[MOE Financial Assistance Scheme (FAS)](https://form.gov.sg/64e2f8f73f582600139f54ac)<br>
+[MOE Financial Assistance Scheme (FAS)](https://go.gov.sg/moe-efas)<br>
 [Parents Gateway Onboarding Guide](https://go.gov.sg/capspgguide2022)<br>
+[Application to offer an official MT Language (Chinese/Malay/Tamil)](/files/Form_1___MTL.pdf) <br>
+[Application to offer Non-Tamil Indian Language](/files/Form_3___NTIL.pdf)<br>
 
 <h3 style="color:DarkBlue;">Our Vendors</h3>
 
