@@ -5,19 +5,21 @@ description: ""
 third_nav_title: For Parents
 variant: markdown
 ---
-<h3 style="color:DarkBlue;">Admin Matters</h3>
+<h2 style="color:DarkBlue;">Admin Matters</h2>
 
 ---
 [Request for transfer into Casuarina Primary School](https://go.gov.sg/capswaitlist)<br>
-[Leave of Absence (LOA) Application ](https://go.gov.sg/capsloa)<br>
+[Leave of Absence (LOA) Application Form](https://go.gov.sg/capsloa)<br>
 [Insurance Claims](/files/Important%20Links/Product_Fact_Sheet__Year_2024_May__Revised.pdf)<br>
-[Student Medical Records](https://go.gov.sg/capsstudentmedrec)<br>
-[MOE e-Giro](https://go.gov.sg/capsmoegiro)<br>
-[Edusave Standing Order](https://form.gov.sg/5be24a1bb3f842000fdc4e59)<br>
+[Student Medical Records Form](https://go.gov.sg/capsstudentmedrec)<br>
+[MOE e-GIRO Form](https://go.gov.sg/capsmoegiro)<br>
+MOE e-GIRO FAQ <br>
+MOE e-GIRO User Guide for Parents <br>
+[Edusave Standing Order Form](https://form.gov.sg/5be24a1bb3f842000fdc4e59)<br>
 [MOE Financial Assistance Scheme (FAS)](https://go.gov.sg/moe-efas)<br>
 [Parents Gateway Onboarding Guide](https://go.gov.sg/capspgguide2022)<br>
-[Application to offer an official MT Language (Chinese/Malay/Tamil)](/files/Form_1___MTL.pdf) <br>
-[Application to offer Non-Tamil Indian Language](/files/Form_3___NTIL.pdf)<br>
+[Application Form to offer an official MT Language (Chinese/Malay/Tamil)](/files/Form_1___MTL.pdf) <br>
+[Application Form to offer Non-Tamil Indian Language](/files/Form_3___NTIL.pdf)<br>
 
 <h3 style="color:DarkBlue;">Our Vendors</h3>
 
