@@ -16,7 +16,7 @@ variant: markdown
 
 **Contact Number :** 62432832
 
-<h4 style="color:DarkBlue;">Opening Hours during Year End 2024 and New Year Academic Year 202</h4>
+<h4 style="color:DarkBlue;">Opening Hours during Year End 2024 and New Year Academic Year 2025</h4>
 
 ----
 Coming Soon ...
