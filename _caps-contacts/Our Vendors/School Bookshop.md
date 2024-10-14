@@ -16,10 +16,10 @@ variant: markdown
 
 **Contact Number :** 62432832
 
-<h4 style="color:DarkBlue;">Opening Hours during Year End 2023 and New Year Academic Year 2024</h4>
+<h4 style="color:DarkBlue;">Opening Hours during Year End 2024 and New Year Academic Year 202</h4>
 
 ----
-<img src="/images/Year_End_book___Uniform_Sales_13Dec23_v3.jpg" style="width:90%">
+Coming Soon ...
 
 <h4 style="color:DarkBlue;">Booklist for 2024</h4>
 
@@ -32,4 +32,3 @@ variant: markdown
 [Primary 5 (Foundation)](https://drive.google.com/file/d/1MUV34xudUpHA42QU9rYuxcexsgQSKbeS/view?usp=sharing)<br>
 [Primary 6](https://drive.google.com/file/d/1OrUuSsGWg6sSWwzD23BFsdbmEq77-FPB/view?usp=sharing)<br>
 [Primary 6 (Foundation)](https://drive.google.com/file/d/1xg9Wg5VaIKe5QuNTWK4yQsuJSeG9yiQS/view?usp=sharing)<br>
-
