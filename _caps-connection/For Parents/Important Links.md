@@ -27,9 +27,9 @@ variant: tiptap
 <p><a href="https://www.myuniformshop.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Purchase of School Attire (Online)</a>
 <br><a href="https://casuarinapri.moe.edu.sg/caps-contacts/vendors/schoolbus/" rel="noopener noreferrer nofollow" target="_blank">School Bus </a>
 <br><a href="https://www.casuarinapri.moe.edu.sg/caps-contacts/vendors/school-bookshop/" rel="noopener noreferrer nofollow" target="_blank">School Bookshop</a>
-<br><a href="https://rafflesstudentcare.com/" rel="noopener noreferrer nofollow" target="_blank">Student Care Services </a>
+<br><a href="https://rafflesstudentcare.com/" rel="noopener noreferrer nofollow" target="_blank">Student Care Services</a>
 </p>
-<p><a href="http://www.rafflesstudentcare.com/Interest" rel="noopener nofollow" target="_blank">[2025] P1 Parents - Expression of Interest Form for Student Care Services</a>
+<p><a href="http://www.rafflesstudentcare.com/Interest" rel="noopener noreferrer nofollow" target="_blank">[2025] P1 Parents - Expression of Interest Form for Student Care Services</a>
 </p>
 <h3>Resources</h3>
 <hr>
