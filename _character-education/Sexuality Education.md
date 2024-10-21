@@ -107,7 +107,7 @@ out of Sexuality Education lessons, and/or supplementary Sexuality Education
 programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the Sexuality Education lessons need to complete an opt-out form.
-Please click on this link to complete the <a href="https://go.gov.sg/p6moesexualityed-optout" rel="noopener noreferrer nofollow" target="_blank">Parents Opt-Out Form</a>.</p>
+Please click on this link to complete the <a href="https://go.gov.sg/p5moesexualityed-optout" rel="noopener noreferrer nofollow" target="_blank">Parents Opt-Out Form</a>.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <strong>6583 7132</strong> or
 email at&nbsp;casuarinaps@moe.edu.sg for discussion or to seek clarification
 about the school’s Sexuality Education programme.</p>
