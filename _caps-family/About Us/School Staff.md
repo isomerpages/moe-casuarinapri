@@ -107,5 +107,5 @@ Mdm Low Xiaoxuan|SH / Special Education Needs|
 6B	|Miss Amy Ong|	Mdm Asmah 	 | Mdm Norashikin
 6C	|Miss Regina Lim 	|Mdm Milahwati	  	 
 6D	|Mrs Ivy Wai	|Mdm Huang Yan
-6E	|Mdm Camillus 	|Mdm Nor Baizura
+6E	|Mrs Camillus Mohan 	|Mdm Nor Baizura
 6F	|Ms Theresa Wong 	|Mdm Halena
