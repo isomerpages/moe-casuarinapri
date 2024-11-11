@@ -16,6 +16,15 @@ sections:
           description: ""
           url: /highlights/
   - infopic:
+      title: E-YEARBOOK 2024
+      id: infopic
+      description: Get ready! The E-Yearbook is coming soon, capturing all the amazing
+        memories and highlights from this year. Stay tuned to relive those
+        special moments!
+      button: Click Here to view
+      url: https://casuarinapri.moe.edu.sg/digital-yearbook/
+      image: /images/CASUARINA_PRIMARY_SCHOOL__4_.png
+  - infopic:
       title: JOIN US TODAY!
       subtitle: Canteen stall vendor
       id: infopic
