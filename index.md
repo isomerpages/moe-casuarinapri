@@ -24,6 +24,7 @@ sections:
       button: Click Here to view
       url: https://casuarinapri.moe.edu.sg/digital-yearbook/
       image: /images/CASUARINA_PRIMARY_SCHOOL__4_.png
+      alt: e-yearbook poster
   - infopic:
       title: JOIN US TODAY!
       subtitle: Canteen stall vendor
