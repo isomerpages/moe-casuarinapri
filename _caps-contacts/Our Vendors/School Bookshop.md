@@ -25,7 +25,10 @@ variant: tiptap
 <p><strong>Contact Number :</strong> 62432832</p>
 <h4>Opening Hours during Year End 2024 and New Year Academic Year 2025</h4>
 <hr>
-<p>Coming Soon ...</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Schedule for sales &amp; collection of school books" src="/images/Bookshop_Schedule_Year_end_2024_.png">
+</div>
 <h4>Booklist for 2025</h4>
 <hr>
 <p><a href="/files/Casuarina_Booklist_2025_Primary_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1- 2025</a>
