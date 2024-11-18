@@ -27,7 +27,7 @@ variant: tiptap
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Schedule for sales &amp; collection of school books" src="/images/Bookshop_Schedule_Year_end_2024_.png">
+<img style="width: 100%" height="auto" width="100%" alt="year end 2024 bookshop and uniform schedule" src="/images/Year_End_book___Uniform_Sales_V1_10Sep24.png">
 </div>
 <h4>Booklist for 2025</h4>
 <hr>
