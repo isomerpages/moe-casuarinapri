@@ -6,9 +6,6 @@ description: ""
 ---
 <h2>E-Yearbook</h2>
 <hr>
-<p><strong>2024</strong>
+<p><a href="https://online.fliphtml5.com/obrr/srca/" rel="noopener nofollow" target="_blank">2024</a>
 </p>
-<blockquote>
-<h4><sub>Apologies, there has been a slight delay. The E-Yearbook will be published on Tuesday, 19 November 2024 instead.</sub></h4>
-</blockquote>
 <p></p>
