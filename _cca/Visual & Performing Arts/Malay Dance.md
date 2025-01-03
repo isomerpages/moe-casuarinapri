@@ -24,9 +24,6 @@ and public performances such as Annual Award Ceremony.</p>
 <li>
 <p>Mdm Linda Rosli</p>
 </li>
-<li>
-<p>Mdm Milahwati</p>
-</li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width:50%;float:left" height="auto" width="100%" src="/images/IMG_0099.jpeg">
