@@ -27,9 +27,6 @@ Arts Exhibition.</p>
 <li>
 <p>Miss Fadillah Mohd</p>
 </li>
-<li>
-<p>Mdm Amerah Begum</p>
-</li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/IMG_9449.jpeg">
