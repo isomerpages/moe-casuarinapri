@@ -1,0 +1,17 @@
+collections:
+  caps-family:
+    output: true
+    order:
+      - About Us/.keep
+      - About Us/Vision, Mission & Values.md
+      - About Us/School Crest & Motto.md
+      - About Us/School Song.md
+      - About Us/School Rules.md
+      - About Us/School Staff.md
+      - About Us/School Calendar.md
+      - About Us/School Hours.md
+      - About Us/School Homework Policy.md
+      - About Us/School Canteen Menu.md
+      - Partnership.md
+      - Photo Gallery/2023.md
+      - Photo Gallery/.keep

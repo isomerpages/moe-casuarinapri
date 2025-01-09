@@ -1,0 +1,12 @@
+collections:
+  caps-contacts:
+    output: true
+    order:
+      - Contact Us.md
+      - Our Vendors/.keep
+      - Our Vendors/School Bus.md
+      - Our Vendors/School Uniform.md
+      - Our Vendors/School Bookshop.md
+      - Our Vendors/School Dentist.md
+      - Our Vendors/Student Care Services.md
+      - Announcement For Vendors.md
