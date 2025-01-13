@@ -89,17 +89,10 @@ emotional changes in their growing years. They learn to build healthy and
 rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
-<h5><strong>At Casuarina Primary School, the following Sexuality Education lessons will be taught in 2024:</strong></h5>
-<h4>Primary 5</h4>
+<h5><strong>At Casuarina Primary School, the following Sexuality Education lessons will be taught in 2025:</strong></h5>
+<h4><a href="/files/P5_2025_Sexuality_Education_Lessons_in_CCE.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a></h4>
+<h4><a href="/files/P6_2025_Sexuality_Education_Lessons_in_CCE.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_schs_website__Primary_5_.png">
-</div>
-<h4>Primary 6</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_schs_website__Primary_6_.png">
-</div>
 <p><strong>Information for Parents</strong>
 </p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
