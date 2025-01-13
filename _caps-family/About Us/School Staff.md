@@ -684,10 +684,10 @@ variant: tiptap
 <p>Mdm Camillus d/o V Justine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Kwee Beng (Ben)</p>
+<p>Mr Daniel Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Lim Kwee Beng (Ben)</p>
 </td>
 </tr>
 <tr>
@@ -695,13 +695,13 @@ variant: tiptap
 <p>4E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Lee</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Ong Hui Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Zhang Xiaohong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>

@@ -36,16 +36,6 @@ sections:
       image: /images/WhatsApp_Image_2024_11_14_at_7_39_53_AM.jpg
       alt: e-Art & Music Gallery 2024
   - infopic:
-      title: JOIN US TODAY!
-      subtitle: Canteen stall vendor
-      id: infopic
-      description: We're seeking dedicated food stall vendor with unique recipes to
-        contribute to a healthy, happy school environment.
-      button: Click Here
-      url: https://casuarinapri.moe.edu.sg/announcement-for-vendors/
-      image: /images/CAPS Canteen Menu/Chinese_Rice_Stall_Ad.png
-      alt: Image alt text
-  - infopic:
       title: Celebrating Passionate and Inspiring Educators
       subtitle: PAT 2025
       id: infopic
