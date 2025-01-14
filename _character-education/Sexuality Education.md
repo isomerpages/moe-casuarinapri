@@ -90,13 +90,17 @@ rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <h5><strong>At Casuarina Primary School, the following Sexuality Education lessons will be taught in 2025:</strong></h5>
-<h4><a href="/files/P5_2025_Sexuality_Education_Lessons_in_CCE.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a></h4>
-<h4>Primary 6</h4>
-<p></p>
+<h4>Primary 5</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_2025_Sexuality_Education_Lessons_in_CCE.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+</div>
+<h4>Primary 6</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.png">
+</div>
 <p><strong>Information for Parents</strong>
 </p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
