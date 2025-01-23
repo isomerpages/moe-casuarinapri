@@ -6,11 +6,9 @@ variant: tiptap
 ---
 <h3>MK@Casuarina (2025)</h3>
 <hr>
-<p>We are thrilled to welcome your child to the new school year. To ensure
-a smooth and memorable start, click <a href="/files/MK@Casuarina/Announcement/MK_Casuarina__First_Day_of_School_2025__Parents_.pdf" rel="noopener nofollow" target="_blank">here</a> for
-important details about the first day of school.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Casuarina /First_Day_of_School.png">
+<img style="width: 100%" height="auto" width="100%" alt="MK Open House" src="/images/MK_CS_Open_House_2025.png">
 </div>
 <p></p>
 <div class="iframe-wrapper">
