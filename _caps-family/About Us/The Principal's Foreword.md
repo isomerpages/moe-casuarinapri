@@ -45,7 +45,7 @@ achievements of our students, and we are excited about the opportunities
 that lie ahead. Thank you for being a part of the Casuarina Primary School
 family. Together, let us continue to inspire, nurture, and empower the
 leaders of tomorrow.</p>
-<p>Warm regards, &nbsp;</p>
-<p>Poh Chee Yang</p>
-<p>Principal</p>
-<p>&nbsp;</p>
+
+Warm regards, <br>
+Poh Chee Yang<br>
+Principal
