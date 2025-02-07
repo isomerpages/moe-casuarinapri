@@ -41,4 +41,5 @@ sections:
       button: Click here to nominate
       url: https://casuarinapri.moe.edu.sg/nomination-for-the-inspiring-teacher-of-english-teaching-award/
       image: /images/0072_001.jpg
+      alt: ITEA2025
 ---
