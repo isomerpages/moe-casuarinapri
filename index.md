@@ -25,6 +25,14 @@ sections:
       url: https://go.gov.sg/caps-cca-experience
       image: /images/WhatsApp_Image_2025_01_13_at_11_20_05_AM.jpg
       alt: Image alt text
+  - infobar:
+      title: Online registration for 2026 K1 is now open!
+      subtitle: MOE KINDERGARTEN @ Casuarina
+      id: infobar
+      description: Admissions for Open Admissions (OA) & Early Years Centre (EYC) open
+        9am, Friday, 7 Feb 2025, and close 4pm, Monday, 17 Feb 2025.
+      button: Click Here to find out more
+      url: https://www.moe.gov.sg/preschool/moe-kindergarten
   - infopic:
       title: Celebrating Passionate and Inspiring English Teachers
       id: infopic
@@ -33,24 +41,4 @@ sections:
       button: Click here to nominate
       url: https://casuarinapri.moe.edu.sg/nomination-for-the-inspiring-teacher-of-english-teaching-award/
       image: /images/0072_001.jpg
-  - infopic:
-      title: E-YEARBOOK 2024
-      id: infopic
-      description: Get ready! The E-Yearbook is coming soon, capturing all the amazing
-        memories and highlights from this year. Stay tuned to relive those
-        special moments!
-      button: Click Here to view
-      url: https://casuarinapri.moe.edu.sg/digital-yearbook/
-      image: /images/CASUARINA_PRIMARY_SCHOOL__4_.png
-      alt: e-yearbook poster
-  - infopic:
-      title: Virtual Art and Music Gallery 2024
-      id: infopic
-      description: Our Virtual Art & Music Gallery 2024 is live! Explore students'
-        performances, artworks, and Arts activities in this year’s exciting
-        showcase.
-      button: Click here to view
-      url: https://go.gov.sg/capsvirtualartandmusicgallery2024
-      image: /images/WhatsApp_Image_2024_11_14_at_7_39_53_AM.jpg
-      alt: e-Art & Music Gallery 2024
 ---
