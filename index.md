@@ -16,6 +16,16 @@ sections:
           description: ""
           url: /highlights/
   - infopic:
+      title: CCA Open House Website Now Live! 🎉
+      subtitle: CCA Experience 2025
+      id: infopic
+      description: Explore our exciting CCA offerings and find the perfect fit for
+        you! Visit the CCA Open House website now!
+      button: Click here to find out more
+      url: https://go.gov.sg/caps-cca-experience
+      image: /images/WhatsApp_Image_2025_01_13_at_11_20_05_AM.jpg
+      alt: Image alt text
+  - infopic:
       title: Celebrating Passionate and Inspiring English Teachers
       id: infopic
       description: Nominate your English teacher for the Inspiring Teacher of English
