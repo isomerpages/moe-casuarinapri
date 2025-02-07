@@ -3,7 +3,6 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: markdown
 ---
-
 Thank you for visiting [Casuarina Primary School Web Site](https://www.casuarinapri.moe.edu.sg/). By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
 
 **General**
@@ -62,7 +61,8 @@ Thank you for visiting [Casuarina Primary School Web Site](https://www.casuarina
 
 **Personal Data Protection Act**
 
-19\. Photographs or video images captured during the various school events may be used and published in school publications, website and other official school communication channels. We respect your need for privacy. If you wish to exclude your photographs or those of your child/ward from the school communication channels, please email us at [casuarina\_ps@moe.edu.sg](mailto:casuarina\_ps@moe.edu.sg).
+19\. Photographs and video recordings may be taken during school activities and events, including classroom lessons, CCAs, school camps, and concerts. The school may use and publish these images in school publications, on the school website, social media channels, or other communication platforms.
+If you wish to opt out of having you or your child’s/ward’s photographs or video recordings used, please email us at [casuarina\_ps@moe.edu.sg](mailto:casuarina\_ps@moe.edu.sg).
 
 **Governing Law**
 
