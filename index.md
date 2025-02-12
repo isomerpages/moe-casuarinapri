@@ -16,6 +16,15 @@ sections:
           description: ""
           url: /highlights/
   - infopic:
+      title: Get insights from the inside
+      id: infopic
+      description: Hear from fellow parents and MOE educators on how your child can
+        get more out of their school experiences.
+      button: Click here to find out more
+      url: http://schoolbag.edu.sg/
+      image: /images/Schoolbag_Banner.png
+      alt: Image alt text
+  - infopic:
       title: CCA Open House Website Now Live! 🎉
       subtitle: CCA Experience 2025
       id: infopic
@@ -42,13 +51,4 @@ sections:
       url: https://casuarinapri.moe.edu.sg/nomination-for-the-inspiring-teacher-of-english-teaching-award/
       image: /images/0072_001.jpg
       alt: ITEA2025
-  - infopic:
-      title: Get insights from the inside
-      id: infopic
-      description: Hear from fellow parents and MOE educators on how your child can
-        get more out of their school experiences.
-      button: Click here to find out more
-      url: http://schoolbag.edu.sg/
-      image: /images/Schoolbag_Banner.png
-      alt: Image alt text
 ---
