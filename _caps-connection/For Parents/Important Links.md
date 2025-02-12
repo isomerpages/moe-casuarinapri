@@ -33,7 +33,7 @@ variant: tiptap
 </p>
 <h3>Resources</h3>
 <hr>
-<p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">School Bag</a>
+<p><a href="http://schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">School Bag</a>
 <br><a href="https://docs.google.com/presentation/d/e/2PACX-1vR3BGx41jZr4Rvhf5mTlxcuA6jP8sUslkBnwAp6sQ2QmFISluU7ZiR75Em0futpQw/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.p1" rel="noopener noreferrer nofollow" target="_blank">Useful websites for Learning Support Programme (LSP)</a>
 <br>
 </p>
