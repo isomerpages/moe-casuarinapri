@@ -2,6 +2,7 @@
 title: Cyber Wellness
 permalink: /ict/Cyber-Wellness/
 description: ""
+variant: markdown
 ---
 #### Cyber Wellness Framework
 
@@ -9,7 +10,7 @@ description: ""
 
 The CAPS cyber wellness framework is crafted based on the MOE's Cyber Wellness framework. It serves to highlight the different stages that students undergo to self-manage their well-being in cyberspace. Embedded in this framework is a structure that promotes collaboration between teachers and parents to guide and empower our students with the right knowledge and digital skills towards their cyber wellness journey. Teachers and parents collaborate with one another via various communication modes such as the learning management system and Parents Gateway.
 
-#### Teaching & Learning Approach (3-Tier)
+#### Teaching &amp; Learning Approach (3-Tier)
 
 ![](/images/Cyberwellness%20Approach.jpeg)
 
@@ -34,13 +35,7 @@ During Cyber Wellness Week, several recess activities were carried out at the fo
 *   Cyber Wellness Wheel of Questions
 
 ![](/images/CW9.jpeg)
-<img src="/images/CW2.jpeg" 
-     style="width:50%;float:left"><img src="/images/CW3.jpeg" 
-     style="width:50%"><img src="/images/CW6.jpeg" 
-     style="width:50%;float:left"><img src="/images/CW7.jpeg" 
-     style="width:50%"><img src="/images/CW1.jpeg" 
-     style="width:50%;float:left"><img src="/images/CW4.jpeg" 
-     style="width:50%">
+<img src="/images/CW2.jpeg" style="width:50%;float:left"><img src="/images/CW3.jpeg" style="width:50%"><img src="/images/CW6.jpeg" style="width:50%;float:left"><img src="/images/CW7.jpeg" style="width:50%"><img src="/images/CW1.jpeg" style="width:50%;float:left"><img src="/images/CW4.jpeg" style="width:50%">
 		 
 **Cyber Wellness Student Ambassadors**
 
@@ -54,4 +49,4 @@ In this digital age, it is common to see technological devices in the hands of o
 
   
 
-At times, you may not be by their side when they surf the Internet or play computer games. Hence, to complement your current parenting practices, you can use parental controls and Internet filters to safeguard your children from inappropriate websites and help them navigate the digital world safely. Click [here](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents/guides-and-tips/parental-controls) on how you can set up parental controls on common operating systems and web browsers.
+At times, you may not be by their side when they surf the Internet or play computer games. Hence, to complement your current parenting practices, you can use parental controls and Internet filters to safeguard your children from inappropriate websites and help them navigate the digital world safely. 
