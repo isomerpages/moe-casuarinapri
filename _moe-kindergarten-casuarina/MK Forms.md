@@ -36,4 +36,6 @@ Click [here](https://www.casuarinapri.moe.edu.sg/moe-kindergarten-casuarina/kind
 
 ---
 Click [here](https://go.gov.sg/mkcs-trf-2025) or scan the QR code below to apply. 
-![Alt text](/images/mkcs_trf_2025.png){: width="300"}
+! <img alt="" width="300" src="/images/mkcs_trf_2025.png">
+
+  
