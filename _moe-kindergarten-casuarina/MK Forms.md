@@ -35,5 +35,5 @@ Click [here](https://www.casuarinapri.moe.edu.sg/moe-kindergarten-casuarina/kind
 <h3 style="color:DarkBlue;">Request to transfer into MK@Casuarina</h3>
 
 ---
-Click [here](https://go.gov.sg/mkcs-trf) or scan the QR code below to apply. 
-<img src="/images/MK@Casuarina%20/https___go_gov_sg_mkcs_trf.png" style="width:60%">
+Click [here](https://go.gov.sg/mkcs-trf-2025) or scan the QR code below to apply. 
+<img alt="" style="width: 300px;" src="/images/mkcs_trf_2025.png">
