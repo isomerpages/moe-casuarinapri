@@ -2,9 +2,9 @@ collections:
   moe-kindergarten-casuarina:
     output: true
     order:
-      - About Us MK@Casuarina/.keep
-      - About Us MK@Casuarina/About Us.md
-      - About Us MK@Casuarina/Virtual Tour.md
+      - About Us/.keep
+      - About Us/About Us.md
+      - About Us/Virtual Tour.md
       - Our Staff in MK@CS.md
       - MK Family Handbook.md
       - Announcement.md
