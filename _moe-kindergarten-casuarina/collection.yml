@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About Us.md
+      - About Us MK@Casuarina/About Us.md
       - About Us MK@Casuarina/.keep
       - Our Staff in MK@CS.md
       - MK Family Handbook.md
