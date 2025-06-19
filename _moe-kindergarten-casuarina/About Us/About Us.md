@@ -1,8 +1,9 @@
 ---
 title: About Us
-permalink: /moe-kindergarten-casuarina/aboutus/
-description: ""
+permalink: /about-us/
 variant: tiptap
+description: ""
+third_nav_title: About Us
 ---
 <p><strong>ON TO A STRONG START!</strong>
 </p>
