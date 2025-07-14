@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Admin Matters</h3>
 <hr>
-<p><a href="https://go.gov.sg/capswaitlist" rel="noopener noreferrer nofollow" target="_blank">Request for transfer into Casuarina Primary School</a>
+<p><a href="https://go.gov.sg/caps-transfer-list" rel="noopener noreferrer nofollow" target="_blank">Request for transfer into Casuarina Primary School</a>
 <br><a href="https://go.gov.sg/capsloa" rel="noopener noreferrer nofollow" target="_blank">Leave of Absence (LOA) Application Form</a>
 <br><a href="/files/Important%20Links/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Insurance Claims</a>
 <br><a href="https://go.gov.sg/capsstudentmedrec" rel="noopener noreferrer nofollow" target="_blank">Student Medical Records Form</a>
