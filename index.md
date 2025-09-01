@@ -23,6 +23,8 @@ sections:
         foyer & school canteen.
       image: /images/CAPS_Alumnus__1_.png
       alt: Image alt text
+      url: https://casuarinapri.moe.edu.sg/caps-alumni/
+      button: Click here to view
   - infopic:
       title: Get insights from the inside
       id: infopic
