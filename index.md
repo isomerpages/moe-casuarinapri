@@ -16,6 +16,14 @@ sections:
           description: ""
           url: /highlights/
   - infopic:
+      title: CAPS Alumni – Teachers’ Day Visit Info 🎉
+      subtitle: CAPS Alumni Visit 2025
+      id: infopic
+      description: Join us on Thursday, 4 September 2025 at 10.30am – 11.30am at the
+        foyer & school canteen.
+      image: /images/CAPS_Alumnus__1_.png
+      alt: Image alt text
+  - infopic:
       title: Get insights from the inside
       id: infopic
       description: Hear from fellow parents and MOE educators on how your child can
@@ -33,13 +41,5 @@ sections:
       button: Click here to find out more
       url: https://go.gov.sg/caps-cca-experience
       image: /images/WhatsApp_Image_2025_01_13_at_11_20_05_AM.jpg
-      alt: Image alt text
-  - infopic:
-      title: CAPS Alumni – Teachers’ Day Visit Info 🎉
-      subtitle: CAPS Alumni Visit 2025
-      id: infopic
-      description: Join us on Thursday, 4 September 2025 at 10.30am – 11.30am at the
-        foyer & school canteen.
-      image: /images/CAPS_Alumnus__1_.png
       alt: Image alt text
 ---
