@@ -18,7 +18,9 @@ variant: tiptap
 <br>our hopes, our dreams are one.</p>
 <p>Oh Casuarina, we serve with gratitude and pride,
 <br>to build a caring community, we’ll be the best we can be.
-<br>Against all odds, we soar up high,
+<br>
+</p>
+<p>Against all odds, we soar up high,
 <br>the joy of learning, fills our hearts and minds.
 <br>When the wind blows, creativity flows.
 <br>We’ll show the world what we can do.
