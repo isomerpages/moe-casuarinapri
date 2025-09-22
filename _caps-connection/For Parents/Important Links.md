@@ -17,9 +17,7 @@ variant: tiptap
 <br><a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener noreferrer nofollow" target="_blank">Edusave Standing Order Form</a>
 <br><a href="https://go.gov.sg/capsmoegiro" rel="noopener noreferrer nofollow" target="_blank">MOE e-GIRO Form</a>
 <br><a href="/files/Important%20Links/eGIRO_Application___User_Guide_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE e-GIRO User Guide for Parents</a>
-<br><a href="/files/Important%20Links/Commonly_asked_Questions_on_GIRO___For_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE e-GIRO FAQ</a> 
-<br><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Scheme (FAS) Application Form</a>
-<br>For more information on eligibility for financial assistance, <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">click here</a>.
+<br><a href="/files/Important%20Links/Commonly_asked_Questions_on_GIRO___For_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE e-GIRO FAQ</a>
 <br>
 </p>
 <h3>Our Vendors</h3>
@@ -29,7 +27,7 @@ variant: tiptap
 <br><a href="https://www.casuarinapri.moe.edu.sg/caps-contacts/vendors/school-bookshop/" rel="noopener noreferrer nofollow" target="_blank">School Bookshop</a>
 <br><a href="https://rafflesstudentcare.com/" rel="noopener noreferrer nofollow" target="_blank">Student Care Services</a>
 </p>
-<p><a href="http://www.rafflesstudentcare.com/Interest" rel="noopener noreferrer nofollow" target="_blank">[2025] P1 Parents - Expression of Interest Form for Student Care Services</a>
+<p><a href="http://www.rafflesstudentcare.com/Interest" rel="noopener noreferrer nofollow" target="_blank">[2026] P1 Parents - Expression of Interest Form for Student Care Services</a>
 </p>
 <h3>Resources</h3>
 <hr>
