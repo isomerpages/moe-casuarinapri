@@ -3,24 +3,27 @@ title: School Uniform
 permalink: /caps-contacts/vendors/school-uniform/
 description: ""
 third_nav_title: Our Vendors
-variant: markdown
+variant: tiptap
 ---
-#### School Uniform
----
-**Name :** My Uniform Shop 
+<h4>School Uniform</h4>
+<hr>
+<p><strong>Name :</strong> My Uniform Shop
+<br><strong>Address :</strong> 209 New Upper Changi Road, #03-651, Singapore
+460209
+<br><strong>Contact Number :</strong> 62766689
+<br><strong>Operating Hours :</strong> Fridays (1.30pm - 3pm) @ School Canteen</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1:30pm - 3:00 pm (purchase by students)</p>
+</li>
+<li>
+<p>2:00 pm - 3:00 pm (for walk-in purchase by parents)
 <br>
-**Address :** 209 New Upper Changi Road, #03-651, Singapore 460209
-<br>
-**Contact Number :** 62766689 
-<br>
-**Operating Hours :**  Fridays (1.30pm - 3pm) @ School Canteen
-*   1:30pm - 3:00 pm (purchase by students)
-*   2:00 pm - 3:00 pm (for walk-in purchase by parents)
-<br>
-
-Click [here](https://www.myuniformshop.com.sg/) to find out more.
-
-<h4 style="color:DarkBlue;">Opening Hours during Year End 2024 and New Year Academic Year 2025</h4>
-
----
-Coming soon.
+</p>
+</li>
+</ul>
+<p>Click <a href="https://www.myuniformshop.com.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+find out more.</p>
+<h4>Opening Hours during Year End 2025 and New Year Academic Year 2026 <em><sub>[coming soon]</sub></em></h4>
+<hr>
+<p></p>
