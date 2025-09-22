@@ -23,33 +23,11 @@ variant: tiptap
 </li>
 </ul>
 <p><strong>Contact Number :</strong> 62432832</p>
-<h4>Opening Hours during Year End 2024 and New Year Academic Year 2025</h4>
+<h4>Opening Hours during Year End 2025 and New Year Academic Year 2026 <em><sub>[coming soon]</sub></em></h4>
 <hr>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="year end 2024 bookshop and uniform schedule" src="/images/Year_End_book___Uniform_Sales_V1_10Sep24.png">
-</div>
-<h4>Booklist for 2025</h4>
+<h4>Booklist for 2026 <em><sub>[coming soon]</sub></em></h4>
 <hr>
-<p><a href="/files/Casuarina_Booklist_2025_Primary_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1- 2025</a>
-</p>
-<p><a href="/files/Casuarina_Booklist_2025___Primary_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 - 2025</a>
-</p>
-<p><a href="/files/Casuarina_Booklist_2025___Primary_3.pdf" rel="noopener nofollow" target="_blank">Primary 3 - 2025</a>
-</p>
-<p><a href="/files/Casuarina_Booklist_2025___Primary_3__HMT_.pdf" rel="noopener nofollow" target="_blank">Primary 3 (HMT) - 2025</a>
-</p>
-<p><a href="/files/Casuarina_Booklist_2025___Primary_4.pdf" rel="noopener nofollow" target="_blank">Primary 4 - 2025</a>
-</p>
-<p><a href="/files/Casuarina_Booklist_2025___Primary_4__HMT_.pdf" rel="noopener nofollow" target="_blank">Primary 4 (HMT) - 2025x</a>
-</p>
-<p><a href="/files/Casuarina_Booklist_2025___Primary_5.pdf" rel="noopener nofollow" target="_blank">Primary 5 - 2025</a>
-</p>
-<p><a href="/files/Casuarina_Booklist_2025___Primary_5__Foundation_.pdf" rel="noopener nofollow" target="_blank">Primary 5 (Foundation) - 2025</a>
-</p>
-<p><a href="/files/Casuarina_Booklist_2025___Primary_6.pdf" rel="noopener nofollow" target="_blank">Primary 6 - 2025</a>
-</p>
-<p><a href="/files/Casuarina_Booklist_2025___Primary_6__Foundation_.pdf" rel="noopener nofollow" target="_blank">Primary 6 (Foundation) - 2025</a>
-</p>
+<p></p>
 <p></p>
 <p></p>
