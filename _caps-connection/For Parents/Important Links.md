@@ -18,7 +18,7 @@ variant: tiptap
 <br><a href="https://go.gov.sg/capsmoegiro" rel="noopener noreferrer nofollow" target="_blank">MOE e-GIRO Form</a>
 <br><a href="/files/Important%20Links/eGIRO_Application___User_Guide_for_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE e-GIRO User Guide for Parents</a>
 <br><a href="/files/Important%20Links/Commonly_asked_Questions_on_GIRO___For_parents.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE e-GIRO FAQ</a>
-<br>
+<br><a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">MOE Financial Assistance Scheme (FAS)</a>
 </p>
 <h3>Our Vendors</h3>
 <hr>
