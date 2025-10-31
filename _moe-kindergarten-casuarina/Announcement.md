@@ -4,12 +4,12 @@ permalink: /moe-kindergarten-casuarina/announcement/
 description: ""
 variant: tiptap
 ---
-<h3>MK@Casuarina (2025)</h3>
+<h3>K1 Orientation Day (K1 2026)</h3>
 <hr>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MK Open House" src="/images/MK_CS_Open_House_2025.png">
-</div>
+<p><a href="/files/MK@Casuarina/K1_Orientation_2025__K1_2026_.pdf" rel="noopener nofollow" target="_blank">Slides for K1 Orientation ( For K1 2026 Parents)</a>
+</p>
+<p><a href="/files/MK@Casuarina/2026_Menu.pdf" rel="noopener nofollow" target="_blank">Snack Menu (2026)</a>
+</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/25BaOjAhFV0?si=1toJSKG1RAlKWBSa"></iframe>
