@@ -23,11 +23,32 @@ variant: tiptap
 </li>
 </ul>
 <p><strong>Contact Number :</strong> 62432832</p>
-<h4>Opening Hours during Year End 2025 and New Year Academic Year 2026 <em><sub>[coming soon]</sub></em></h4>
+<h4>Opening Hours during Year End 2025 and New Year Academic Year 2026</h4>
 <hr>
 <p></p>
-<h4>Booklist for 2026 <em><sub>[coming soon]</sub></em></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Year_End_book___Uniform_Sales_V3_10_Nov_2025.png">
+</div>
+<h4>Booklist for 2026</h4>
 <hr>
-<p></p>
-<p></p>
+<p><a href="/files/Casuarina_Booklist_2026_Primary_1.pdf" rel="noopener nofollow" target="_blank">Primary 1 Booklist (2026)</a>
+</p>
+<p>Primary 2 Booklist (2026) <sub>[coming soon]</sub>
+</p>
+<p>Primary 3 Booklist (2026) <sub>[coming soon]</sub>
+</p>
+<p>Primary 3 HMT Booklist (2026) <sub>[coming soon]</sub>
+</p>
+<p>Primary 4 Booklist (2026) <sub>[coming soon]</sub>
+</p>
+<p>Primary 4 HMT Booklist (2026) <sub>[coming soon]</sub>
+</p>
+<p>Primary 5 Booklist (2026) <sub>[coming soon]</sub>
+</p>
+<p>Primary 5 Fdn Booklist (2026) <sub>[coming soon]</sub>
+</p>
+<p>Primary 6 Booklist (2026) <sub>[coming soon]</sub>
+</p>
+<p>Primary 6 Fdn Booklist (2026) <sub>[coming soon]</sub>
+</p>
 <p></p>
