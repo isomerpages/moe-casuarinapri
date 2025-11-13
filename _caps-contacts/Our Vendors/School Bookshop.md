@@ -31,7 +31,7 @@ variant: tiptap
 </div>
 <h4>Booklist for 2026</h4>
 <hr>
-<p><a href="/files/Casuarina_Booklist_2026_Primary_1.pdf" rel="noopener nofollow" target="_blank">Primary 1 Booklist (2026)</a>
+<p>Primary 1 Booklist (2026) <sub>[coming soon]</sub>
 </p>
 <p>Primary 2 Booklist (2026) <sub>[coming soon]</sub>
 </p>
