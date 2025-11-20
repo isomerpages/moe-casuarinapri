@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<h3>Central Kitchen Meal Model</h3>
+<h3>Central Kitchen Meal Model (CKMM)</h3>
 <p><a href="https://go.gov.sg/capsckmmbriefingslides" rel="noopener nofollow" target="_blank">CKMM Briefing Slides</a>
 </p>
-<p>CKMM Getting Started Video Guide</p>
+<h4>CKMM Getting Started Video Guide</h4>
 <div class="iframe-wrapper">
 <iframe height="479" width="1004" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/B0T2YzlO4Fc"></iframe>
 </div>
