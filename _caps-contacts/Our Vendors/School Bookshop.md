@@ -33,22 +33,22 @@ variant: tiptap
 <hr>
 <p><a href="/files/Casuarina_Booklist_2026_Primary_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Booklist (2026)</a>
 </p>
-<p>Primary 2 Booklist (2026) <sub>[coming soon]</sub>
+<p><a href="/files/Casuarina_Booklist_2026_Primary_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 Booklist (2026)</a>
 </p>
-<p>Primary 3 Booklist (2026) <sub>[coming soon]</sub>
+<p><a href="/files/Casuarina_Booklist_2026_Primary_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 Booklist (2026)</a>
 </p>
-<p>Primary 3 HMT Booklist (2026) <sub>[coming soon]</sub>
+<p><a href="/files/Casuarina_Booklist_2026_Primary_3_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 HMT Booklist (2026)</a>
 </p>
-<p>Primary 4 Booklist (2026) <sub>[coming soon]</sub>
+<p><a href="/files/Casuarina_Booklist_2026_Primary_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 Booklist (2026)</a>
 </p>
-<p>Primary 4 HMT Booklist (2026) <sub>[coming soon]</sub>
+<p><a href="/files/Casuarina_Booklist_2026_Primary_4_HMT.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 HMT Booklist (2026)</a>
 </p>
-<p>Primary 5 Booklist (2026) <sub>[coming soon]</sub>
+<p><a href="/files/Casuarina_Booklist_2026_Primary_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Booklist (2026)</a>
 </p>
-<p>Primary 5 Fdn Booklist (2026) <sub>[coming soon]</sub>
+<p><a href="/files/Casuarina_Booklist_2026_Primary_5F.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Fdn Booklist (2026)</a>
 </p>
-<p>Primary 6 Booklist (2026) <sub>[coming soon]</sub>
+<p><a href="/files/Casuarina_Booklist_2026_Primary_6.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Booklist (2026)</a>
 </p>
-<p>Primary 6 Fdn Booklist (2026) <sub>[coming soon]</sub>
+<p><a href="/files/Casuarina_Booklist_2026_Primary_6F.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Fdn Booklist (2026)</a>
 </p>
 <p></p>
