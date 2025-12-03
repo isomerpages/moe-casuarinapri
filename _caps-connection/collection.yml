@@ -2,7 +2,6 @@ collections:
   caps-connection:
     output: true
     order:
-      - Nomination for The Inspiring Teacher of English – Teaching Award.md
       - CAPS Open House/.keep
       - CAPS Open House/Our Story.md
       - CAPS Open House/Our Programmes.md
