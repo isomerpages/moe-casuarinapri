@@ -13,6 +13,7 @@ Contact Us
 **Opening Hours :** &nbsp; Monday to Friday
 * During Term Time : 7:00 AM to 5:30 PM <br>
 *   During School Holidays : 7:00 AM to 5:00 PM <br>
+
 **Closed on Saturdays, Sundays and Public Holidays**
 
 **General Office :** 65837132<br>
