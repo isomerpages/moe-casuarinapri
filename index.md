@@ -16,15 +16,14 @@ sections:
           description: ""
           url: /highlights/
   - infopic:
-      title: CAPS Alumni – Teachers’ Day Visit Info 🎉
-      subtitle: CAPS Alumni Visit 2025
+      title: E-Yearbook 2025
       id: infopic
-      description: Join us on Thursday, 4 September 2025 at 10.30am – 11.30am at the
-        foyer & school canteen.
-      image: /images/CAPS_Alumnus__1_.png
-      alt: Image alt text
-      url: https://casuarinapri.moe.edu.sg/caps-alumni/
-      button: Click here to view
+      description: The release of Yearbook 2025 has been delayed to 5 Dec 2025.  We
+        apologise for the inconvenience and thank you for your patience.
+      button: Click here
+      url: https://www.casuarinapri.moe.edu.sg/digital-yearbook/
+      image: /images/CASUARINA_PRIMARY_SCHOOL.png
+      alt: e-yearbook 2025
   - infopic:
       title: Get insights from the inside
       id: infopic
@@ -33,15 +32,5 @@ sections:
       button: Click here to find out more
       url: http://schoolbag.edu.sg/
       image: /images/Schoolbag_Banner.png
-      alt: Image alt text
-  - infopic:
-      title: CCA Open House Website Now Live! 🎉
-      subtitle: CCA Experience 2025
-      id: infopic
-      description: Explore our exciting CCA offerings and find the perfect fit for
-        you! Visit the CCA Open House website now!
-      button: Click here to find out more
-      url: https://go.gov.sg/caps-cca-experience
-      image: /images/WhatsApp_Image_2025_01_13_at_11_20_05_AM.jpg
       alt: Image alt text
 ---
