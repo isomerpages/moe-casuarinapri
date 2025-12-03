@@ -10,11 +10,12 @@ Contact Us
 **Casuarina Primary School**<br>
 30 Pasir Ris Street 41&nbsp;Singapore 518935<br>
 
-**Opening Hours :** &nbsp; Monday to Friday
+**Opening Hours :** &nbsp; Monday to Friday <br>
+**Closed on Saturdays, Sundays and Public Holidays**
 * During Term Time : 7:00 AM to 5:30 PM <br>
 *   During School Holidays : 7:00 AM to 5:00 PM <br>
 
-**Closed on Saturdays, Sundays and Public Holidays**
+
 
 **General Office :** 65837132<br>
 **Fax No :** 65836227 <br>
