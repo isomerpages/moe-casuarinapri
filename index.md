@@ -18,11 +18,9 @@ sections:
   - infopic:
       title: E-Yearbook 2025
       id: infopic
-      description: The release of Yearbook 2025 has been delayed to 5 Dec 2025.  We
-        apologise for the inconvenience and thank you for your patience.
-      button: Click here
+      button: Click here to view
       url: https://www.casuarinapri.moe.edu.sg/digital-yearbook/
-      image: /images/CASUARINA_PRIMARY_SCHOOL.png
+      image: /images/CAPS_Yearbook_2025.png
       alt: e-yearbook 2025
   - infopic:
       title: Get insights from the inside
