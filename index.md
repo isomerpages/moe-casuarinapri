@@ -15,6 +15,14 @@ sections:
         - title: HIGHLIGHTS
           description: ""
           url: /highlights/
+  - infobar:
+      title: Central Kitchen Meal Model (CKMM)
+      id: infobar
+      description: Singapore’s Central Kitchen Meal Model (CKMM) is an MOE initiative
+        where school canteen meals are centrally prepared and delivered to
+        schools.
+      button: Click here to find out more
+      url: https://casuarinapri.moe.edu.sg/central-kitchen-meal-model-ckmm/
   - infopic:
       title: E-Yearbook 2025
       id: infopic
