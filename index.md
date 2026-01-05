@@ -24,13 +24,6 @@ sections:
       button: Click here to find out more
       url: https://casuarinapri.moe.edu.sg/central-kitchen-meal-model-ckmm/
   - infopic:
-      title: E-Yearbook 2025
-      id: infopic
-      button: Click here to view
-      url: https://www.casuarinapri.moe.edu.sg/digital-yearbook/
-      image: /images/CAPS_Yearbook_2025.png
-      alt: e-yearbook 2025
-  - infopic:
       title: Get insights from the inside
       id: infopic
       description: Hear from fellow parents and MOE educators on how your child can
