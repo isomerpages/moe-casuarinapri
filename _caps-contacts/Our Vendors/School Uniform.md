@@ -24,6 +24,3 @@ variant: tiptap
 </ul>
 <p>Click <a href="https://www.myuniformshop.com.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more.</p>
-<h4>Opening Hours during Year End 2025 and New Year Academic Year 2026 <em><sub>[coming soon]</sub></em></h4>
-<hr>
-<p></p>
