@@ -395,6 +395,114 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h3><u>Our School Admin Team</u></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sukumaran s/o Krishnan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Foo Siew Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Ai Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Mahfuzah Bte Juma'at</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MK Administrative Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhd Syafiq Bin Bohari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Nur Emiliati Binte Ibrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Bee Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
 <h3><u>Our Teachers</u><br></h3>
 <table style="minWidth: 125px">
 <colgroup>
