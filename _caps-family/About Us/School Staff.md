@@ -144,7 +144,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ho - Tan Chay Shwan</p>
+<p>Mdm Marlene Ta Liwei (Mrs Kiw)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (P1-2)</p>
@@ -320,6 +320,14 @@ variant: tiptap
 <p>Senior Teacher (Mathematics)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Nashima Banu d/o Mohd Ansari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher (Tamil Language)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3><u>Our Educational Support Staff</u><br></h3>
@@ -388,8 +396,9 @@ variant: tiptap
 </tbody>
 </table>
 <h3><u>Our Teachers</u><br></h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -409,16 +418,22 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Form Teacher</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Form Teacher</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Melody Wong</p>
+<p>Mdm Sarah Harris</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Linda Rosli</p>
+<p>Mdm Huang Qizhen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -429,10 +444,13 @@ variant: tiptap
 <p>1B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Noorhaslin</p>
+<p>Mdm Low Mui Kian Nancy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Seok Lian</p>
+<p>Mdm Affarita</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -443,10 +461,13 @@ variant: tiptap
 <p>1C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liza</p>
+<p>Miss Nashima Banu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lau Ai Theng</p>
+<p>Mdm Charis Sim Lee Sang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -457,13 +478,16 @@ variant: tiptap
 <p>1D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sahra</p>
+<p>Mdm Lai TingFang Fiona</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lim Shu Hui</p>
+<p>Mdm Faeezah Khaithir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sofia Chin</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -471,10 +495,13 @@ variant: tiptap
 <p>1E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan Yizhen Vivien</p>
+<p>Mdm Natdia Faranaz Bte Shokat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norashikin</p>
+<p>Mdm Liu Ruihong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -485,10 +512,13 @@ variant: tiptap
 <p>1F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Wei Hunn</p>
+<p>Mdm Faridah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Khaireen&nbsp;</p>
+<p>Mdm Wei Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -499,10 +529,13 @@ variant: tiptap
 <p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Low Mui Kian Nancy</p>
+<p>Miss Melody Wong Yin Jie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Affarita</p>
+<p>Mdm Linda Rosli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -513,10 +546,13 @@ variant: tiptap
 <p>2B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mirah</p>
+<p>Ms Noorhaslin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yew Chen Foong (Sarah)</p>
+<p>Mdm Lim Seok Lian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -527,10 +563,13 @@ variant: tiptap
 <p>2C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Faridah</p>
+<p>Mdm Liza Binte Sufahat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Huang Qizhen</p>
+<p>Mdm Lau Ai Theng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -541,24 +580,13 @@ variant: tiptap
 <p>2D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Natdia Faranaz</p>
+<p>Mdm Sahra Kamal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Poh Pey Lin (Esther)</p>
+<p>Miss Lim Shu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Lay Peng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2E</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sarah Harris</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lai TingFang Fiona</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -566,13 +594,50 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Tan Yizhen Vivien</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sofia Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norashikin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Lay Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Ai Peng (Doris)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Mee Mee Lydia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Foo Mei Yih</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lydia Tan Mee Mee</p>
+<p>Mrs Catherine Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Marina Bte Nasib</p>
+<p>Mdm Suzana&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -583,74 +648,21 @@ variant: tiptap
 <p>3B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Aliza</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Asmah Bte Buang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lee Hui Min Grace</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Teo Choon Nancy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Huang Yan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Low Xiaoxuan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lim Hui Yii (Sarah)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Charis Sim Lee Sang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3E</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan You Chuan Calvin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Nashima Banu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Siti Fauziah</p>
+<p>Mr Yeo Choon Kuan (Jackson)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Fadila Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Amerah Begum</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4B</p>
+<p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Steffi Sng</p>
@@ -661,16 +673,90 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Yeap Yun Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Kwee Beng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Zhang Xiaohong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ho Ai Hwa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Kim Hock</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Camillus d/o V Justine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lek Wee Chiang Melvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Aliza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Hui Min Grace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>4C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Cindy Soh</p>
+<p>Mdm Teo Choon Nancy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Ruihong</p>
+<p>Mdm Fayth Ong Hui Sin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -681,13 +767,16 @@ variant: tiptap
 <p>4D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Camillus d/o V Justine</p>
+<p>Mdm Lim Hui Yii</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Lee</p>
+<p>Mdm Chan Siew Kem</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Kwee Beng (Ben)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -695,10 +784,13 @@ variant: tiptap
 <p>4E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Hui Lin</p>
+<p>Miss Khaireen Faezah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zhang Xiaohong</p>
+<p>Mr Tan You Chuan Calvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -709,10 +801,13 @@ variant: tiptap
 <p>5A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Fadillah Mohamed</p>
+<p>Miss Ong Amy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kok Rui Jie</p>
+<p>Mdm Amerah Begum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -723,10 +818,13 @@ variant: tiptap
 <p>5B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Choon Kuan (Jackson)</p>
+<p>Mdm Nashitah Fikriyah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Halena Bte Abdul Rahman</p>
+<p>Miss Chong Qian Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -737,10 +835,13 @@ variant: tiptap
 <p>5C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lim Mui Ping, Regina</p>
+<p>Mdm Yew Chen Foong (Sarah)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zuliana Bte Md Zaid</p>
+<p>Mdm Maryana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -751,10 +852,13 @@ variant: tiptap
 <p>5D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm S Chandra</p>
+<p>Mdm Hayati Bte Manshor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wei Ling</p>
+<p>Mdm Low Xiaoxuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Avery Dahril Sateria</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -765,24 +869,13 @@ variant: tiptap
 <p>5E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Li Juin (Theresa)</p>
+<p>Miss Peh Siew Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Chia Hwee (Ivy)</p>
+<p>Mdm Asmah Bte Buang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lily Tow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Hayati Bte Manshor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -793,10 +886,13 @@ variant: tiptap
 <p>6A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nashitah Fikriyah Bte Hafid</p>
+<p>Miss Fadillah Bte Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Catherine Teo</p>
+<p>Mr Kok Rui Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -807,10 +903,13 @@ variant: tiptap
 <p>6B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Azry</p>
+<p>Mdm Kasthuri Krishnan (Mrs Cilan)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Baizura</p>
+<p>Mdm Halena</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -821,10 +920,13 @@ variant: tiptap
 <p>6C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Maryana</p>
+<p>Miss Lim Mui Ping, Regina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ho Ai Hwa</p>
+<p>Mdm Zuliana Bte Md Zaid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -835,10 +937,13 @@ variant: tiptap
 <p>6D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chong Qian Min</p>
+<p>Mdm S Chandra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ong Amy</p>
+<p>Mdm Baizura</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -849,10 +954,13 @@ variant: tiptap
 <p>6E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Peh Siew Mei (Samantha)</p>
+<p>Ms Wong Li Juin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kaladevi d/o Nadarajah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -863,10 +971,13 @@ variant: tiptap
 <p>6F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim-Png Bee Lan</p>
+<p>Mdm Lily Tow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lek Wee Chiang Melvin</p>
+<p>Ms Siti Fauziah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
