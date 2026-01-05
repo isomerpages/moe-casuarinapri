@@ -2,11 +2,11 @@ collections:
   moe-kindergarten-casuarina:
     output: true
     order:
-      - Snack Menu.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/Virtual Tour.md
       - Our Staff in MK@CS.md
+      - Snack Menu.md
       - MK Family Handbook.md
       - Announcement.md
       - MK Forms.md
