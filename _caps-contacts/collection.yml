@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Contact Us.md
+      - Our Vendors/School Canteen.md
       - Our Vendors/.keep
       - Our Vendors/School Bus.md
       - Our Vendors/School Uniform.md
