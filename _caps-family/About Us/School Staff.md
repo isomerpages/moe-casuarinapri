@@ -144,7 +144,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Marlene Ta Liwei (Mrs Kiw)</p>
+<p>Mdm Marlene Tan Liwei (Mrs Kiw)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (P1-2)</p>
