@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /character-education/Sexuality-Education/
+permalink: /character-education/sexuality-education/
 description: ""
 variant: tiptap
 ---
@@ -18,14 +18,14 @@ and learning of SEd is based on respect for the values and beliefs of the
 different ethnic and religious communities in Singapore on sexuality issues.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
 Sexuality Education are:</p>
-<p>(a) Support students in managing their physiological, social and emotional
-changes as they grow up and develop safe and healthy relationships.</p>
-<p>(b) Guide students to make wise, informed and responsible decisions on
-sexuality matters.</p>
-<p>(c) Help students develop a moral compass and respect for themselves and
-others by having positive mainstream values and attitudes about sexuality
-that are premised on the family as the basic unit of society.</p>
-<p></p>
+<p>(a)&nbsp;&nbsp;&nbsp;Support students in managing their physiological,
+social and emotional changes as they grow up and develop safe and healthy
+relationships.</p>
+<p>(b)&nbsp;&nbsp;&nbsp; Guide students to make wise, informed and responsible
+decisions on sexuality matters.</p>
+<p>(c)&nbsp;&nbsp;&nbsp; Help students develop a moral compass and respect
+for themselves and others by having positive mainstream values and attitudes
+about sexuality that are premised on the family as the basic unit of society.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are:</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,7 +47,8 @@ Education is grouped into five main themes: Human Development, Interpersonal
 Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
 Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
 information on the scope of Sexuality Education in the school curriculum.</p>
-<p>The subjects that incorporate topics on sexuality include:</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
+topics on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship
 Education (CCE)</p>
@@ -72,16 +73,14 @@ rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <h5><strong>At Casuarina Primary School, the following Sexuality Education lessons will be taught in 2026:</strong></h5>
-<h4>Primary 5</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p5_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p5_2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p5_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p5_3.png">
 </div>
-<h4>Primary 6</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p6_1.png">
 </div>
 <p><strong>Information for Parents</strong>
 </p>
