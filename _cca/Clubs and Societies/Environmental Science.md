@@ -5,125 +5,52 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<h3>Environmental Science</h3>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Day</strong>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Every Tuesday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>2:00 PM - 4:00 PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>CCA Teachers</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lily Tow Mdm Nancy Teo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>About the CCA</strong>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>The Environmental Science Club provides students with opportunities to
-explore environmental issues through hands-on activities, STEM-based projects,
-and sustainability challenges. Members are encouraged to think creatively
-and develop innovative solutions to real-world environmental problems.</p>
-<p></p>
-<p>Through experiments, research, and project-based learning, the club nurtures
-leadership, teamwork, and critical thinking skills. With guidance from
-teachers, students are empowered to take initiative, collaborate effectively,
-and contribute positively to the school and wider community.</p>
-<p></p>
-</td>
-</tr>
-</tbody>
+<table style="border-collapse: collapse; width: 100%; max-width: 850px; font-family: Lato, sans-serif; font-size: 18px; color: #484848; table-layout: fixed;">
+  <tbody>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; border-top: 0px solid #eee; border-bottom: 4px double #ccc; font-weight: 700;">
+        Environmental Science
+      </td>
+      <td style="padding: 6px 8px; border-top: 0px solid #eee; border-bottom: 4px double #ccc;">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+        Day
+      </td>
+      <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+        Tuesday
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+        Time
+      </td>
+      <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+        2:00 PM – 4:00 PM
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+        CCA Teachers
+      </td>
+      <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+        Mdm Lily Tow<br>
+        Mdm Nancy Teo
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; vertical-align: top; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+        About the CCA
+      </td>
+      <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+        The Environmental Science Club provides students with opportunities to explore environmental issues through hands-on activities, STEM-based projects, and sustainability challenges.<br><br>
+        Through experiments, research, and project-based learning, the club nurtures leadership, teamwork, and critical thinking skills. With guidance from teachers, students are empowered to take initiative, collaborate effectively, and contribute positively to the school and wider community.
+      </td>
+    </tr>
+  </tbody>
 </table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<h4><strong>Environmental Science</strong></h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thursday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2:00 PM - 4:00 PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>CCA Teachers</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lily Tow
-<br>Mdm Nancy Teo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>About the CCA</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Environmental Science Club provides students with opportunities to
-explore environmental issues through hands-on activities, STEM-based projects,
-and sustainability challenges. Members are encouraged to think creatively
-and develop innovative solutions to real-world environmental problems.</p>
-<p></p>
-<p>Through experiments, research, and project-based learning, the club nurtures
-leadership, teamwork, and critical thinking skills. With guidance from
-teachers, students are empowered to take initiative, collaborate effectively,
-and contribute positively to the school and wider community.</p>
-</td>
-</tr>
-</tbody>
-</table>
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/thumbnail%20(2).jpeg">
 </div>
