@@ -5,24 +5,68 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: tiptap
 ---
-<p>The Environmental Science CCA allows students to explore and extend their
-interests in Science and the environment.</p>
-<p>It aims to inculcate and deepen the love for Science and the environment
-through engaging and interesting hands-on inquiry activities, learning
-journeys and community involvement.</p>
-<p>The members work collaboratively with one another on the various projects
-to optimize their learning of both science-specific skills and 21st-century
-competencies.</p>
-<p><strong>Teachers-in-charge:</strong>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<h3> Environmental Science</h3>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
+</td>
+<td rowspan="1" colspan="2">
+<p>Every Tuesday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>2:00 PM - 4:00 PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA Teachers</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Lily Tow</p>
-</li>
-<li>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Nancy Teo</p>
-</li>
-</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>About the CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>The Environmental Science Club provides students with opportunities to
+explore environmental issues through hands-on activities, STEM-based projects,
+and sustainability challenges. Members are encouraged to think creatively
+and develop innovative solutions to real-world environmental problems.</p>
+<p></p>
+<p>Through experiments, research, and project-based learning, the club nurtures
+leadership, teamwork, and critical thinking skills. With guidance from
+teachers, students are empowered to take initiative, collaborate effectively,
+and contribute positively to the school and wider community.</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/thumbnail%20(2).jpeg">
 </div>
