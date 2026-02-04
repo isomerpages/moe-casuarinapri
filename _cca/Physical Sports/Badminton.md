@@ -56,7 +56,7 @@ The Badminton CCA also provides opportunities for students to participate in the
 </table>
 
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6106.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/Badminton_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -67,7 +67,7 @@ The Badminton CCA also provides opportunities for students to participate in the
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/badminton_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton/Badminton_3.jpg">
 </div>
 <p><a href="/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/" rel="noopener noreferrer nofollow" target="_blank">Back to CCA</a>
 </p>
