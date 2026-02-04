@@ -53,7 +53,14 @@ Members of the CCA are given opportunities to represent the school in the Nation
     </tr>
   </tbody>
 </table>
-
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball%20(Boys)/FBB_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball%20(Boys)/FBB_2.jpg">
+</div>
+<p></p>
 <table style="border-collapse: collapse; width: 100%; max-width: 850px; font-family: Lato, sans-serif; font-size: 18px; color: #484848; table-layout: fixed;">
   <tbody>
     <tr>
@@ -107,11 +114,16 @@ As members of the Floorball Girls CCA, students will have opportunities to repre
 
 
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball (Girls)/floorball_girls_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball%20(Girls)/FBG_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball (Girls)/floorball_girls_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball%20(Girls)/FBG_5.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball%20(Girls)/FBG_4.jpg">
+</div>
+<p></p>
 <p><a href="/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/" rel="noopener noreferrer nofollow" target="_blank">Back to CCA</a>
 </p>
