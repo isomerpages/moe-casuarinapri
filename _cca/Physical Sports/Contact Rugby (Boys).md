@@ -55,17 +55,19 @@ The Contact Rugby CCA is open to Primary 3 to Primary 6 students who demonstrate
 </table>
 
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC09525.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:50%;float:left" height="auto" width="100%" src="/images/IMG_6221.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/IMG_6210.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Contact%20Rugby/RUGBY_04.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Contact Rugby/rugby_1.jpg">
+<img style="width:100%" height="auto" width="100%" src="/images/CCA/Contact%20Rugby/RUGBY_03.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/CCA/Contact%20Rugby/RUGBY_01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Contact%20Rugby/RUGBY_02.jpg">
 </div>
 <p><a href="/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/" rel="noopener noreferrer nofollow" target="_blank">Back to CCA</a>
 </p>
