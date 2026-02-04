@@ -54,7 +54,54 @@ Members of the CCA are given opportunities to represent the school in the Nation
   </tbody>
 </table>
 
-
+<table style="border-collapse: collapse; width: 100%; max-width: 850px; font-family: Lato, sans-serif; font-size: 18px; color: #484848; table-layout: fixed;">
+  <tbody>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; border-top: 0px solid #eee; border-bottom: 4px double #ccc; font-weight: 700;font-size: 18px;">
+        Floorball (Girls)
+      </td>
+      <td style="padding: 6px 8px; border-top: 0px solid #eee; border-bottom: 4px double #ccc;">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;border-right: 1px solid #eee;font-weight: 600;font-size: 17px;">
+        Day
+      </td>
+      <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+        Tuesday<br>
+				Friday (selected students)
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;border-right: 1px solid #eee;font-weight: 600;font-size: 17px;">
+        Time
+      </td>
+      <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+        3:00 PM – 5:00 PM
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;border-right: 1px solid #eee;font-weight: 600;font-size: 17px;">
+        CCA Teachers
+      </td>
+      <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+        Mdm Faridah Yahiya<br>
+        Mdm Asmah Buang<br>
+				Mdm Zuliana Md Zain<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;border-right: 1px solid #eee;font-weight: 600;font-size: 17px;">
+        About the CCA
+      </td>
+      <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+Floorball is a high-energy, fast-paced sport that challenges players with its speed, intensity, and dynamic gameplay. The Floorball Girls CCA provides students with structured training opportunities to develop technical skills, physical fitness, and game awareness, while fostering commitment, discipline, teamwork, and a positive sporting attitude.<br><br>
+Beyond the court, the CCA supports students’ holistic development through engaging training sessions and competitive matches. Students are encouraged to build confidence, resilience, responsibility, and leadership skills as they learn to work effectively as a team.<br><br>
+As members of the Floorball Girls CCA, students will have opportunities to represent the school in the National School Games Floorball Championships (Junior and Senior Divisions). 
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 
