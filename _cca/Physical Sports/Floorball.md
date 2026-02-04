@@ -61,6 +61,11 @@ Members of the CCA are given opportunities to represent the school in the Nation
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball%20(Boys)/FBB_2.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball%20(Boys)/FBB_3.jpg">
+</div>
+<p></p>
+
 <table style="border-collapse: collapse; width: 100%; max-width: 850px; font-family: Lato, sans-serif; font-size: 18px; color: #484848; table-layout: fixed;">
   <tbody>
     <tr>
