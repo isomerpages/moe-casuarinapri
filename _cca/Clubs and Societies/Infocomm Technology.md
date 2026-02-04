@@ -44,9 +44,8 @@ variant: markdown
         About the CCA
       </td>
       <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
-The Infocomm Technology CCA provides students with opportunities to develop essential digital and technological skills through hands-on activities and project-based learning. Members are introduced to photography, videography, Microsoft Digital Making, photojournalism, and basic troubleshooting of laptops and related equipment.
-				<br>
-Through guided practice and collaborative projects, the CCA nurtures creativity, problem-solving, teamwork, and digital literacy. Students are encouraged to apply their skills meaningfully and responsibly, preparing them for future learning and real-world technological challenges
+The Infocomm Technology CCA provides students with opportunities to develop essential digital and technological skills through hands-on activities and project-based learning. Members are introduced to photography, videography, Microsoft Digital Making, photojournalism, and basic troubleshooting of laptops and related equipment.<br><br>
+Through guided practice and collaborative projects, the CCA nurtures creativity, problem-solving, teamwork, and digital literacy. Students are encouraged to apply their skills meaningfully and responsibly, preparing them for future learning and real-world technological challenges.
       </td>
     </tr>
   </tbody>
