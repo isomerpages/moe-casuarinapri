@@ -5,28 +5,53 @@ description: ""
 third_nav_title: Clubs and Societies
 variant: markdown
 ---
-<p>At Infocomm Technology CCA, students are provided with varied activities
-and programmes to hone and deepen their knowledge and skills in information,
-communication and technology.</p>
-<p>Students are given access to the latest technology to express their thoughts
-and ideas into visual forms. Students are given the opportunity to create
-a video based on a storyboard. This includes photography skills, video
-editing skills and post production tools.</p>
-<p>In addition, students participate in interesting programmmes and activities
-such as coding and using an online website to create 3D objects.</p>
-<p><strong>Teachers-in-charge:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Jackson Yeo</p>
-</li>
-<li>
-<p>Miss Nashima Banu</p>
-</li>
-<li>
-<p>Mr Daniel Lee</p>
-</li>
-</ul>
+<table style="border-collapse: collapse; width: 100%; max-width: 850px; font-family: Lato, sans-serif; font-size: 18px; color: #484848; table-layout: fixed;">
+  <tbody>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; border-top: 0px solid #eee; border-bottom: 4px double #ccc; font-weight: 700;font-size: 18px;">
+        Infocomm Technology
+      </td>
+      <td style="padding: 6px 8px; border-top: 0px solid #eee; border-bottom: 4px double #ccc;">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;border-right: 1px solid #eee;font-weight: 600;font-size: 17px;">
+        Day
+      </td>
+      <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+        Tuesday
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;border-right: 1px solid #eee;font-weight: 600;font-size: 17px;">
+        Time
+      </td>
+      <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+        2:00 PM – 4:00 PM
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;border-right: 1px solid #eee;font-weight: 600;font-size: 17px;">
+        CCA Teachers
+      </td>
+      <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+        Mr Jackson Yeo Choon Kuan<br>
+        Miss Nashima Banu
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;border-right: 1px solid #eee;font-weight: 600;font-size: 17px;">
+        About the CCA
+      </td>
+      <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+The Infocomm Technology CCA provides students with opportunities to develop essential digital and technological skills through hands-on activities and project-based learning. Members are introduced to photography, videography, Microsoft Digital Making, photojournalism, and basic troubleshooting of laptops and related equipment.
+				<br>
+Through guided practice and collaborative projects, the CCA nurtures creativity, problem-solving, teamwork, and digital literacy. Students are encouraged to apply their skills meaningfully and responsibly, preparing them for future learning and real-world technological challenges
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/IMG_8553.jpeg">
 </div>
