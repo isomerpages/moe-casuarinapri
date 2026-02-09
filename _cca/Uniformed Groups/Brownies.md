@@ -19,7 +19,7 @@ variant: markdown
         Day
       </td>
       <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
-        Tuesday
+        Tuesdays
       </td>
     </tr>
     <tr>
@@ -64,4 +64,10 @@ Brownies will also attain Brownie Badges:<br>
 
 
 
-<div class="isomer-image-wrapper"><img style="width:50%;float:left" height="auto" width="100%" src="/images/20190430_152455.jpeg"></div><div class="isomer-image-wrapper"><img style="width:50%;float:left" height="auto" width="100%" src="/images/20190430_154945.jpeg"></div><div class="isomer-image-wrapper"><img style="width:50%;float:left" height="auto" width="100%" src="/images/20190726_150427.jpeg"></div><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/20190726_153555.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/brownies_1.jpg"></div><p><a href="/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/" rel="noopener noreferrer nofollow" target="_blank">Back to CCA</a></p>
+<div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/CCA/Brownies/Gardens_By_the_Bay.jpg"></div><p></p>
+<div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/CCA/Brownies/Eco_Fiesta.jpg"></div><p></p>
+<div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/CCA/Brownies/National_Day_Observance_Ceremony.jpg"></div><p></p>
+<div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/CCA/Brownies/Brownies_CCA_session_activity.jpg"></div><p></p>
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/brownies_1.jpg"></div>
+
+<p><a href="/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/" rel="noopener noreferrer nofollow" target="_blank">Back to CCA</a></p>
