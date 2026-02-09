@@ -53,6 +53,14 @@ Beyond the school, choristers give back to the community through outreach perfor
 </table>
 
 
+<div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/CCA/Choir/Musical.jpg"></div>
+<p></p>
+<div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/CCA/Choir/Green_Bonds___ALP_Eco_Fiesta__Performing_for_the_Elderly_.jpg"></div>
+<p></p>
+<div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/CCA/Choir/National_Day.jpg"></div>
+<p></p>
+<div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/CCA/Choir/CPS_Concert25__529.jpg"></div>
+<p></p>
 
 
-<div class="isomer-image-wrapper"><img style="width:50%;float:left" height="auto" width="100%" src="/images/IMG_9864.jpeg"></div><div class="isomer-image-wrapper"><img style="width:50%;float:left" height="auto" width="100%" src="/images/IMG_9870.jpeg"></div><div class="isomer-image-wrapper"><img style="width:50%;float:left" height="auto" width="100%" src="/images/IMG_9878.jpeg"></div><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/IMG_9883.jpeg"></div><p></p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/choir_1.jpg"></div><p><a href="/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/" rel="noopener noreferrer nofollow" target="_blank">Back to CCA</a></p>
+<p><a href="/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/" rel="noopener noreferrer nofollow" target="_blank">Back to CCA</a></p>
