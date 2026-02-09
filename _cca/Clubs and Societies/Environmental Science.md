@@ -19,7 +19,7 @@ variant: markdown
         Day
       </td>
       <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
-        Tuesday
+        Tuesdays
       </td>
     </tr>
     <tr>
