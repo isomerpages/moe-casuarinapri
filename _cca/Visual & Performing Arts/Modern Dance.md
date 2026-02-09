@@ -52,23 +52,20 @@ The programme also emphasises teamwork and collaboration, as students learn to s
 </table>
 
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/IMG_0001.jpeg">
+<img style="width:100%" height="auto" width="100%" src="/images/CCA/Modern%20Dance/20250704_163423.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/IMG_0020.jpeg">
+<img style="width:100%" height="auto" width="100%" src="/images/CCA/Modern%20Dance/Picture1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/DSC_8176.jpeg">
+<img style="width:100%" height="auto" width="100%" src="/images/CCA/Modern%20Dance/CPS_Concert25__725.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/20190704-_AR38624.jpeg">
+<img style="width:100%" height="auto" width="100%" src="/images/CCA/Modern%20Dance/20250715_143035.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Mod_dance_1.jpg">
-</div>
 <p><a href="/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/" rel="noopener noreferrer nofollow" target="_blank">Back to CCA</a>
 </p>
