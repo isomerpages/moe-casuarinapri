@@ -1,8 +1,58 @@
 ---
 title: Scouts
-permalink: /cca/Uniformed-Groups/Scouts/
+permalink: /cca/uniformed-groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
-variant: tiptap
+variant: markdown
 ---
-<p>Scouts CCA aims to inculcate in students self-reliance, resilience, discipline and a spirit of service to others.</p><p>Values in Scouting:</p><ul data-tight="true" class="tight"><li><p>Teamwork</p></li><li><p>Independence</p></li><li><p>Leadership</p></li><li><p>Holistic development</p></li></ul><p>In Scouts CCA, students are developed to be trusted, loyal, disciplined and considerate.</p><p>Cub Scouts are encouraged to have the courage when facing any difficulties. They are developed to work as a team by making friends, establishing and maintaining harmonious relations.</p><p>Cub scouts from Casuarina Primary School participate in meaningful activities to build good character and be developed holistically.</p><p><strong>Teachers-in-charge of Cadet Scouts:</strong></p><ul data-tight="true" class="tight"><li><p>Miss Samantha Peh</p></li><li><p>Mdm Aliza Mohd Shariff</p></li><li><p>Ms Sarah Yew</p></li></ul><div class="isomer-image-wrapper"><img style="width:50%;float:left" height="auto" width="100%" src="/images/CSLC%20Camp%202.jpeg"></div><div class="isomer-image-wrapper"><img style="width:50%;float:left" height="auto" width="100%" src="/images/CSLC%20Camp.jpeg"></div><div class="isomer-image-wrapper"><img style="width:50%;float:left" height="auto" width="100%" src="/images/Cub%20Scouts%20Mind%20Quiz.jpeg"></div><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/Gangshow.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/scouts_1.jpg"></div><p><a href="/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/" rel="noopener noreferrer nofollow" target="_blank">Back to CCA</a></p>
+<table style="border-collapse: collapse; width: 100%; max-width: 850px; font-family: Lato, sans-serif; font-size: 18px; color: #484848; table-layout: fixed;">
+  <tbody>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; border-top: 0px solid #eee; border-bottom: 4px double #ccc; font-weight: 700;font-size: 18px;">
+        Scouts
+      </td>
+      <td style="padding: 6px 8px; border-top: 0px solid #eee; border-bottom: 4px double #ccc;">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;border-right: 1px solid #eee;font-weight: 600;font-size: 17px;">
+        Day
+      </td>
+      <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+        Tuesdays
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;border-right: 1px solid #eee;font-weight: 600;font-size: 17px;">
+        Time
+      </td>
+      <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+        2:00 PM – 4:00 PM
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;border-right: 1px solid #eee;font-weight: 600;font-size: 17px;">
+        CCA Teachers
+      </td>
+      <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+        Mdm Aliza Bte Mohammed Shariff<br>
+        Ms Khaireen Faezah Bte Abdul Rahim
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 6px 8px; width: 200px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;border-right: 1px solid #eee;font-weight: 600;font-size: 17px;">
+        About the CCA
+      </td>
+      <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+The Cub Scouts CCA provides students with opportunities to develop character, leadership, and essential life skills through engaging and meaningful activities. Guided by the Cub Scout Promise and Law, Cubs learn values such as responsibility, teamwork, resilience, and respect for others.<br><br>Through hands-on experiences including outdoor programmes, team challenges, badge activities, and community service, Cubs develop problem-solving skills, independence, and confidence. Leadership is nurtured as Cubs take on responsibilities within their Sixes, fostering self-discipline and a strong sense of camaraderie.<br><br>Overall, the programme supports students’ holistic development by nurturing confident, caring, and resilient learners with positive attitudes and strong moral values.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/CSLC%20Camp%202.jpeg"></div>
+<p></p>
+<div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/CCA/Scouts/WhatsApp_Image_2026_02_06_at_17_56_29.jpg"></div> <p></p>
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/scouts_1.jpg"></div>
+<p></p>
+<p><a href="/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/" rel="noopener noreferrer nofollow" target="_blank">Back to CCA</a></p>
