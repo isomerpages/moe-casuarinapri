@@ -55,16 +55,19 @@ Beyond music-making, the CCA instills values such as discipline, resilience, res
   </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width:50%;float:left" height="auto" width="100%" src="/images/IMG_8140.jpeg">
+<img style="width:100%" height="auto" width="100%" src="/images/CCA/Concert%20Band/SOTA_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%;float:left" height="auto" width="100%" src="/images/IMG_0163.jpeg">
+<img style="width:100%" height="auto" width="100%" src="/images/IMG_0163.jpeg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/IMG_0168.jpeg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/">
+<img style="width: 100%;" height="auto" width="100%" src="/images/CCA/Concert%20Band/ND_2025.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -72,7 +75,8 @@ Beyond music-making, the CCA instills values such as discipline, resilience, res
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/band_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Concert%20Band/SOTA_1.jpg">
 </div>
+<p></p>
 <p><a href="/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/" rel="noopener noreferrer nofollow" target="_blank">Back to CCA</a>
 </p>
