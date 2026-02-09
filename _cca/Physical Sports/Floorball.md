@@ -19,8 +19,7 @@ variant: markdown
         Day
       </td>
       <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
-        Tuesday<br>
-				Friday (selected students)
+Tuesdays &amp; Fridays (selected students)
       </td>
     </tr>
     <tr>
@@ -80,8 +79,7 @@ Members of the CCA are given opportunities to represent the school in the Nation
         Day
       </td>
       <td style="padding: 6px 8px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
-        Tuesday<br>
-				Friday (selected students)
+Tuesdays &amp; Fridays (selected students)
       </td>
     </tr>
     <tr>
