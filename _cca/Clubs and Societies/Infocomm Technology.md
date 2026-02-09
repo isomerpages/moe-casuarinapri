@@ -52,17 +52,20 @@ Through guided practice and collaborative projects, the CCA nurtures creativity,
 </table>
 
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/IMG_8553.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/IMG_8556.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/IMG_8573.jpeg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/CCA/Infocomm%20Tech/IMG_E6756.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/infocomm_tech_1.jpg">
+<img style="width: 100%;" height="auto" width="100%" src="/images/CCA/Infocomm%20Tech/IMG_7282.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/CCA/Infocomm%20Tech/IMG_7969.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm%20Tech/IMG_6058.jpg">
+</div>
+<p></p>
 <p><a href="/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/" rel="noopener noreferrer nofollow" target="_blank">Back to CCA</a>
 </p>
