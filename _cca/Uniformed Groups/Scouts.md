@@ -50,9 +50,9 @@ The Cub Scouts CCA provides students with opportunities to develop character, le
   </tbody>
 </table>
 
-
-
-
-
-
-<div class="isomer-image-wrapper"><img style="width:50%;float:left" height="auto" width="100%" src="/images/CSLC%20Camp%202.jpeg"></div><div class="isomer-image-wrapper"><img style="width:50%;float:left" height="auto" width="100%" src="/images/CSLC%20Camp.jpeg"></div><div class="isomer-image-wrapper"><img style="width:50%;float:left" height="auto" width="100%" src="/images/Cub%20Scouts%20Mind%20Quiz.jpeg"></div><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/Gangshow.jpeg"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/scouts_1.jpg"></div><p><a href="/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/" rel="noopener noreferrer nofollow" target="_blank">Back to CCA</a></p>
+<div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/CSLC%20Camp%202.jpeg"></div>
+<p></p>
+<div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/CCA/Scouts/WhatsApp_Image_2026_02_06_at_17_56_29.jpg"></div> <p></p>
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/scouts_1.jpg"></div>
+<p></p>
+<p><a href="/caps-experience/Social-Moral-Emotional/Co-Curricular-Activities-CCA/" rel="noopener noreferrer nofollow" target="_blank">Back to CCA</a></p>
