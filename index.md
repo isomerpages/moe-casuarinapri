@@ -15,6 +15,14 @@ sections:
         - title: HIGHLIGHTS
           description: ""
           url: /highlights/
+  - infopic:
+      subtitle: MK@Casuarina
+      id: infopic
+      description: Infopic description
+      button: Click here to find out more
+      url: https://www.casuarinapri.moe.edu.sg/moe-kindergarten-casuarina/announcement/
+      image: /images/WhatsApp_Image_2026_02_12_at_3_30_53_PM.jpg
+      alt: Image alt text
   - infobar:
       title: Central Kitchen Meal Model (CKMM)
       id: infobar
