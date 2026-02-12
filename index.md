@@ -15,6 +15,17 @@ sections:
         - title: HIGHLIGHTS
           description: ""
           url: /highlights/
+  - infopic:
+      subtitle: MK@Casuarina
+      id: infopic
+      description: Spread the word! If your child was born in 2022, join us to learn
+        about MK’s curriculum, programmes and facilities. Scan the QR code to
+        register!
+      button: Click here to find out more
+      url: https://www.casuarinapri.moe.edu.sg/moe-kindergarten-casuarina/announcement/
+      image: /images/WhatsApp_Image_2026_02_12_at_3_30_53_PM.jpg
+      alt: Image alt text
+      title: MK Open House 2026
   - infobar:
       title: Central Kitchen Meal Model (CKMM)
       id: infobar
