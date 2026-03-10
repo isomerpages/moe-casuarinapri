@@ -6,13 +6,16 @@ variant: tiptap
 ---
 <h3><strong>MK@Casuarina Open House 2026</strong></h3>
 <hr>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_12_at_3_30_53_PM.jpg">
+<p><a href="/files/MK@Casuarina/Announcement/2026_MK_OH_Presentation_Deck__Final_.pdf" rel="noopener nofollow" target="_blank">2026 MK Open House Information Slides</a>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7PxTbicwj24?si=K27Ufmv4jYIj56WF"></iframe>
 </div>
-<p></p>
-<h3><strong>2026 MK Registration Exercise (For 2027 Intake)</strong></h3>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6I2rCG1W_o4?si=G-CtBHSGKcyHcjCg"></iframe>
+</div>
+<h3><strong>MK Registration Exercise (For 2027 Intake)</strong></h3><a class="isomer-image-wrapper" href="https://go.gov.sg/mk-register"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Casuarina /MK.png"></a>
 <hr>
-<p>More information coming soon !</p>
+<p></p>
 <p></p>
 <p></p>
