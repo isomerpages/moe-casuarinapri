@@ -18,9 +18,9 @@ variant: tiptap
 find out more.</p>
 <h3>Request to transfer into MK@Casuarina</h3>
 <hr>
-<p>Click <a href="https://go.gov.sg/mkcs-trf-2025" rel="noopener noreferrer nofollow" target="_blank">here</a> or
+<p>Click <a href="https://go.gov.sg/mkca-waitlist-2026" rel="noopener noreferrer nofollow" target="_blank">here</a> or
 scan the QR code below to apply.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 300px;" height="auto" width="100%" alt="" src="/images/mkcs_trf_2025.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK@Casuarina /WhatsApp_Image_2026_04_07_at_10_25_17_AM.jpg">
 </div>
 <p></p>
