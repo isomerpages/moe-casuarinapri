@@ -2,6 +2,7 @@ collections:
   caps-family:
     output: true
     order:
+      - About Us/Acceptable Use Policy (AUP) for use of EdTech Resources.md
       - About Us/The Principal's Foreword.md
       - About Us/.keep
       - About Us/Vision, Mission & Values.md
