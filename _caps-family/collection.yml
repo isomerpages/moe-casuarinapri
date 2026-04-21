@@ -2,9 +2,8 @@ collections:
   caps-family:
     output: true
     order:
-      - About Us/Acceptable Use Policy (AUP) for use of EdTech Resources.md
-      - About Us/The Principal's Foreword.md
       - About Us/.keep
+      - About Us/The Principal's Foreword.md
       - About Us/Vision, Mission & Values.md
       - About Us/School Crest & Motto.md
       - About Us/School Song.md
@@ -13,6 +12,7 @@ collections:
       - About Us/School Calendar.md
       - About Us/School Hours.md
       - About Us/School Homework Policy.md
+      - About Us/Acceptable Use Policy (AUP) for use of EdTech Resources.md
       - Partnership.md
       - Photo Gallery/2023.md
       - Photo Gallery/.keep
