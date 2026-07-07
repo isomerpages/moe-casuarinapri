@@ -160,10 +160,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Low Xiaoxuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (P5-6)</p>
+<p>Assistant Year Head (P5-6)</p>
 </td>
 </tr>
 </tbody>
@@ -229,14 +229,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / CCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Low Xiaoxuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Special Education Needs</p>
 </td>
 </tr>
 <tr>
