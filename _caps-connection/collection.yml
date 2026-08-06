@@ -2,8 +2,6 @@ collections:
   caps-connection:
     output: true
     order:
-      - For Vendors/School Bus Advertisement.md
-      - For Vendors/.keep
       - CAPS Open House/.keep
       - CAPS Open House/Our Story.md
       - CAPS Open House/Our Programmes.md
@@ -17,4 +15,6 @@ collections:
       - For Parents/Support for Home Based Learning.md
       - For Students.md
       - For Teachers.md
+      - For Vendors/.keep
+      - For Vendors/School Bus Advertisement.md
       - For Vendors.md
