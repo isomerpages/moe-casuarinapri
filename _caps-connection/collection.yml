@@ -2,6 +2,7 @@ collections:
   caps-connection:
     output: true
     order:
+      - For Vendors/.keep
       - CAPS Open House/.keep
       - CAPS Open House/Our Story.md
       - CAPS Open House/Our Programmes.md
