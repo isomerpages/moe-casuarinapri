@@ -11,7 +11,8 @@ Procedure below.</p>
 <h4><strong><sub>Service Requirements</sub></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Call for Proposal</p>
+<p><a href="/files/1__CALL_FOR_PROPROSAL_FOR_APPOINTMENT_OF_SCHOOL_BUS_OPERATOR_TO_PROVIDE_SCHOOL_BUS_SERVICES_CasuarinaPri_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
+</p>
 </li>
 <li>
 <p>Terms and Conditions for School Bus Operator to Provide School Bus Services</p>
