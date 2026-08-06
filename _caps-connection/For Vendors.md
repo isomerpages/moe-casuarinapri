@@ -4,3 +4,4 @@ permalink: /for-vendors/
 variant: tiptap
 description: ""
 ---
+<p></p>
