@@ -50,4 +50,13 @@ closing date, 20 August 2026 to the School's General Office.</p>
 <p>Contact Person: Mdm Muslihah</p>
 </li>
 </ul>
+<h4><strong><sub>Getting to Casuarina Primary School</sub></strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Buses along Pasir Ris Street 41: 358</p>
+</li>
+<li>
+<p>Buses along Pasir Ris Drive 6: 12, 21, 358</p>
+</li>
+</ul>
 <p></p>
