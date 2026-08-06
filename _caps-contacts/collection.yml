@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Contact Us.md
-      - Our Vendors/School Bus Advertisement.md
       - Our Vendors/.keep
       - Our Vendors/School Bus.md
       - Our Vendors/School Uniform.md
       - Our Vendors/School Bookshop.md
       - Our Vendors/School Dentist.md
       - Our Vendors/Student Care Services.md
+      - Our Vendors/School Bus Advertisement.md
