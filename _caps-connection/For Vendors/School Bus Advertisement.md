@@ -6,8 +6,8 @@ description: ""
 third_nav_title: For Vendors
 ---
 <h1><strong><sup><sub>School Bus Advertisement</sub></sup></strong></h1>
-<p><sup>To apply, please refer to the Service Requirements and the Application Procedure below.</sup>
-</p>
+<p>To apply, please refer to the Service Requirements and the Application
+Procedure below.</p>
 <h4><strong><sub>Service Requirements</sub></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
