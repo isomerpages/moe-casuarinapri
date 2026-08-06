@@ -15,16 +15,19 @@ Procedure below.</p>
 </p>
 </li>
 <li>
-<p>Terms and Conditions for School Bus Operator to Provide School Bus Services</p>
+<p><a href="/files/3__TC_for_School_Bus_Operator_to_Provide_School_Bus_Services__For_Single_Bus_Service__V2.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Services</a>
+</p>
 </li>
 <li>
-<p>Request for School Bus Services</p>
+<p><a href="/files/4__Request_for_School_Bus_Service_and_TC_Governing_the_Requests_for_Services___For_Single_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services</a>
+</p>
 </li>
 </ol>
 <h4><strong><sub>Application Procedure</sub></strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Complete the Call for Proposal - Annex A (Information Required from Vendor)</p>
+<p>Complete the <a href="/files/2__Information_from_Vendor__Annex_A__V2.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A</a> (Information
+Required from Vendor)</p>
 </li>
 <li>
 <p>Submit the completed Call for Proposal - Annex A by closing date, DD MM
