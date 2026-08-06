@@ -30,8 +30,8 @@ Procedure below.</p>
 Required from Vendor)</p>
 </li>
 <li>
-<p>Submit the completed Call for Proposal - Annex A by closing date, DD MM
-2026.</p>
+<p>Submit the completed Call for Proposal - Annex A <strong>in a sealed envelope</strong> by
+closing date, 20 August 2026 to the School's General Office.</p>
 </li>
 </ol>
 <ul data-tight="true" class="tight">
